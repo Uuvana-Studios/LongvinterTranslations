@@ -91,7 +91,7 @@ msgstr ""
 #. SourceLocation:	/Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
 #: /Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
 msgid "There's items inside!"
-msgstr "이 안에 아이템이 들어있다!"
+msgstr "안에 아이템이 들어있습니다!"
 
 #. Key:	7B667B93411A45745C289EBA12FCF8CF
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_PlayerPlaced.A_Vendor_PlayerPlaced_C:ExecuteUbergraph_A_Vendor_PlayerPlaced [Script Bytecode]
@@ -10945,7 +10945,7 @@ msgstr "현재의 은신처는 임시적이다. 더 영구적이고 기능적인
 #: /Game/Blueprints/NewQuests/DT_AllQuests.DT_AllQuests.Tutorial5.TranslatedName_21_B9A5ECBC40C4C2D839C7B9A851A1986B
 msgctxt "DT_AllQuests"
 msgid "Upgrade Time"
-msgstr "강화 시간"
+msgstr "업그레이드 시간"
 
 #. Key:	Tutorial6_Description
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_AllQuests.DT_AllQuests.Tutorial6.Description_8_665031484F84F4453D05189416ACAD65
@@ -10973,7 +10973,7 @@ msgstr "집에 현대적 편의시설을 도입할 시간입니다. 오두막에
 #: /Game/Blueprints/NewQuests/DT_AllQuests.DT_AllQuests.Tutorial7.TranslatedName_21_B9A5ECBC40C4C2D839C7B9A851A1986B
 msgctxt "DT_AllQuests"
 msgid "Electrifying Your Cabin"
-msgstr "캐빈 전력 공급"
+msgstr "오두막에 전력 공급하기"
 
 #. Key:	CatchFish10_Description
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_AllTasks.DT_AllTasks.CatchFish10.Description_12_D8207A4B495263BEED9C6A9F794B18FF
@@ -11837,13 +11837,13 @@ msgstr "클릭해서 원하는 만큼 Mk를 떨어뜨릴  수 있어요."
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgid "Oh hi again"
-msgstr "안녕 또 만나네"
+msgstr "어, 또 만났네요!"
 
 #. Key:	19C2C65E4D70553213098C94F0F9C895
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgid "Seems we ended up somewhere strange"
-msgstr "이상한 곳에 도착했군"
+msgstr "이상한 곳에 먹거리도착했군"
 
 #. Key:	6DF4306F47F41A940AFBA0A0419E794A
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
@@ -13492,7 +13492,7 @@ msgstr "항상 모닥불을 챙겨 다니세요."
 #: /Game/Blueprints/NewQuests/DT_Dialogue.DT_Dialogue.SgtLakeWrongDirection.DialogueText_3_A9C5DFDC46C401473F93E1A1C4D4CD4A
 msgctxt "DT_Dialogue"
 msgid "I don't think the base camp is in this direction..."
-msgstr "베이스 캠프가 이쪽 방향이 아닌거 같은데..."
+msgstr "잠깐, 그쪽은 잘못된 방향이에요!"
 
 #. Key:	025E80F642C22EB08AD5B5B32B27E0CD
 #. SourceLocation:	/Game/Blueprints/NewQuests/QuestManagerComponent.QuestManagerComponent_C:CompleteQuest [Script Bytecode]
@@ -15111,7 +15111,7 @@ msgstr "당신을 기다리고 있었어요!"
 #: /Game/Blueprints/Triggers/A_TutorialActionTrigger.A_TutorialActionTrigger_C:ExecuteUbergraph_A_TutorialActionTrigger [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Press"
-msgstr "누르기"
+msgstr ""
 
 #. Key:	34D881604015DCA144D12390C593FF75
 #. SourceLocation:	/Game/Blueprints/Vehicles/Boats/A_Boat.A_Boat_C:ExecuteUbergraph_A_Boat [Script Bytecode]
@@ -16046,7 +16046,7 @@ msgstr "발송물"
 #: /Game/ThirdPersonCPP/Blueprints/VendorComponent.VendorComponent_C:ExecuteUbergraph_VendorComponent [Script Bytecode]
 #: /Game/Widgets/BoatTravel/UMG_BoatTravel_Content.UMG_BoatTravel_Content_C:ExecuteUbergraph_UMG_BoatTravel_Content [Script Bytecode]
 msgid "Not enough Mk"
-msgstr "마크가 부족합니다"
+msgstr "Mk가 부족합니다"
 
 #. Key:	E4F0DEF54FC42034EE4CC78B1A15F3D4
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.T_Coordinates_1.Text
@@ -17974,49 +17974,49 @@ msgstr "보통 1초 정도 걸립니다"
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Eat this Cake"
-msgstr "이 케이크를 먹으세요"
+msgstr "이 케이크를 드세요."
 
 #. Key:	09FED6CC4443640E5A83BDA28079818B
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Vendor has Solar Panels"
-msgstr "판매자가 태양광 패널을 가지고 있음"
+msgstr "자판기에 태양광 패널을 팔고 있어요."
 
 #. Key:	0BDB95234F50200330C155AE6E913545
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Oh, dammit! You don't have Power"
-msgstr "맙소사! 당신은 힘이 없군요"
+msgstr "아 이런! 전력이 부족하네요."
 
 #. Key:	13DDD57C46E446A84C0DB08B650CC826
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Stop, let's warm up!"
-msgstr "멈춰, 준비 운동 좀 하자!"
+msgstr "잠깐, 불 피우고 몸 좀 녹이죠!"
 
 #. Key:	16C8275B432C0FB364621CA443EC999A
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You should place your Tent next to my cabin!"
-msgstr "내 오두막 옆에 텐트를 설치해야 합니다!"
+msgstr "제 집 옆에 텐트를 설치하세요!"
 
 #. Key:	1932065F4FC2A62656FD02BA53C70C06
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Here is a Container for you to put inside the Tent"
-msgstr "텐트 안에 넣을 컨테이너입니다"
+msgstr "텐트 안에 둘 보관함이에요."
 
 #. Key:	1B75F85740025ABEB909BC83C92E19DF
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Hope that bird didn't suffer"
-msgstr "그 새가 고통받지 않았기를 바랍니다"
+msgstr "그 새가 편안하게 갔기를 바랍니다."
 
 #. Key:	1BDFD6654D0ED77A1762EEA9A6ECBB44
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Then you can buy the ticket to fly out"
-msgstr "그러면 비행기 표를 구매할 수 있습니다"
+msgstr "그러면 섬에 갈 수 있는 표를 구매할 수 있습니다"
 
 #. Key:	1CD857E745EB66A9A7E943BBC92494AC
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18029,19 +18029,19 @@ msgstr "떠날 준비가 되면 말해주세요"
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You are now ready"
-msgstr "이제 준비 완료되었습니다"
+msgstr "이제 준비가 다 됐네요!"
 
 #. Key:	2A896DB2425ED5011B6C2B91D4DB9787
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Good choice for hunting"
-msgstr "사냥에 좋은 선택"
+msgstr "사냥하기 딱 좋은 물건이죠."
 
 #. Key:	2D80DF6D4E0AB3B9E41CEFA0C15DB1BA
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Watch out! Guards!"
-msgstr "조심해! 경비병!"
+msgstr "조심하세요! 경비병이에요!"
 
 #. Key:	2FA0317C4DC3900A540F0C8E08CB3018
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18059,13 +18059,13 @@ msgstr "물고기가 빙빙 돌고 있는게 보일거에요."
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "But remember buy Wood & Matches so we can warm up"
-msgstr "하지만 몸을 따뜻하게 유지할 수 있도록 모닥불을 챙기능 것도 잊지 마세요."
+msgstr "하지만 몸을 따뜻하게 유지할 수 있도록 모닥불을 챙기는 것도 잊지 마세요."
 
 #. Key:	3E6DCF844AF081CFE2D923B84FCC03AD
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "I just remembered something..."
-msgstr "방금 무언가가 생갔났어요..."
+msgstr "방금 무언가가 생각났어요.."
 
 #. Key:	3F1D30F94B2279CB81B10094EAE07AE1
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18077,19 +18077,19 @@ msgstr "작업대에서 업그레이드하세요."
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You need to place the Workbench inside your tent"
-msgstr "작업대를 텐트 안에 배치해야 합니다"
+msgstr "작업대를 텐트 안에 설치해야해요."
 
 #. Key:	44CD52B840BD085DA2FE808ADE9C0832
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Your Ammo is low. Here's more!"
-msgstr "탄약이 부족합니다. 더 보충해 드립니다!"
+msgstr "탄약이 얼마 없네요. 더 드릴게요!"
 
 #. Key:	458B45284A768A8D9D6AB9ABC9E314C3
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You can also fish anywhere by clicking the water."
-msgstr "물을 클릭하면 어디서든 낚시할 수 있습니다."
+msgstr "물을 클릭하면 어디서든 낚시할 수 있어요.."
 
 #. Key:	467A973240D5C4CEDFE16DB3696B1AFD
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18101,37 +18101,37 @@ msgstr "에너지가 부족합니다."
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "I have excess wood in a chest in my yard"
-msgstr "제 집 마당 상자에 남는 목재가 좀 있어요"
+msgstr "제 집 마당 상자에 남는 목재가 좀 있어요."
 
 #. Key:	5004570E47609923F80F7CABEE9DBBAF
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Let's go pew pew!"
-msgstr "바리바리 쏘자!"
+msgstr "탕탕 쏘러 가보죠!"
 
 #. Key:	5480A617444D881CFD16B3A35EC923CF
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "So you don't have to start from scratch again"
-msgstr "다시 처음부터 시작할 필요가 없도록"
+msgstr "처음부터 다시 시작하지 않아도 돼요."
 
 #. Key:	582979674807F197801FB59666478CA5
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Vendor sells Light Bulbs"
-msgstr "상인이 전구를 판매합니다"
+msgstr "자판기에서 전구를 팔고있어요."
 
 #. Key:	664EA609447F1DA409F38CB6D2AFAF21
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Try cooking a berry salad"
-msgstr "베리 샐러드를 만들어 보세요"
+msgstr "베리 샐러드를 만들어 보세요."
 
 #. Key:	67263A3E4DD75EE166F52F938B25A92E
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "This isn't what I had in mind"
-msgstr "내 생각과는 다르네"
+msgstr "제 생각했던 거랑 좀 다르네요."
 
 #. Key:	688CC10F4598BB3395D14898B1A34704
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18149,13 +18149,13 @@ msgstr "클릭하여 아이템을 장착해보세요!"
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Let's take a moment to warm up by the Campfire"
-msgstr "모닥불 옆에서 잠시 몸을 녹여 보자"
+msgstr "모닥불 옆에서 잠시 몸을 녹여보죠."
 
 #. Key:	75CFBAC54C0D271B9A184BB2B1507B8E
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You are the money king!"
-msgstr "당신은 돈의 왕이십니다!"
+msgstr "완전 부자시네요!"
 
 #. Key:	8069857E4EC25B2321F712816BED1251
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18167,19 +18167,19 @@ msgstr "요리를 할 때 맛을 낼 수 있는 재료를 아무거나 추가할
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Vendor sells the tickets."
-msgstr "상인이 티켓을 판매합니다."
+msgstr "자판기에서 티켓을 팔고있어요."
 
 #. Key:	87030CDE4E5405B98A3F7F960A374F04
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You're free to have it."
-msgstr "당신이 갖고 싶으면 가져도 돼요."
+msgstr "갖고 싶으면 가지셔도 돼요."
 
 #. Key:	87A660414F08E94CAE3C06AE715CBA9F
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Wait! Your Energy is low."
-msgstr "잠깐! 에너지가 부족합니다."
+msgstr "잠깐만요! 에너지가 부족해요."
 
 #. Key:	8E19C91448B2BCFC06CE62ADF05F1717
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18197,7 +18197,7 @@ msgstr "Longvinter Island에서 당신을 봤었어요!"
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Oh you found it. Now lets go test it!"
-msgstr "오, 찾았네. 이제 시험해보자!"
+msgstr "오, 찾았네요. 시험해 볼까요?"
 
 #. Key:	92759ADE4BE3E0BB341B03AA4D269D48
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18209,43 +18209,43 @@ msgstr "훌륭합니다! 충분할 것 같네요"
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "I found it from my pocket"
-msgstr "제 주머니에 들어 있었네요"
+msgstr "제 주머니에 들어있었어요."
 
 #. Key:	9618D064477306705DE94BB43F3A2261
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Before it starts to generate power"
-msgstr "전력 생산을 시작하기 전"
+msgstr "전기가 들어오기 전에"
 
 #. Key:	9828B6454E302322E9FD02A953587612
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Looks cozy in here!"
-msgstr "여기 아늑해 보이네!"
+msgstr "여기 꽤 아늑하네요!"
 
 #. Key:	A5E1499049782D0EACED16B20BFD78F3
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "I just remembered"
-msgstr "방금 생각났어요"
+msgstr "방금 생각났어요."
 
 #. Key:	AACE46394B4BFAD1354EBE9D331C95D6
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Seems to be ecological food harvesting"
-msgstr "생태계적 음식 수확으로 보임"
+msgstr "친환경적인 먹거리 채집이네요."
 
 #. Key:	AD27DF55480DC2B45F864F8675F780E0
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Just add items to the Campfire"
-msgstr "캠프파이어에 아이템을 추가하세요"
+msgstr "모닥불에 아이템을 넣어보세요."
 
 #. Key:	B0E7E318448E1E62581228855CF9B6C9
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You should check out the Vendors here"
-msgstr "이곳의 상인들을 확인해 보세요"
+msgstr "여기 자판기들을 한번 둘러보세요"
 
 #. Key:	B16ADBC0487A66F5846746BF9EE64B12
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18257,7 +18257,7 @@ msgstr "여기는 물이 꽤 깊어요."
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "repeatedly to catch the fish"
-msgstr "물고기를 잡기 위해 반복적으로"
+msgstr "키를 연타해 물고기를 낚으세요."
 
 #. Key:	BDD669A5438CB2AD4F996BBC28DF4184
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
@@ -18281,49 +18281,49 @@ msgstr "낚시터를 찾아보죠! "
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Now we just need Electricity Generation. "
-msgstr "이제 전기 발전이 필요합니다."
+msgstr "이제 전력을 공급할 차례에요."
 
 #. Key:	E3DF93EB44E41ADEB2DDA2A13407F589
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You can use my Chainsaw for woodcutting"
-msgstr "장작 작업에 내 전기톱을 사용할 수 있습니다"
+msgstr "나무를 벨 때 제 전기톱을 쓰셔도 돼요."
 
 #. Key:	E6D36445407BE04558C84FADE9F620D6
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Now we just need to wait for the Mk to gather"
-msgstr "이제 맥이 모이길 기다리기만 하면 돼"
+msgstr "이제 Mk가 모일 때까지 기다리기만 하면 돼요!"
 
 #. Key:	EA51BFBE4BF15A0F8C7A87AF5B1EE419
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Love it!"
-msgstr "좋아요!"
+msgstr "마음에 드네요!"
 
 #. Key:	ECDAA3084E63267377F968BB11B67CE0
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "Click on the Campfire to cook"
-msgstr "모닥불을 클릭하여 요리할 수 있습니다."
+msgstr "모닥불을 클릭해 요리할 수 있어요."
 
 #. Key:	F201FDDF4122875FAF590C9489E6146A
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "They buy and sell all kinds of items"
-msgstr "그들은 모든 종류의 물건을 사고 팝니다"
+msgstr "모든 종류의 아이템을 사거나 팔 수 있죠."
 
 #. Key:	F523C81F46F49C550B7056B9A1E24185
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "I will have some things delivered to you"
-msgstr "몇 가지를 당신에게 배달해 줄 겁니다"
+msgstr "필요한 물품들을 전달해 드릴게요"
 
 #. Key:	F6D3E07B4CE82B743E576F99F081B658
 #. SourceLocation:	/Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Pets/A_TutorialPetCharacter.A_TutorialPetCharacter_C:ExecuteUbergraph_A_TutorialPetCharacter [Script Bytecode]
 msgid "You have completed all tasks"
-msgstr "모든 작업을 완료했습니다"
+msgstr "모든 퀘스트를 완료했습니다."
 
 #. Key:	E1930EF64031218399531EA6D1869545
 #. SourceLocation:	/Game/Widgets/AdminPanel/UMG_AdminLogContent.UMG_AdminLogContent_C:WidgetTree.TextBlock_0.Text
@@ -19558,7 +19558,7 @@ msgstr "서버 목록"
 #: /Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.JoinServer_3.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.add_fuel_text_3.Text
 msgid "Host Session"
-msgstr "세션 호스팅"
+msgstr "서버 호스팅"
 
 #. Key:	FC55EE3C4DB7A27FAB8DBB9D7FF29EDB
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.T_Title.Text
@@ -21295,7 +21295,7 @@ msgstr "Hermit은 심술 궂은 노인입니다. 살구 수프로 그를 따듯�
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestDetails.UMG_QuestDetails_C:GetQuestDescription [Script Bytecode]
 #: /Game/Widgets/Inventory/UMG_QuestDetails.UMG_QuestDetails_C:GetQuestDescription [Script Bytecode]
 msgid "Now something bit more unique."
-msgstr "이제 좀 더 특별한 것이 있습니다."
+msgstr "이번엔 좀 더 특별한걸 해보죠."
 
 #. Key:	65E930B74A36BD2E986A72BC5E05C44F
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestDetails.UMG_QuestDetails_C:WidgetTree.dismiss.Text
@@ -23161,7 +23161,7 @@ msgstr "50ms"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock.Text
 msgid "Server browser"
-msgstr "서버 브라우저"
+msgstr "서버 찾기"
 
 #. Key:	327707EC4D1DDC05F52AB7A812ABE427
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_1.Text
@@ -23914,7 +23914,7 @@ msgstr "서버를 찾고 있습니다..."
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.T_WindowName_2.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.T_WindowName_2.Text
 msgid "Host your own session"
-msgstr "세션을 호스트하세요"
+msgstr "서버를 호스트하세요"
 
 #. Key:	0E8FE6E64CF62E4C393A44A9B3B429E3
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.T_WindowName_3.Text
@@ -23974,7 +23974,7 @@ msgstr "다른 사람에게 세션이 보이도록 할까요?"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_173.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_173.Text
 msgid "Players who have completed the tutorial get starter items when playing on other servers."
-msgstr "튜토리얼을 완료한 플레이어는 다른 서버에서 플레이할 때 초보자 아이템을 받습니다."
+msgstr "튜토리얼을 완료한 플레이어는 서버 접속 시 기본 시작 아이템이 지급됩니다."
 
 #. Key:	A22423BA42C364597B56479D56A0A978
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_18.Text
@@ -23992,7 +23992,7 @@ msgstr "모든 플레이어의 기본 시작 명성 레벨"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_3.Text
 msgid "Host session"
-msgstr "호스트 세션"
+msgstr "호스트 서버"
 
 #. Key:	B6E494CF404311E1713B278431A3EE6B
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_4.Text
@@ -24178,7 +24178,7 @@ msgstr "모드: "
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerContent.UMG_ServerContent_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/MainMenu/UMG_ServerContent.UMG_ServerContent_C:WidgetTree.TextBlock_1.Text
 msgid "Next Wipe : "
-msgstr "다음 와이프: "
+msgstr "다음 초기화: "
 
 #. Key:	078E6D51454E41D7FD678A9C9694557B
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerContent.UMG_ServerContent_C:WidgetTree.TextBlock_152.Text
@@ -25451,7 +25451,7 @@ msgstr "크레딧"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/SettingsUI.SettingsUI_C:WidgetTree.TextBlock_220.Text
 #: /Game/Widgets/SettingsMenu/SettingsUI.SettingsUI_C:WidgetTree.TextBlock_220.Text
 msgid "Modding support is not yet available"
-msgstr "모딩 지원은 아직 제공되지 않습니다"
+msgstr "모딩은 아직 지원되지 않습니다 :/"
 
 #. Key:	36DB2A7147AE2A8B3D8CB5B29E38ED60
 #. SourceLocation:	/Game/Widgets/SettingsMenu/SettingsUI.SettingsUI_C:WidgetTree.TextBlock_89.Text
@@ -26279,7 +26279,7 @@ msgstr "낚시 시작"
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint.TextToDisplay
 #: /Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint.TextToDisplay
 msgid "Fishing is a great way to earn Mk (currency) when you're new to the game."
-msgstr "게임에 새로 온 사람들에게는 낚시가 Mk를 벌기 좋은 방법입니다."
+msgstr "게임을 처음 하는 사람들에게는 낚시가 Mk를 벌기 좋은 방법입니다."
 
 #. Key:	F293E5C84E80CD07661476A9AE168724
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint_1.TextToDisplay
@@ -26333,7 +26333,7 @@ msgstr "물고기가 물었을 때, 빠르게 [E]를 눌러 낚아채세요."
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint_7.TextToDisplay
 #: /Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint_7.TextToDisplay
 msgid "Press TAB to view the fish you've caught in your backpack."
-msgstr "백팩에 잡은 물고기를 보려면 TAB 키를 누르세요."
+msgstr "[TAB] 키를 눌러 배낭을 열어 잡은 물고기를 확인하세요."
 
 #. Key:	2AA68EE046877CCD88EE6FB6EE501BEF
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_Fishing_Tutorial.UMG_Fishing_Tutorial_C:WidgetTree.UMG_BulletPoint_8.TextToDisplay
