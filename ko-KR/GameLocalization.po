@@ -1,5 +1,13 @@
 ﻿# GameLocalization Korean (South Korea) translation.
 # © 2021 Uuvana Studios Oy. All Rights Reserved.
+# Translation Progress:
+# - Tutorial messages (100%)
+# - UI messages (5%)
+# - Item names & descriptions (2%)
+# - Others (0%)
+# 
+# Last updated: September 15, 2026
+# Last translator: hihhhh
 # 
 msgid ""
 msgstr ""
@@ -84,7 +92,8 @@ msgstr "모닥불 근처에서 체력을 회복 할 수 있습니다."
 #: /Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
 msgid "Action: Remove Container\r\nOwner: ({id})"
 msgstr ""
-"액션: 보관함 제거\n"
+"액션: 보관함 제거
+\n"
 "소유자: ({id})"
 
 #. Key:	9AE2E7004645F157626B7BBEF14CE2EE
@@ -11485,28 +11494,28 @@ msgstr "나무"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Houses need wood regularly!"
-msgstr "집을 유지하려면 주기적으로 나무를 채워줘야 해요!"
+msgstr "집에는 목재를 꾸준히 채워줘야 해요!"
 
 #. Key:	BaseUpkeep_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Check decay timer often."
-msgstr "부식 타이머를 자주 확인하세요."
+msgstr "그러니 철거 타이머를 자주 확인하시고요."
 
 #. Key:	BaseUpkeep_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Keep logs stockpiled."
-msgstr "통나무는 항상 넉넉하게 비축해 두세요."
+msgstr "통나무는 평소에 넉넉히 비축해 두는 게 좋아요."
 
 #. Key:	BaseUpkeep_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "No wood means no house!"
-msgstr "나무를 안 채워두면 집이 통째로 사라져요!"
+msgstr "목재가 떨어지면 집도 사라지니까요!"
 
 #. Key:	Compendium_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11541,21 +11550,21 @@ msgstr "기록"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Tracks your collections."
-msgstr "도감 메뉴에서 지금까지 수집한 것들을 확인할 수 있어요."
+msgstr "지금까지 모은 모든 수집품이 도감에 기록돼요."
 
 #. Key:	Compendium_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Fish only count if you catch."
-msgstr "직접 낚아야만 도감에 등록됩니다."
+msgstr "단, 물고기는 직접 낚은 것만 등록되고요."
 
 #. Key:	Compendium_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Compendium.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Complete categories to unlock vendors!"
-msgstr "도감 카테고리를 완성하면 특별한 상인과 자판기가 열려요!"
+msgstr "카테고리를 완성하면 특별한 상인도 해금된답니다!"
 
 #. Key:	CookingBasics_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11597,28 +11606,28 @@ msgstr "배고픔"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Hungry? Let's cook!"
-msgstr "배고파요? 요리를 해보세요!"
+msgstr "배고파요? 그럼 요리를 해보죠!"
 
 #. Key:	CookingBasics_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Better food gives more energy."
-msgstr "좋은 음식일수록 더 많은 에너지를 줍니다."
+msgstr "좋은 음식일수록 에너지를 더 많이 채워줘요."
 
 #. Key:	CookingBasics_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Check the cooking book."
-msgstr "요리책을 확인해 보세요."
+msgstr "자세한 조합법은 요리책을 확인해 보시고요."
 
 #. Key:	CookingBasics_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Green icon means it's edible!"
-msgstr "초록색 아이콘은 먹을 수 있음을 의미합니다!"
+msgstr "초록색 아이콘이 있으면 바로 먹을 수 있어요!"
 
 #. Key:	CookingMechanics_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11646,28 +11655,28 @@ msgstr "쿨타임"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Buffs transfer to dishes!"
-msgstr "재료의 버프 효과가 요리에도 적용돼요!"
+msgstr "재료가 가진 버프 효과는 요리에도 그대로 적용돼요!"
 
 #. Key:	CookingMechanics_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Only one buff per dish."
-msgstr "요리당 버프는 한가지만 적용돼요."
+msgstr "하지만 요리 하나당 버프는 딱 한 가지만 붙을 수 있죠."
 
 #. Key:	CookingMechanics_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "High energy food has cooldown."
-msgstr "에너지를 많이 채워주는 음식은 섭취 쿨타임이 있어요."
+msgstr "게다가 에너지가 높은 음식은 먹는 데 쿨타임이 있으니까,"
 
 #. Key:	CookingMechanics_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingMechanics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Watch that stomach icon!"
-msgstr "배부름 아이콘을 잘 확인하세요!"
+msgstr "배부름 아이콘을 잘 확인하면서 드셔야 해요!"
 
 #. Key:	CookingRecipes_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11702,28 +11711,28 @@ msgstr "요리"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Sandwich needs bread and vegetables."
-msgstr "샌드위치는 빵과 채소가 필요합니다."
+msgstr "샌드위치에는 빵과 채소가 들어가고요,"
 
 #. Key:	CookingRecipes_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Chanterelle soup is my favorite!"
-msgstr "전 살구버섯 수프가 제일 좋아요!"
+msgstr "제가 제일 좋아하는 요리는 살구버섯 수프예요!"
 
 #. Key:	CookingRecipes_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Don't just follow recipes."
-msgstr "단순히 레시피를 따라하지 마세요."
+msgstr "그렇다고 정해진 레시피만 따라 하진 마세요."
 
 #. Key:	CookingRecipes_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingRecipes.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Experiment with different ingredients!"
-msgstr "다양한 재료를 조합해 요리해 보세요!"
+msgstr "다양한 재료를 이것저것 조합해서 만들어 보세요!"
 
 #. Key:	CookingStations_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11758,28 +11767,28 @@ msgstr "벽난로"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Campfires heal you nearby."
-msgstr "모닥불 근처에 있으면 회복됩니다."
+msgstr "모닥불 옆에 있으면 체력이 저절로 회복돼요."
 
 #. Key:	CookingStations_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Ball grills don't disappear."
-msgstr "바베큐 그릴은 사라지지 않아요."
+msgstr "그리고 볼 그릴은 모닥불과 달리 타서 사라지지 않고요."
 
 #. Key:	CookingStations_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Fireplaces go inside houses."
-msgstr "벽난로는 집 안에서만 설치할 수 있어요."
+msgstr "집 안 실내에는 벽난로를 설치해 둘 수 있죠."
 
 #. Key:	CookingStations_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.CookingStations.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Gas stoves make the best food!"
-msgstr "가스레인지는 최고의 음식을 만듭니다!"
+msgstr "하지만 최고의 요리를 만들려면 가스레인지가 최고예요!"
 
 #. Key:	Currency_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11817,21 +11826,21 @@ msgstr "mk"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "MK is our currency."
-msgstr "MK는 이 섬에서 쓰이는 화폐입니다."
+msgstr "이 섬에서는 Mk라는 화폐를 사용해요."
 
 #. Key:	Currency_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Shows in your inventory window."
-msgstr "인벤토리 창에서 확인할 수 있어요."
+msgstr "가방 창을 열어보면 소지금을 바로 확인할 수 있죠."
 
 #. Key:	Currency_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Click it to drop specific amounts."
-msgstr "클릭해서 원하는 만큼 Mk를 떨어뜨릴  수 있어요."
+msgstr "금액을 클릭하면 원하는 만큼 바닥에 버릴 수도 있답니다."
 
 #. Key:	BF8E87C24F706563C70221846149F85F
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Death1.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
@@ -11914,28 +11923,28 @@ msgstr "방어"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Turrets for security!"
-msgstr "보안을 위해 포탑을 설치하세요!"
+msgstr "집을 안전하게 지키려면 포탑을 두세요!"
 
 #. Key:	DefenseAndTurrets_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Passive mode for parties."
-msgstr "팀원들을 위해 수동 모드로 설정하세요."
+msgstr "아군이 다치지 않게 수동 모드로 켜둘 수도 있고,"
 
 #. Key:	DefenseAndTurrets_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Normal mode ignores friendlies."
-msgstr "일반 모드에서는 아군을 공격하지 않습니다."
+msgstr "일반 모드에서도 아군은 공격하지 않아요."
 
 #. Key:	DefenseAndTurrets_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.DefenseAndTurrets.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Can't destroy, only disable temporarily."
-msgstr "부술 순 없고, 일시적으로 비활성화만 가능해요."
+msgstr "포탑은 완전히 부술 순 없고 일시적으로만 무력화돼요."
 
 #. Key:	Electricity_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11963,28 +11972,28 @@ msgstr "전기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Some items need power."
-msgstr "어떤 아이템들은 전기가 꼭 필요합니다."
+msgstr "어떤 아이템들은 전기가 꼭 들어와야 작동해요."
 
 #. Key:	Electricity_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Hover to check requirements."
-msgstr "마우스를 올리면 필요한 전력을 확인 할 수 있어요."
+msgstr "커서를 올려보면 필요한 전력량을 알 수 있고요."
 
 #. Key:	Electricity_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Choose sustainable or fuel powered."
-msgstr "친환경 전력 또는 연료 발전기 중 선택하세요."
+msgstr "친환경 발전이나 연료 발전 중에 골라 쓸 수 있는데,"
 
 #. Key:	Electricity_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Electricity.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Start with electricity transmitter."
-msgstr "전력 송신기부터 시작하세요.."
+msgstr "우선 전력 송신기부터 장만해서 시작해 보세요."
 
 #. Key:	EnergyLoss_Keywords_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(1).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12025,28 +12034,28 @@ msgstr "탈진"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Energy is your lifeline."
-msgstr "에너지는 당신의 목숨줄입니다."
+msgstr "에너지는 여기서 목숨이나 다름없어요."
 
 #. Key:	Energy_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Check bottom right corner."
-msgstr "화면 오른쪽 아래 구석을 확인하세요."
+msgstr "화면 오른쪽 아래에서 확인할 수 있죠."
 
 #. Key:	Energy_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "New players get grace period."
-msgstr "신규 플레이어에겐 초반 보호 시간이 주어집니다."
+msgstr "처음 오신 분들에겐 에너지가 안 닳는 보호 시간이 주어지지만,"
 
 #. Key:	Energy_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Energy.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "After that, every step counts!"
-msgstr "그 다음부터는, 한 걸음 한 걸음이 중요합니다!"
+msgstr "그게 끝나면 걸음 하나하나마다 에너지가 닳는답니다!"
 
 #. Key:	EnergyLoss_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12074,28 +12083,28 @@ msgstr "걷기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Walking slowly drains energy."
-msgstr "그냥 걷기만 해도 에너지가 닳아요."
+msgstr "그냥 걷기만 해도 에너지는 조금씩 닳아요."
 
 #. Key:	EnergyLoss_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Swimming tires you fast!"
-msgstr "수영하면 에너지가 빨리 소모됩니다!"
+msgstr "게다가 수영을 하면 훨씬 금방 지쳐버리고,"
 
 #. Key:	EnergyLoss_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Combat hurts your energy too."
-msgstr "전투도 에너지가 소모됩니다."
+msgstr "싸울 때도 에너지가 많이 깎여 나가죠."
 
 #. Key:	EnergyLoss_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyLoss.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Snow areas drain fastest!"
-msgstr "눈밭에선 에너지가 빨리 닳아요!"
+msgstr "특히 눈밭에선 에너지가 순식간에 바닥나니 조심하세요!"
 
 #. Key:	EnergyRestore_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12123,28 +12132,28 @@ msgstr "휴식"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Eat food for energy."
-msgstr "음식을 먹어서 에너지를 채우세요."
+msgstr "에너지가 떨어지면 음식을 먹어서 채우세요."
 
 #. Key:	EnergyRestore_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Campfires heal for free!"
-msgstr "모닥불은 에너지를 회복시켜줍니다!"
+msgstr "모닥불 옆에만 앉아 있어도 회복되고요."
 
 #. Key:	EnergyRestore_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Always carry cooked meals."
-msgstr "항상 요리된 음식을 가지고 다니세요."
+msgstr "그러니 항상 조리된 음식을 챙겨 다니세요,"
 
 #. Key:	EnergyRestore_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.EnergyRestore.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Empty energy means trouble!"
-msgstr "에너지가 바닥나면 문제가 생깁니다!"
+msgstr "에너지가 완전히 바닥나면 정말 곤란해지니까요!"
 
 #. Key:	Equipment_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12179,21 +12188,21 @@ msgstr "장착"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Equipment section shows your gear."
-msgstr "장비 탭에서 현재 착용한 장비를 볼 수 있어요."
+msgstr "장비 창에서는 현재 착용한 장비들을 볼 수 있어요."
 
 #. Key:	Equipment_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Click equipped items to remove them."
-msgstr "장착된 아이템을 클릭해 해제하세요."
+msgstr "착용 중인 아이템을 클릭하면 벗을 수 있고요,"
 
 #. Key:	Equipment_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Equipment.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Keep your best stuff equipped!"
-msgstr "제일 좋은 장비를 착용하고 다니세요!"
+msgstr "항상 제일 좋은 장비를 몸에 두르고 다니세요!"
 
 #. Key:	FencesAndGates_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12242,21 +12251,21 @@ msgstr "울타리를 치면 마당 출입을 막을 수 있어요."
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "But weapons can damage them."
-msgstr "하지만 무기로 공격하면 부서질 수 있어요."
+msgstr "하지만 무기로 공격하면 부서질 수 있으니,"
 
 #. Key:	FencesAndGates_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Turrets make them actually useful."
-msgstr "울타리에 포탑까지 더하면 완벽한 방어가 될거에요."
+msgstr "포탑이랑 같이 둘러쳐야 제대로 된 방어가 돼요."
 
 #. Key:	FencesAndGates_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FencesAndGates.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Don't lock yourself out!"
-msgstr "스스로 문 밖으로 쫒겨나게 하지 마세요!"
+msgstr "참, 문을 잠가놓고 정작 본인이 못 들어가는 일은 없게 조심하세요!"
 
 #. Key:	FishingHat_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12284,21 +12293,21 @@ msgstr "어부 모자가 필요하신가요?"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Complete your fish compendium first!"
-msgstr "물고기 도감부터 먼저 완성하세요!"
+msgstr "그럼 먼저 물고기 도감부터 완성해 보세요!"
 
 #. Key:	FishingHat_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Shows available fish at spots."
-msgstr "낚시터에서 잡히는 물고기 종류를 보여줘요."
+msgstr "낚시 스팟에 어떤 물고기가 사는지 보여줘서,"
 
 #. Key:	FishingHat_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingHat.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Really helpful for targeting species!"
-msgstr "원하는 물고기를 골라 잡을 때 정말 유용해요!"
+msgstr "원하는 물고기를 낚을 때 정말 큰 도움이 되거든요!"
 
 #. Key:	FishingStart_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12333,28 +12342,28 @@ msgstr "낚시"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Fishing's great for beginners!"
-msgstr "낚시는 초보자에게 좋습니다!"
+msgstr "낚시는 초보자가 돈 벌기에 제일 좋아요!"
 
 #. Key:	FishingStart_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Buy rod from vending machine."
-msgstr "자판기에서 낚싯대를 사세요."
+msgstr "자판기에서 낚싯대를 하나 사서,"
 
 #. Key:	FishingStart_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Equip it from your backpack."
-msgstr "가방을 열고 낚싯대를 장착하세요."
+msgstr "가방을 열고 장착한 다음,"
 
 #. Key:	FishingStart_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingStart.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Look for circling fish spots."
-msgstr "물고기가 빙빙 도는 낚시 포인트가 있는지 찾아보세요."
+msgstr "물고기가 뱅뱅 돌고 있는 물가를 찾아보세요."
 
 #. Key:	FishingTechnique_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12389,28 +12398,28 @@ msgstr "입질"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Click ripples to cast."
-msgstr "물고기가 돌고 있는 곳을 클릭해 낚싯대를 던지세요."
+msgstr "물결치는 곳을 클릭해 찌를 던지고,"
 
 #. Key:	FishingTechnique_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Press E when fish bites!"
-msgstr "물고기가 입질하면 E를 연타하세요!"
+msgstr "입질이 오면 재빨리 [E] 키를 누르세요!"
 
 #. Key:	FishingTechnique_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Different spots have different fish."
-msgstr "낚시터마다 잡히는 물고기가 다릅니다."
+msgstr "낚시 스팟마다 잡히는 물고기 종류도 다른데요,"
 
 #. Key:	FishingTechnique_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.FishingTechnique.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Lake has perch and pike."
-msgstr "호수에는 농어와 강꼬치고기가 있어요."
+msgstr "호수 쪽엔 주로 농어랑 강꼬치고기가 살고 있어요."
 
 #. Key:	Greetings_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12459,21 +12468,21 @@ msgstr "저녁"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Oh, hello there!"
-msgstr "어, 안녕하세요!"
+msgstr "오, 안녕하세요!"
 
 #. Key:	Greetings_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Another researcher, welcome!"
-msgstr "새로운 연구원님이군요, 환영합니다!"
+msgstr "새로 오신 연구원님이시군요, 환영합니다!"
 
 #. Key:	Greetings_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Greetings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Good to see fresh faces!"
-msgstr "새로운 얼굴을 보니 반갑네요!"
+msgstr "새로운 얼굴을 뵈니 정말 반갑네요!"
 
 #. Key:	HouseManagement_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12501,28 +12510,28 @@ msgstr "문 잠금"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Management tab opens with cabin."
-msgstr "오두막으로 업그레이드 하면 관리 탭이 열려요."
+msgstr "오두막으로 업그레이드하면 관리 탭이 열려요."
 
 #. Key:	HouseManagement_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Change door codes there."
-msgstr "거기서 비밀번호를 바꾸세요."
+msgstr "거기서 문 비밀번호도 바꿀 수 있고,"
 
 #. Key:	HouseManagement_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Collect vendor earnings too."
-msgstr "자판기 판매 수익도 챙기세요."
+msgstr "설치해둔 자판기 판매 수익도 수금할 수 있죠."
 
 #. Key:	HouseManagement_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.HouseManagement.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Control everything from one spot!"
-msgstr "한 곳에서 집의 모든 걸 관리할 수 있어요!"
+msgstr "한자리에서 집의 모든 걸 관리할 수 있답니다!"
 
 #. Key:	InventoryBasics_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12564,28 +12573,28 @@ msgstr "슬롯"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Press TAB!"
-msgstr "탭키(TAB)를 누르세요!"
+msgstr "[TAB] 키를 눌러보세요!"
 
 #. Key:	InventoryBasics_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Opens your backpack."
-msgstr "가방을 엽니다."
+msgstr "누르면 가방을 열 수 있어요."
 
 #. Key:	InventoryBasics_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "You've got twenty slots total."
-msgstr "가방 슬롯은 총 20칸 이에요."
+msgstr "슬롯은 총 20칸 이고요,"
 
 #. Key:	InventoryBasics_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Click items to use them."
-msgstr "아이템을 클릭해 사용해 보세요."
+msgstr "아이템을 클릭하면 바로 사용할 수 있어요."
 
 #. Key:	InventoryDrop_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12613,21 +12622,21 @@ msgstr "버리기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Right-click to drop."
-msgstr "우클릭으로 버릴 수 있어요."
+msgstr "아이템을 우클릭하면 버릴 수 있어요."
 
 #. Key:	InventoryDrop_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Items fall on the ground."
-msgstr "버린 아이템은 바닥에 떨어집니다."
+msgstr "버린 물건은 그대로 바닥에 떨어지는데,"
 
 #. Key:	InventoryDrop_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.InventoryDrop.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Anyone can pick them up!"
-msgstr "누구든 주워 갈 수 있어요!"
+msgstr "누구든지 집어갈 수 있으니 조심하세요!"
 
 #. Key:	Mounts_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12662,21 +12671,21 @@ msgstr "타기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Press B to mount!"
-msgstr "B 키를 눌러 탑승하세요!"
+msgstr "[B] 키를 누르면 탈것에 탈 수 있어요!"
 
 #. Key:	Mounts_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Get them from compendium vendors."
-msgstr "도감 상인에게서 구할 수 있어요."
+msgstr "탈것은 도감 상인에게서 구할 수 있고요,"
 
 #. Key:	Mounts_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Mounts.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Won't lose them when equipped."
-msgstr "탈것을 타면 에너지가 소모되지 않습니다."
+msgstr "장착해두면 죽더라도 사라지지 않아요!"
 
 #. Key:	NorthOutpost_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12718,28 +12727,28 @@ msgstr "눈밭"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "North Outpost? Bundle up!"
-msgstr "북부 전초기지요? 옷 껴입고 가세요!"
+msgstr "북부 전초기지요? 옷 단단히 껴입고 가세요!"
 
 #. Key:	NorthOutpost_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Snow drains energy fast."
-msgstr "눈밭에서는 에너지가 금방 소모됩니다."
+msgstr "눈밭에선 에너지가 순식간에 바닥나거든요."
 
 #. Key:	NorthOutpost_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "But great loot awaits!"
-msgstr "하지만 엄청난 전리품이 기다리고 있죠!"
+msgstr "물론 그만큼 값진 전리품들이 기다리고 있지만,"
 
 #. Key:	NorthOutpost_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.NorthOutpost.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Don't go unprepared!"
-msgstr "준비하지 않고는 가지 마세요!"
+msgstr "빈손으로 대책 없이 가시면 절대 안 돼요!"
 
 #. Key:	Placeables_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12774,28 +12783,28 @@ msgstr "인테리어"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Over 100 things to place!"
-msgstr "설치할 수 있는 아이템이 100가지가 넘어요!"
+msgstr "섬에 설치할 수 있는 물건이 100가지가 넘어요!"
 
 #. Key:	Placeables_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Green items inside are safe."
-msgstr "초록색으로 표시된 아이템은 안전합니다."
+msgstr "집 안에서 초록색으로 설치된 물건은 안전하지만,"
 
 #. Key:	Placeables_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Outside items can be stolen."
-msgstr "집 구역 밖에 둔 아이템은 도둑맞을 수 있어요."
+msgstr "마당 바깥에 둔 물건은 남들이 훔쳐갈 수 있어요."
 
 #. Key:	Placeables_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Placeables.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Get turrets for protection!"
-msgstr "집을 지키기 위해 포탑을 얻으세요!"
+msgstr "그러니 포탑을 세워서 안전하게 지키세요!"
 
 #. Key:	PowerSystems_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12837,28 +12846,28 @@ msgstr "송신기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Solar panels or coal generators."
-msgstr "태양광 패널이나 석탄 발전기를 쓰세요."
+msgstr "태양광 패널이나 석탄 발전기를 마련해 보세요."
 
 #. Key:	PowerSystems_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Place within home radius."
-msgstr "집 건축 반경 안에 설치하세요."
+msgstr "집 반경 안에 설치해두기만 하면,"
 
 #. Key:	PowerSystems_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "They sync automatically."
-msgstr "전력은 자동으로 동기화됩니다."
+msgstr "알아서 전력이 공급되거든요."
 
 #. Key:	PowerSystems_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.PowerSystems.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Just needs some patience!"
-msgstr "조금만 인내심을 갖고 기다려보세요!"
+msgstr "전기가 찰 때까지 느긋하게 기다려 보세요!"
 
 #. Key:	Quests_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -12893,21 +12902,21 @@ msgstr "임무"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Check your quest tab."
-msgstr "퀘스트 탭을 확인해 보세요."
+msgstr "퀘스트 탭을 한번 열어보세요."
 
 #. Key:	Quests_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Click quests for full details."
-msgstr "퀘스트를 클릭하면 자세한 정보를 볼 수 있어요."
+msgstr "퀘스트를 클릭하면 자세한 내용을 볼 수 있고요,"
 
 #. Key:	Quests_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Quests.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Rewards are worth the effort!"
-msgstr "노력한 만큼 보상이 쏠쏠할 거예요!"
+msgstr "고생한 만큼 보상도 아주 쏠쏠할 거예요!"
 
 #. Key:	Random_Responses_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
@@ -12921,21 +12930,21 @@ msgstr "흠..."
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Not sure about that."
-msgstr "이건 좀 애매하네요."
+msgstr "그건 저도 잘 모르겠네요."
 
 #. Key:	Random_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Interesting thought!"
-msgstr "흥미로운 생각이네요!"
+msgstr "꽤 흥미로운 생각인걸요!"
 
 #. Key:	Random_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "The island has mysteries."
-msgstr "이 섬엔 미스터리가 참 많아요."
+msgstr "이 섬엔 참 미스터리가 많아요."
 
 #. Key:	Random_Responses_Index4
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(4).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
@@ -12949,14 +12958,14 @@ msgstr "저도 아직 배우는 중이라서요."
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(5).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Try exploring the caves!"
-msgstr "동굴을 탐험해보세요!"
+msgstr "기회가 되면 동굴도 한번 탐험해 보세요!"
 
 #. Key:	Random_Responses_Index6
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(6).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Random.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(6).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "This place grows on you."
-msgstr "지내다 보면 이 섬도 정이 들거에요."
+msgstr "지내다 보면 이 섬도 정이 많이 들 거예요."
 
 #. Key:	Shopping_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13005,28 +13014,28 @@ msgstr "자판기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Julia's got everything!"
-msgstr "줄리아 상점에는 없는 게 없어요!"
+msgstr "줄리아 상점엔 정말 없는 게 없어요!"
 
 #. Key:	Shopping_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Fair prices too."
-msgstr "가격도 제법 합리적이에요."
+msgstr "가격도 제법 합리적인 편이고요."
 
 #. Key:	Shopping_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Sell feathers and berries."
-msgstr "깃털과 열매를 팔아보세요."
+msgstr "깃털이나 베리를 주워다 팔아보세요,"
 
 #. Key:	Shopping_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Shopping.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Save for that workbench first!"
-msgstr "먼저 작업대를 살 돈부터 모으세요!"
+msgstr "일단 작업대 살 돈부터 먼저 모아두세요!"
 
 #. Key:	Teams_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13061,21 +13070,21 @@ msgstr "파티"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Team tab's always active."
-msgstr "팀 탭은 언제든 확인할 수 있어요."
+msgstr "팀 탭은 언제든지 열어볼 수 있어요."
 
 #. Key:	Teams_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Shows scores and carried MK."
-msgstr "점수와 현재 소지한 Mk를 보여줘요."
+msgstr "팀 점수랑 팀원들이 든 Mk도 다 보이고요,"
 
 #. Key:	Teams_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Teams.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Invite players from there too."
-msgstr "거기서 다른 플레이러를 초대할 수도 있어요."
+msgstr "거기서 다른 플레이어를 팀에 초대할 수도 있답니다."
 
 #. Key:	TentBasics_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13113,28 +13122,28 @@ msgstr "은신처"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Press SPACE to enter."
-msgstr "SPACE를 눌러 들어가세요."
+msgstr "[스페이스바]를 누르면 텐트로 들어가요."
 
 #. Key:	TentBasics_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Only you can enter initially."
-msgstr "처음에는 당신만 들어갈 수 있어요."
+msgstr "처음엔 당신만 들어갈 수 있지만,"
 
 #. Key:	TentBasics_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Upgrade for roommates later!"
-msgstr "나중에 집을 업그레이드하면 룸메이트도 들일 수 있어요!"
+msgstr "나중에 집을 업그레이드하면 룸메이트도 들일 수 있죠."
 
 #. Key:	TentBasics_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Your own private space."
-msgstr "당신만의 개인적인 공간이에요."
+msgstr "오롯이 나만을 위한 아늑한 공간이에요."
 
 #. Key:	TentWarnings_Keywords_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(2).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13148,28 +13157,28 @@ msgstr "털기"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Items outside aren't safe!"
-msgstr "집 밖에 둔 아이템은 안전하지 않아요!"
+msgstr "텐트 밖에 꺼내둔 물건은 안전하지 않아요!"
 
 #. Key:	TentWarnings_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Tents decay after 24 hours."
-msgstr "텐트는 24시간 후에 파괴됩니다."
+msgstr "게다가 텐트는 24시간이 지나면 철거되니까,"
 
 #. Key:	TentWarnings_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Upgrade to cabin quickly!"
-msgstr "얼른 오두막으로 업그레이드하세요!"
+msgstr "얼른 오두막으로 업그레이드하세요."
 
 #. Key:	TentWarnings_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Don't lose everything!"
-msgstr "모든 것을 잃지 마세요!"
+msgstr "아까운 아이템들을 다 날릴 순 없잖아요!"
 
 #. Key:	UpgradingHome_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13207,28 +13216,28 @@ msgstr "목재"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Buy workbench from Sgt Lake's."
-msgstr "Sgt. Lake에게서 작업대를 구매하세요."
+msgstr "Sgt. Lake에게서 작업대를 산 다음,"
 
 #. Key:	UpgradingHome_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Place inside your tent."
-msgstr "텐트 안에 설치하세요."
+msgstr "그걸 텐트 안에 설치하시고요,"
 
 #. Key:	UpgradingHome_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Feed it 100 logs."
-msgstr "100개의 통나무를 넣으세요."
+msgstr "통나무 100개를 채워 넣어보세요."
 
 #. Key:	UpgradingHome_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Boom, you've got a cabin!"
-msgstr "짜잔, 오두막이 생겼어요!"
+msgstr "짜잔! 멋진 오두막이 완성될 거예요!"
 
 #. Key:	WeatherStation_Keywords_Index0
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13249,28 +13258,28 @@ msgstr "기상 관측소"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Old research tech."
-msgstr "옛날 연구원들이 쓰던 장비입니다."
+msgstr "예전 연구원들이 쓰던 관측 장비가 있는데요,"
 
 #. Key:	WeatherStation_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Generates MK over time."
-msgstr "시간이 지남에 따라 MK가 쌓입니다."
+msgstr "설치해두면 시간이 지날 때마다 Mk를 벌어다 줘요."
 
 #. Key:	WeatherStation_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Hidden in northern container."
-msgstr "북쪽 전초기지 안에 숨겨져 있어요."
+msgstr "북쪽 컨테이너 안에 숨겨져 있으니 찾아보세요."
 
 #. Key:	WeatherStation_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Passive income once placed!"
-msgstr "설치 하면 돈이 알아서 수집될거에요!"
+msgstr "갖다 놓기만 하면 알아서 돈이 굴러들어온답니다!"
 
 #. Key:	WorkbenchUse_Keywords_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(1).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13298,28 +13307,28 @@ msgstr "제작"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(0).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Workbench unlocks everything!"
-msgstr "작업대가 있어야 모든 걸 제작할 수 있어요!"
+msgstr "작업대가 있어야 비로소 온갖 걸 만들 수 있어요!"
 
 #. Key:	WorkbenchUse_Responses_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(1).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "100 logs for cabin upgrade."
-msgstr "오두막으로 업그레이드하려면 통나무 100개가 필요해요."
+msgstr "오두막 업그레이드에도 통나무 100개가 필요하고요."
 
 #. Key:	WorkbenchUse_Responses_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(2).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Check crafting book for recipes."
-msgstr "제작 책에서 조합법을 확인하세요."
+msgstr "제작 책을 열어 조합법을 확인해 보세요,"
 
 #. Key:	WorkbenchUse_Responses_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E(3).Responses_5_8358BDE54DC0A531E08AD3921E6BDE3E
 msgctxt "DT_ChatResponses"
 msgid "Watch that decay timer!"
-msgstr "부식 타이머를 항상 주시하세요!"
+msgstr "아, 집 철거 타이머 확인하는 것도 잊지 마시고요!"
 
 #. Key:	5B3697384820259355703F88EF553287
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_Dialogue.DT_Dialogue.SgtLakeAreNeighbors.DialogueText_3_A9C5DFDC46C401473F93E1A1C4D4CD4A
@@ -13555,7 +13564,7 @@ msgstr "Mk가 추가되었습니다"
 #. SourceLocation:	/Game/Blueprints/NewQuests/QuestManagerComponent.QuestManagerComponent_C:CompleteTask [Script Bytecode]
 #: /Game/Blueprints/NewQuests/QuestManagerComponent.QuestManagerComponent_C:CompleteTask [Script Bytecode]
 msgid "Task Completed"
-msgstr "태스크 완료"
+msgstr "퀘스트 완료"
 
 #. Key:	24B4CDCC464D93A4155C1FA6157E9871
 #. SourceLocation:	/Game/Blueprints/NewQuests/QuestManagerComponent.QuestManagerComponent_C:ExecuteUbergraph_QuestManagerComponent [Script Bytecode]
@@ -14913,8 +14922,10 @@ msgstr "AllPlaceables 파일 크기: {size} MB"
 #: /Game/Blueprints/Server/GM_Longvinter.GM_Longvinter_C:ExecuteUbergraph_GM_Longvinter [Script Bytecode]
 msgid "\r\nGC paused!\r\n{count} async tasks running"
 msgstr ""
-"\n"
-"가비지 컬렉터 일시 중지됨!\n"
+"
+\n"
+"가비지 컬렉터 일시 중지됨!
+\n"
 "{count}개의 비동기 작업 실행 중"
 
 #. Key:	727B4073478C82977A9F8EB87DD74BE5
@@ -15053,7 +15064,7 @@ msgstr "보물을 찾기 위해서는 유효한 보물 지도가 필요합니다
 #. SourceLocation:	/Game/Blueprints/Triggers/A_TutorialActionTrigger.A_TutorialActionTrigger_C:ExecuteUbergraph_A_TutorialActionTrigger [Script Bytecode]
 #: /Game/Blueprints/Triggers/A_TutorialActionTrigger.A_TutorialActionTrigger_C:ExecuteUbergraph_A_TutorialActionTrigger [Script Bytecode]
 msgid "My name is Sgt. Lake!"
-msgstr "내 이름은 레이크 하사야!"
+msgstr "내 이름은 Sgt. Lake야!"
 
 #. Key:	1BD2FD0546EFB4D8FDA2A59A078EFDF1
 #. SourceLocation:	/Game/Blueprints/Triggers/A_TutorialActionTrigger.A_TutorialActionTrigger_C:ExecuteUbergraph_A_TutorialActionTrigger [Script Bytecode]
@@ -15313,12 +15324,18 @@ msgstr "A의 농장"
 #: /Game/Blueprints/Vendor/A_Vendor_AFarmingShop_B.Default__A_Vendor_AFarmingShop_B_C.VendorDescription
 msgid "I'd rather eat animals, but this is probably more sustainable.\r\n\r\nSetup your home tent and start farming. Turn seeds into edible fruit and bring it all here.\r\n\r\nRemeber to guard your plants. A lot of berry thieves around here.\r\n\r\n-A"
 msgstr ""
-"나라면 동물들을 사냥하겠지만, 이 방법이 더 지속 가능하겠지.\n"
-"\n"
-"홈 텐트를 치고 농사를 짓기 시작해 봐. 씨앗을 먹을 수 있는 과일로 만들어서 여기로 가져와.\n"
-"\n"
-"농작물들을 지키는 거 잊지 마. 이 근처에 도둑이 많거든.\n"
-"\n"
+"나라면 동물들을 사냥하겠지만, 이 방법이 더 지속 가능하겠지.
+\n"
+"
+\n"
+"홈 텐트를 치고 농사를 짓기 시작해 봐. 씨앗을 먹을 수 있는 과일로 만들어서 여기로 가져와.
+\n"
+"
+\n"
+"농작물들을 지키는 거 잊지 마. 이 근처에 도둑이 많거든.
+\n"
+"
+\n"
 "-A"
 
 #. Key:	3CDFF3B74C02BEC17E63D1AFE130C5CF
@@ -15359,10 +15376,14 @@ msgstr "Jack의 아레나 "
 #: /Game/Blueprints/Vendor/A_Vendor_Arena.Default__A_Vendor_Arena_C.VendorDescription
 msgid "You are going to try your luck in the arena eh? I want to prepare you as much as possible for your challenge. \r\n\r\nIf you find any good loot that you don't want to keep. Just sell it over to James and he will distribute it.\r\n\r\n- Jack"
 msgstr ""
-"당신은 아레나에서 운을 시험할건가요? 그렇다면 그것을 위해 가능한 준비해야 합니다.\n"
-"\n"
-"만약 찾은 아이템을 갖고 싶지 않다면, James에게 판매하세요. 그가 매입할 것입니다.\n"
-"\n"
+"당신은 아레나에서 운을 시험할건가요? 그렇다면 그것을 위해 가능한 준비해야 합니다.
+\n"
+"
+\n"
+"만약 찾은 아이템을 갖고 싶지 않다면, James에게 판매하세요. 그가 매입할 것입니다.
+\n"
+"
+\n"
 "- Jack"
 
 #. Key:	4600FF67479C14E7012884925424BC6C
@@ -15421,10 +15442,14 @@ msgstr "Julia의 수수께끼 가게"
 #: /Game/Blueprints/Vendor/A_Vendor_ChangingCatalog.Default__A_Vendor_ChangingCatalog_C.VendorDescription
 msgid "Hi there!\r\n\r\nI always love to meet new researchers around the island.\r\n\r\nIf nothing here suits you now. Please check the clock and come back to see what new items have arrived from over the seas"
 msgstr ""
-"안녕하세요!\n"
-"\n"
-"저는 이 섬에서 새로운 연구원들을 만나는 게 항상 기뻐요.\n"
-"\n"
+"안녕하세요!
+\n"
+"
+\n"
+"저는 이 섬에서 새로운 연구원들을 만나는 게 항상 기뻐요.
+\n"
+"
+\n"
 "만약 지금 물건들이 마음에 들지 않는다면, 다른 시간에 바다 건너 어떤 새로운 물건이 도착했는지 보러 오세요"
 
 #. Key:	988AD2EE4A07B6EAFF873DB7A2BA2296
@@ -15447,8 +15472,10 @@ msgstr "필레몽"
 #: /Game/Blueprints/Vendor/A_Vendor_Feather.Default__A_Vendor_Feather_C.VendorDescription
 msgid "I will be happy to buy all sorts of feathers and other animal stuff you find on the island. Feel free to come and say hello to me at Padva island!\r\n\r\n-Filemon"
 msgstr ""
-"저는 섬에서 발견되는 모든 종류의 깃털과 동물 관련 아이템을 즐겁게 구매하겠습니다. 부담없이 Padva 섬의 저를 만나러 와서 인사해 주세요!\n"
-"\n"
+"저는 섬에서 발견되는 모든 종류의 깃털과 동물 관련 아이템을 즐겁게 구매하겠습니다. 부담없이 Padva 섬의 저를 만나러 와서 인사해 주세요!
+\n"
+"
+\n"
 "--Filemon"
 
 #. Key:	3D63A59142F48DA48DFC17AC6D4A94C8
@@ -15462,12 +15489,18 @@ msgstr "레이크 중사의 부엌"
 #: /Game/Blueprints/Vendor/A_Vendor_Fishing.Default__A_Vendor_Fishing_C.VendorDescription
 msgid "Want to be useful for once? Grab a fishing rod from us and go fishing.\r\n\r\nThis island has a healthy fish population, which makes for a healthy researcher population.\r\n\r\nWhat are you standing there? Go find the best spots!\r\n\r\n-Sgt. Lake"
 msgstr ""
-"한번이라도 도움이 되고 싶나? 낚시대를 들고 낚시를 가도록.\n"
-"\n"
-"이 섬은 좋은 물고기들이 많아, 연구자들의 수 또한 많다.\n"
-"\n"
-"무엇을 망설이고 있나? 빨리 가장 좋은 장소를 찾아봐!\n"
-"\n"
+"한번이라도 도움이 되고 싶나? 낚시대를 들고 낚시를 가도록.
+\n"
+"
+\n"
+"이 섬은 좋은 물고기들이 많아, 연구자들의 수 또한 많다.
+\n"
+"
+\n"
+"무엇을 망설이고 있나? 빨리 가장 좋은 장소를 찾아봐!
+\n"
+"
+\n"
 "-Sgt. Lake"
 
 #. Key:	846A35EC4EC544A4F8411497059091C0
@@ -15481,8 +15514,10 @@ msgstr "Lake 중사"
 #: /Game/Blueprints/Vendor/A_Vendor_FishingReward.Default__A_Vendor_FishingReward_C.VendorDescription
 msgid "Well done! You finished the most important compendium list there is, be proud of yourself and wear the hat with pride!\r\n\r\n-Sgt. Lake"
 msgstr ""
-"아주 잘했어! 가장 중요한 기록들을 끝냈군, 자부심을 가지고 모자를 쓰도록!\n"
-"\n"
+"아주 잘했어! 가장 중요한 기록들을 끝냈군, 자부심을 가지고 모자를 쓰도록!
+\n"
+"
+\n"
 "- Lake 중사"
 
 #. Key:	5C29609D4155E15693E38AA59C6BAB39
@@ -15496,10 +15531,14 @@ msgstr "James의 잡화점"
 #: /Game/Blueprints/Vendor/A_Vendor_GeneralStore.Default__A_Vendor_GeneralStore_C.VendorDescription
 msgid "Have any items that you dont have any need to?\r\n\r\nIf the answer is yes then just hand it over to me. I buy everything from you for reduced cost of course.\r\n\r\n-James"
 msgstr ""
-"필요 없는 아이템을 가지고 있습니까?\n"
-"\n"
-"만약 그렇다면 저에게 판매하세요. 모든 아이템을 저렴한 가격으로 구매하고 있습니다.\n"
-"\n"
+"필요 없는 아이템을 가지고 있습니까?
+\n"
+"
+\n"
+"만약 그렇다면 저에게 판매하세요. 모든 아이템을 저렴한 가격으로 구매하고 있습니다.
+\n"
+"
+\n"
 "-제임스"
 
 #. Key:	0FD5BA114E3F42D9CC270BA909A26CA8
@@ -15525,8 +15564,10 @@ msgstr "어떤 사람들은 제가 한때 숙련된 치료사였다고 말합니
 #: /Game/Blueprints/Vendor/A_Vendor_HuntingReward.Default__A_Vendor_HuntingReward_C.VendorDescription
 msgid "Only hunters that enjoy the killing have made it this far. Shooting a bird wihout damaging it's feathers ain't no easy task my firend. Be proud.\r\n\r\n-Filemon"
 msgstr ""
-"사냥을 즐기는 사냥꾼들만이 여기까지 올 수 있다. 깃털을 손상 입히지 않고 새를 사냥한다는 건 매우 어려운 일이지. 자부심을 가져!\n"
-"\n"
+"사냥을 즐기는 사냥꾼들만이 여기까지 올 수 있다. 깃털을 손상 입히지 않고 새를 사냥한다는 건 매우 어려운 일이지. 자부심을 가져!
+\n"
+"
+\n"
 "-Filemon"
 
 #. Key:	741402444C4A63FA612F18A11592C5C3
@@ -15558,10 +15599,14 @@ msgstr "Kyrre's의 장비상점"
 #: /Game/Blueprints/Vendor/A_Vendor_KyrresEquipment.Default__A_Vendor_KyrresEquipment_C.VendorDescription
 msgid "Think you're going to carry everything on that tiny backpack of yours? Didn't think so either.\r\n\r\nGet yourself a tent and some containers to ease that load and keep your findings safe! Only you can enter the tent, so you're safe. Don't ask me how it works like that, it just does.\r\n\r\n-Kyrre"
 msgstr ""
-"혹시 그 작은 가방에 모든 걸 담아 갈 생각은 아니시죠? 안 될 것 같아요.\n"
-"\n"
-"짐과 발견한 물건들을 안전하게 지킬 수 있는 텐트와 보관함을 준비하세요! 오직 당신만 텐트에 들어갈 수 있어서 안전하답니다. 어떻게 그게 가능한지는 묻지 마세요. 그냥 된답니다.\n"
-"\n"
+"혹시 그 작은 가방에 모든 걸 담아 갈 생각은 아니시죠? 안 될 것 같아요.
+\n"
+"
+\n"
+"짐과 발견한 물건들을 안전하게 지킬 수 있는 텐트와 보관함을 준비하세요! 오직 당신만 텐트에 들어갈 수 있어서 안전하답니다. 어떻게 그게 가능한지는 묻지 마세요. 그냥 된답니다.
+\n"
+"
+\n"
 "-Kyrre"
 
 #. Key:	776697704440B4A2911469BAB7E434A4
@@ -15575,10 +15620,13 @@ msgstr "Dan"
 #: /Game/Blueprints/Vendor/A_Vendor_Mining.Default__A_Vendor_Mining_C.VendorDescription
 msgid "Got a hunger for adventure? Grab a pickaxe from me and let's get mining. Mines are filled with precious resources, and we need miners like you to uncover them. \r\n\r\nWhat are you waiting for? Dive into the depths and unearth riches!\r\n\r\n-Dan"
 msgstr ""
-"모험에 대한 갈망이 있으신가요? 곡괭이를 들고 채굴을 시작하세요. 광산은 귀중한 자원으로 가득 차 있으며, 이를 발굴하려면 여러분과 같은 광부가 필요합니다. \n"
-"\n"
+"모험에 대한 갈망이 있으신가요? 곡괭이를 들고 채굴을 시작하세요. 광산은 귀중한 자원으로 가득 차 있으며, 이를 발굴하려면 여러분과 같은 광부가 필요합니다. 
+\n"
+"
+\n"
 "뭘 기다리세요? 심연으로 뛰어들어 부를 캐내세요!\n"
-"\n"
+"
+\n"
 "-Dan"
 
 #. Key:	B4AC1E5E476B6F7E1971439F545BDE10
@@ -15592,12 +15640,18 @@ msgstr "Snow 부인의 전초기지"
 #: /Game/Blueprints/Vendor/A_Vendor_MrsSnow.Default__A_Vendor_MrsSnow_C.VendorDescription
 msgid "Hello handsome! You look a little lost, let me help you:\r\n\r\nBring me some fish or berries, and I'll pay you well! The fish here is amazing. You should cook some for yourself while you're at it.\r\n\r\nI used to live in the city. I had a career as a lawyer. I did everything you're supposed to do I guess, but it wasn't cutting it. I wanted to find the thing I'm passionate about, so I joined the research program, and I'm still here, happy as one could be. Nature was the thing for me. I hope you find your happiness too, or whatever you are looking for.\r\n\r\n- Mrs. Snow"
 msgstr ""
-"안녕 멋쟁이! 헤매고 있는 것 같아 보이는데 내가 도와줄게:\n"
-"\n"
-"나한테 물고기나 베리를 가져오면 아주 잘 쳐줄게! 이곳의 물고기들은 정말 최고야. 이곳에 머무는 동안 꼭 요리를 해보렴.\n"
-"\n"
-"난 원래 도시에서 변호사로 일했었지. 할 수 있는 모든 걸 다 해본 것 같은데 썩 만족스럽진 않더라. 내가 열정을 가지고 할 수 있는 일을 찾고 싶어서 연구 프로그램에 참여했었는데, 아직도 이곳에 머물고 있네. 자연이 아주 딱 이었지. 너도 너의 행복을 찾길 바랄게, 네가 원하는 것이 무엇이든지.\n"
-"\n"
+"안녕 멋쟁이! 헤매고 있는 것 같아 보이는데 내가 도와줄게:
+\n"
+"
+\n"
+"나한테 물고기나 베리를 가져오면 아주 잘 쳐줄게! 이곳의 물고기들은 정말 최고야. 이곳에 머무는 동안 꼭 요리를 해보렴.
+\n"
+"
+\n"
+"난 원래 도시에서 변호사로 일했었지. 할 수 있는 모든 걸 다 해본 것 같은데 썩 만족스럽진 않더라. 내가 열정을 가지고 할 수 있는 일을 찾고 싶어서 연구 프로그램에 참여했었는데, 아직도 이곳에 머물고 있네. 자연이 아주 딱 이었지. 너도 너의 행복을 찾길 바랄게, 네가 원하는 것이 무엇이든지.
+\n"
+"
+\n"
 "- Snow 부인"
 
 #. Key:	7BDF864D45144514035A22B54314B9A0
@@ -15611,10 +15665,14 @@ msgstr "Pix"
 #: /Game/Blueprints/Vendor/A_Vendor_Pix.Default__A_Vendor_Pix_C.VendorDescription
 msgid "Hey there! If you ever find any mysterious bags lying around, bring them to me and I'll give you something in return!\r\n\r\nI'm too short to wander around the island all day looking for those, It gets too exhausting, so I setup this vending machine to trade with the researchers that do have normal size legs.\r\n\r\nWhat do the bags contain, and who is Anders? That I cannot tell you. "
 msgstr ""
-"안녕! 근처에서 혹시 수수께끼 가방을 발견하면 나한테 가져와줘, 답례로 뭔가를 줄게!\n"
-"\n"
-"나는 온종일 섬을 돌아다니며 이것들을 찾기엔 너무 작고 지쳐서, 긴 다리를 가진 연구원들과 거래하기 위해 이 자판기를 설치했어.\n"
-"\n"
+"안녕! 근처에서 혹시 수수께끼 가방을 발견하면 나한테 가져와줘, 답례로 뭔가를 줄게!
+\n"
+"
+\n"
+"나는 온종일 섬을 돌아다니며 이것들을 찾기엔 너무 작고 지쳐서, 긴 다리를 가진 연구원들과 거래하기 위해 이 자판기를 설치했어.
+\n"
+"
+\n"
 "그 가방엔 뭐가 들어있고, 앤더슨는 누구냐고? 그건 말해줄 수 없어. "
 
 #. Key:	DBC0400441F53360680279AD2F1F0504
@@ -15628,8 +15686,10 @@ msgstr "Angel"
 #: /Game/Blueprints/Vendor/A_Vendor_PlantReward.Default__A_Vendor_PlantReward_C.VendorDescription
 msgid "You've found all the known plants on the island! Thats some great reseach my friend! On average it seems like there are new plants found every month, so keep your eyes open when exploring!\r\n\r\n-Angel"
 msgstr ""
-"섬에 있는 모든 식물들을 발견했구나! 내 친구를 정말 잘 가르쳤네! 평균적으로 매달 새로운 식물들이 발견되고 있는 것 같으니 탐험할 때 눈을 크게 뜨고 주변을 잘 살펴봐!\n"
-"\n"
+"섬에 있는 모든 식물들을 발견했구나! 내 친구를 정말 잘 가르쳤네! 평균적으로 매달 새로운 식물들이 발견되고 있는 것 같으니 탐험할 때 눈을 크게 뜨고 주변을 잘 살펴봐!
+\n"
+"
+\n"
 "-엔젤"
 
 #. Key:	A0F9D06D4CF4A9812AB974A659AACA81
@@ -15661,12 +15721,18 @@ msgstr "Jax의 전초기지"
 #: /Game/Blueprints/Vendor/A_Vendor_Starting_Collectables.Default__A_Vendor_Starting_Collectables_C.VendorDescription
 msgid "I offer all the essential items for cheap here! Also, I buy some berries I am really fond of. I offer all the necessary items for cheap here!\r\n\r\nI also buy some berries that I'm really fond of.\r\n\r\nDon't knock on the door\r\n\r\n-Jax"
 msgstr ""
-"여기에서 저렴한 가격으로 모든 필수 아이템을 제공합니다! 또한, 나는 정말 좋아하는 여러가지 과일을 사고 있습니다. 필요한 모든 항목을 저렴하게 제공합니다!\n"
-"\n"
-"제가 좋아하는 베리들도 구매합니다.\n"
-"\n"
-"노크하지 마십시오\n"
-"\n"
+"여기에서 저렴한 가격으로 모든 필수 아이템을 제공합니다! 또한, 나는 정말 좋아하는 여러가지 과일을 사고 있습니다. 필요한 모든 항목을 저렴하게 제공합니다!
+\n"
+"
+\n"
+"제가 좋아하는 베리들도 구매합니다.
+\n"
+"
+\n"
+"노크하지 마십시오
+\n"
+"
+\n"
 "-Jax"
 
 #. Key:	A1898892439F1CE585F0AB9AD2A26890
@@ -15680,12 +15746,18 @@ msgstr "Tim의 전초기지"
 #: /Game/Blueprints/Vendor/A_Vendor_Tim.Default__A_Vendor_Tim_C.VendorDescription
 msgid "Are you lost? Just asking. You don't look like the type that usually wanders around here, you know, the tough type.\r\n\r\nHere are some tools if you want to buy any, but let's be real here, you look more like a berry gatherer than anything else, just in my opinion of course. Bring the berries to me, and I'll ship them off to a local beverage factory\r\n\r\nDon't knock on the door\r\n\r\n-Tim"
 msgstr ""
-"길을 잃었니? 너는 이 주변 사람은 아닌 거 같네, 그러니까.. 강해 보이거든.\n"
-"\n"
-"도구를 사고 싶다면 몇 개 갖고 있지만, 솔직하게 넌 누구보다 베리 채집가 같아. 물론 내 의견일 뿐이지만, 베리를 나한테 가져와. 그러면 그 베리들을 내가 지역 음료 공장으로 보낼게.\n"
-"\n"
-"노크하지 마.\n"
-"\n"
+"길을 잃었니? 너는 이 주변 사람은 아닌 거 같네, 그러니까.. 강해 보이거든.
+\n"
+"
+\n"
+"도구를 사고 싶다면 몇 개 갖고 있지만, 솔직하게 넌 누구보다 베리 채집가 같아. 물론 내 의견일 뿐이지만, 베리를 나한테 가져와. 그러면 그 베리들을 내가 지역 음료 공장으로 보낼게.
+\n"
+"
+\n"
+"노크하지 마.
+\n"
+"
+\n"
 "-Tim"
 
 #. Key:	94051A304AC82D5D0C608E9F89F039E5
@@ -15849,14 +15921,16 @@ msgstr "식물 도감을 완성하여 이곳에서 쇼핑하세요!"
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the compendium\r\nto shop here!"
 msgstr ""
-"도감을 완성하여 \n"
+"도감을 완성하여 
+\n"
 "이곳에서 쇼핑하세요!"
 
 #. Key:	16387B5544A76737A9CB7E9FD729D92C
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the Hermit\r\n of the mountain to shop here!"
-msgstr "여기서 쇼핑하려면 산의 \\은둔자 퀘스트를 완료하세요!"
+msgstr "여기서 쇼핑하려면 산의 \\
+은둔자 퀘스트를 완료하세요!"
 
 #. Key:	490EF4714CD9229BCE2C6FABFB5BD19C
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
@@ -15869,7 +15943,8 @@ msgstr "요리 도감을 완성하면 여기서 쇼핑할 수 있습니다!"
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the hunting\r\ncompendium to shop here! "
 msgstr ""
-"사냥 도감을 완성하여\n"
+"사냥 도감을 완성하여
+\n"
 "이곳에서 쇼핑하세요! "
 
 #. Key:	9B528B814A020D460F21EEB2DDD9A758
@@ -15883,7 +15958,8 @@ msgstr "여기에서 쇼핑하려면 낚시, 사냥, 농사 및 요리 도감을
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the fishing\r\ncompendium to shop here!"
 msgstr ""
-"낚시 도감을 완성하여\n"
+"낚시 도감을 완성하여
+\n"
 "이곳에서 쇼핑하세요!"
 
 #. Key:	5341DC8F496BCCDEB1FA26AC0FB99402
@@ -16148,9 +16224,12 @@ msgstr "1"
 #: /Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.TextBDescription.Text
 msgid "Fill all shipments before the timer runs out to sell items at higher profits. After each successful shipment, your payment will increase!\r\n\r\n\r\nIMPORTANT: No payment is given for partially filled shipments! If some items are fully filled, those will give 50% rewards."
 msgstr ""
-"타이머가 다 떨어지기 전에 모든 아이템을 채우면 더 높은 수익으로 아이템을 판매할 수 있습니다. 성공적으로 배송될 때마다 결제액이 증가합니다!\n"
-"\n"
-"\n"
+"타이머가 다 떨어지기 전에 모든 아이템을 채우면 더 높은 수익으로 아이템을 판매할 수 있습니다. 성공적으로 배송될 때마다 결제액이 증가합니다!
+\n"
+"
+\n"
+"
+\n"
 "중요: 부분적으로 채워진 아이템에 대해서는 지불이 제공되지 않습니다! 일부 항목이 완전히 채워진 경우 50% 보상을 제공합니다."
 
 #. Key:	2B92618245E5DFE71BEE8CB78C76DD6D
@@ -16459,7 +16538,8 @@ msgstr "게임 종료"
 #: /Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 msgid "The game will close after downloading the missing mods.\r\nYou can use the continue button to join the server after the restart."
 msgstr ""
-"누락된 모드를 다운로드한 후 게임이 종료됩니다. \n"
+"누락된 모드를 다운로드한 후 게임이 종료됩니다. 
+\n"
 "재시작 후 계속 버튼을 사용하여 서버에 참여할 수 있습니다."
 
 #. Key:	6F4BF35541D0705951919D809D701C85
@@ -16547,8 +16627,10 @@ msgstr "문의하기"
 #: /Game/Widgets/MainMenu/UMG_ServerContent.UMG_ServerContent_C:ExecuteUbergraph_UMG_ServerContent [Script Bytecode]
 msgid "Unknown Reason. \r\n\r\nIf this continues, please restart the game. "
 msgstr ""
-"알 수 없는 에러. \n"
-"\n"
+"알 수 없는 에러. 
+\n"
+"
+\n"
 "계속되면 게임을 다시 시작하세요. "
 
 #. Key:	E9724CBD4F4C33EAB016F9A4A57ED191
@@ -17362,7 +17444,7 @@ msgstr "MK가 부족합니다!"
 #. SourceLocation:	/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter [Script Bytecode]
 #: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter [Script Bytecode]
 msgid "Mk drop is on cooldown!"
-msgstr "표식 드롭이 재사용 대기 중입니다!"
+msgstr "Mk 놓기가 재사용 대기중 입니다!"
 
 #. Key:	6FB3B1C942CDE47BB48AD4B667B32740
 #. SourceLocation:	/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter [Script Bytecode]
@@ -17590,7 +17672,7 @@ msgstr "{이름} ({id}) [{무기}]"
 #. SourceLocation:	/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:PrintDamageLog [Script Bytecode]
 #: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:PrintDamageLog [Script Bytecode]
 msgid "{name} ({id}) dealt {dmg} / hit on average with {hits} hits with {weapon} from average distance of {distance}"
-msgstr "{name} ({id}) 한 평균 피해량 {dmg}회 / {hits}회 명중, {weapon}(으)로 평균 거리 {distance}에서 공격함"
+msgstr "{name} ({id})에게 {weapon}(으)로 평균 {distance} 거리에서 {hits}회 명중, 타당 평균 {dmg}의 피해를 입힘"
 
 #. Key:	78AD06E1474F46ABEC8F1F85CD89BDA1
 #. SourceLocation:	/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:VendorListingClickLogic [Script Bytecode]
@@ -18750,7 +18832,7 @@ msgstr "보트를 타고 있는 동안에는 보트 여행이 불가능합니다
 #. SourceLocation:	/Game/Widgets/BoatTravel/UMG_BoatTravel_Content.UMG_BoatTravel_Content_C:WidgetTree.T_NonPVP.Text
 #: /Game/Widgets/BoatTravel/UMG_BoatTravel_Content.UMG_BoatTravel_Content_C:WidgetTree.T_NonPVP.Text
 msgid "• Safe"
-msgstr "• 안전"
+msgstr "• 안전 구역"
 
 #. Key:	1D0576564DA699CEAC9EB49120542F9E
 #. SourceLocation:	/Game/Widgets/BoatTravel/UMG_BoatTravel_Content.UMG_BoatTravel_Content_C:WidgetTree.T_PVP.Text
@@ -18977,8 +19059,10 @@ msgstr "치킨 게임"
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Chicken.UMG_DiceGame_Chicken_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Player and house each roll a dice, higher number wins.\r\n- In ties, player rolls again and must roll higher than the tie in order to win"
 msgstr ""
-"게임 방법:\n"
-"- 플레이어와 하우스가 각각 주사위를 굴립니다. 높은 수가 이깁니다.\n"
+"게임 방법:
+\n"
+"- 플레이어와 하우스가 각각 주사위를 굴립니다. 높은 수가 이깁니다.
+\n"
 "- 만약 무승부이면, 플레이어는 다시 주사위를 굴려야 하며, 무승부보다 높은 숫자를 굴려야 이길 수 있습니다."
 
 #. Key:	3C5F048742FBEE1DE95483877D208340
@@ -19121,10 +19205,14 @@ msgstr "주사위 거짓말"
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Liar.UMG_DiceGame_Liar_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Players roll five dice each and keep their results hidden.\r\n- Players take turns to bid on the count and value of dice, such as \"four 3s\".\r\n- Players can challenge a bid if they think it’s false. \r\n- If the total number of dice matching the bid is equal to or greater than the bid, the bid is correct and the challenger loses. If the bid is incorrect, the bidder loses."
 msgstr ""
-"게임 방법:\n"
-"- 각 플레이어는 다섯 개의 주사위를 굴리고 결과를 숨깁니다.\n"
-"- 플레이어들은 턴을 돌아가며 \"3이 네 개\" 등의 주사위 개수와 값을 내겁니다.\n"
-"- 플레이어는 상대방의 입찰이 거짓이라고 생각되면 도전할 수 있습니다.\\ \n"
+"게임 방법:
+\n"
+"- 각 플레이어는 다섯 개의 주사위를 굴리고 결과를 숨깁니다.
+\n"
+"- 플레이어들은 턴을 돌아가며 \"3이 네 개\" 등의 주사위 개수와 값을 내겁니다.
+\n"
+"- 플레이어는 상대방의 입찰이 거짓이라고 생각되면 도전할 수 있습니다.\\
+ \n"
 "- 입찰 조건을 만족하는 주사위 개수가 입찰보다 많거나 같으면 입찰이 정확하고 도전자가 패배합니다. 입찰이 부정확하면 입찰자가 패배합니다."
 
 #. Key:	02ABD0F04E62182B7523198EDDFA8195
@@ -19231,8 +19319,10 @@ msgstr "돼지 게임"
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Pig.UMG_DiceGame_Pig_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Player take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.\r\n- First to 100 points wins."
 msgstr ""
-"게임 방법: \n"
-"- 플레이어는 번갈아 가며 원하는 횟수만큼 주사위를 굴려 모든 결과를 합산하여 점수를 얻지만, 1. 이 나오면 해당 턴의 획득 점수를 잃게 됩니다.\n"
+"게임 방법: 
+\n"
+"- 플레이어는 번갈아 가며 원하는 횟수만큼 주사위를 굴려 모든 결과를 합산하여 점수를 얻지만, 1. 이 나오면 해당 턴의 획득 점수를 잃게 됩니다.
+\n"
 "- 먼저 100점을 획득한 사람이 승리합니다."
 
 #. Key:	666444B949764A2C9B6951B29D073138
@@ -19395,7 +19485,7 @@ msgstr "입력"
 #. SourceLocation:	/Game/Widgets/Icons/Input/UMG_InputKey.UMG_InputKey_C:WidgetTree.TextBlock_376.Text
 #: /Game/Widgets/Icons/Input/UMG_InputKey.UMG_InputKey_C:WidgetTree.TextBlock_376.Text
 msgid "—"
-msgstr "—"
+msgstr " —"
 
 #. Key:	556417D9459F2EC60A7021A11DC51004
 #. SourceLocation:	/Game/Widgets/Icons/Input/UMG_InputKey.UMG_InputKey_C:WidgetTree.TextKey.Text
@@ -19417,8 +19507,10 @@ msgstr "기본 입력"
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey.ActionDescription
 msgid "Interact,\r\nShoot,\r\nPickup Loot"
 msgstr ""
-"상호작용,\n"
-"쏘기,\n"
+"상호작용,
+\n"
+"쏘기,
+\n"
 "아이템 줍기"
 
 #. Key:	3805FB4A4D799B21E78D46B0099D22BA
@@ -19429,7 +19521,8 @@ msgstr ""
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_1.ActionDescription
 msgid "Aim,\r\nDrop Items"
 msgstr ""
-"조준, \n"
+"조준, 
+\n"
 "아이템 버리기"
 
 #. Key:	254C9B71476BD3748849DEA5A5CB811C
@@ -19446,7 +19539,8 @@ msgstr "아이템 줍기"
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_3.ActionDescription
 msgid "Zoom\r\ncamera"
 msgstr ""
-"확대\n"
+"확대
+\n"
 "카메라"
 
 #. Key:	143F7AAF4F720318E6C505B7A875896B
@@ -19737,7 +19831,7 @@ msgstr "모두 가져가기"
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_Chest.UMG_Chest_C:WidgetTree.T_CookingCrafting_1.Text
 #: /Game/Widgets/Inventory/UMG_Chest.UMG_Chest_C:WidgetTree.T_CookingCrafting_1.Text
 msgid "Store All"
-msgstr "모두 저장"
+msgstr "모두 넣기"
 
 #. Key:	0973668449A35AA156CBE4A6BC98B70E
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_HouseUpgrade.UMG_HouseUpgrade_C:ExecuteUbergraph_UMG_HouseUpgrade [Script Bytecode]
@@ -20647,15 +20741,17 @@ msgstr "장착된 탈것이 없음"
 #: /Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.T_MountEquipped_1.Text
 msgid "Get mounts by earning a collar through compendium activities like fishing, hunting, and farming. \r\n\r\nTrade the collar for a mount at the compendium vendor."
 msgstr ""
-"낚시, 사냥, 농사 등의 활동을 통해 목걸이를 획득하여 탈것을 획득하세요. \n"
-"\n"
+"낚시, 사냥, 농사 등의 활동을 통해 목걸이를 획득하여 탈것을 획득하세요. 
+\n"
+"
+\n"
 "도감 상인에게서 목걸이를 탈것으로 교환하세요."
 
 #. Key:	2437DB694515B150F183F689B104C4E8
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.TextBlock.Text
 msgid "Deposit wood"
-msgstr "나무 추가"
+msgstr "나무 넣기"
 
 #. Key:	705505A64A9CC2817905D5988032F490
 #. SourceLocation:	/Game/Widgets/PlaceableInteractWindow/UMG_CoalGenerator.UMG_CoalGenerator_C:WidgetTree.TextBlock_454.Text
@@ -21433,7 +21529,7 @@ msgstr "당신이 수확한 식물로 음식을 요리하세요."
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestTask.UMG_QuestTask_C:ExecuteUbergraph_UMG_QuestTask [Script Bytecode]
 #: /Game/Widgets/Inventory/UMG_QuestTask.UMG_QuestTask_C:ExecuteUbergraph_UMG_QuestTask [Script Bytecode]
 msgid "Weapons can be crucial. Remember to bring backup, as he's rumored to be a tough one"
-msgstr "무기는 중요할 수 있습니다. 그가 힘든 상대라는 소문이 있으니, 백업을 가져오는 것을 잊지 마세요."
+msgstr "무기는 중요할 수 있습니다. 그가 힘든 상대라는 소문이 있으니, 동료와 함께 가는 걸 잊지 마세요."
 
 #. Key:	3319689F4C187CEF279F7F95EEF1A457
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestTask.UMG_QuestTask_C:ExecuteUbergraph_UMG_QuestTask [Script Bytecode]
@@ -22406,8 +22502,10 @@ msgstr "재현 단계"
 #: /Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_3.Text
 msgid "We found these reports that could be related to your issue. Please read them and report if any of them resemble your problem. This helps us organize issues!\r\n\r\n"
 msgstr ""
-"귀하의 문제와 관련될 수 있는 이러한 보고서들을 찾았습니다. 읽어보시고 귀하의 문제와 유사한 것이 있다면 알려주세요. 이는 문제를 정리하는 데 도움이 됩니다!\n"
-"\n"
+"귀하의 문제와 관련될 수 있는 이러한 보고서들을 찾았습니다. 읽어보시고 귀하의 문제와 유사한 것이 있다면 알려주세요. 이는 문제를 정리하는 데 도움이 됩니다!
+\n"
+"
+\n"
 ""
 
 #. Key:	8311515E4B4E86A501F14FBF70ABA2EA
@@ -22885,25 +22983,42 @@ msgstr "게임 가이드"
 #: /Game/Widgets/MainMenu/UMG_HelpWindow.UMG_HelpWindow_C:WidgetTree.TextBlock_0.Text
 msgid "Quick start:\r\n- Your energy is your health. Maintain it to make sure you are not an easy kill to other players\r\n- If the outpost has turrets, do not aim your chainsaw or weapon or you'll be killed\r\n- Tents and houses are safe places. No one can raid you or steal your items\r\n- Use workbench to upgrade your tent\r\n- If you get stuck, type: /kill in the chat\r\n- C key to wave; X key to sit; Enter to chat\r\n\r\n[Step 1: Spawn]\r\nYou'll spawn on a predetermined outpost based on your SteamID and you're given some starting money (MK). Please use this MK to buy your first tool from the vendor next to your spawn point. Starter vendors have different items for sale, but we'll use the fishing rod as an example.\r\n\r\n[Step 2: Making MK by fishing]\r\nNow that you've bought yourself a fishing rod, you can start walking along the shore to look for fishing spots! To locate fishing spots, look for abnormalities in the water surface. Keep in mind that every fishing spot has a different set of fish you can catch, and the best fish is always up north. This rule applies to everything related to moneymaking or finding rare items. You'll have to explore to find the most valuable stuff.\r\n\r\nOnce you've caught enough fish, sell the fish to the vendor you bought the fishing rod from.\r\n\r\n[Step 3: Spend or Invest]\r\nYou've now made some MK, and you can do whatever you want with it. You should use the boat at the starting point to travel to Sgt. Lake's Outpost. There you can buy yourself a tent, a workbench for crafting and a container to store loot in.\r\n\r\nBuild yourself a base camp, make friends and build a village!"
 msgstr ""
-"게임 가이드:\n"
-"- 당신의 에너지는 당신의 Hp입니다. 다른 플레이어에게 쉽게 죽고 싶지 않다면 관리하세요.\n"
-"- 전초기지에 포탑이 설치 되어 있다면 전기톱이나 무기를 조준하지 마세요. 그렇지 않으면 당신은 죽을거에요.\n"
-"- 텐트와 집은 안전한 장소에요. 아무도 당신을 기습하거나 아이템을 훔칠 수 없습니다.\n"
-"- 작업대를 사용해서 당신의 텐트를 집으로 업그레이드하세요.\n"
-"- C키를 눌러 인사할 수 있고, X키를 눌러 앉을 수 있습니다. Enter키로 대화를 시작하세요.\n"
-"\n"
-"[1단계: 시작]\n"
+"게임 가이드:
+\n"
+"- 당신의 에너지는 당신의 Hp입니다. 다른 플레이어에게 쉽게 죽고 싶지 않다면 관리하세요.
+\n"
+"- 전초기지에 포탑이 설치 되어 있다면 전기톱이나 무기를 조준하지 마세요. 그렇지 않으면 당신은 죽을거에요.
+\n"
+"- 텐트와 집은 안전한 장소에요. 아무도 당신을 기습하거나 아이템을 훔칠 수 없습니다.
+\n"
+"- 작업대를 사용해서 당신의 텐트를 집으로 업그레이드하세요.
+\n"
+"- C키를 눌러 인사할 수 있고, X키를 눌러 앉을 수 있습니다. Enter키로 대화를 시작하세요.
+\n"
+"
+\n"
+"[1단계: 시작]
+\n"
 "당신의 스팀ID로 미리 정해진 전초기지에서 시작하게 될 것입니다. 약간의 시작금(MK) 을 들고요. 이 MK를 사용하여 시작 지점 근처에 있는 상인으로부터 첫 번째 도구를 구매하세요.\n"
-"상인마다 판매하는 아이템이 조금씩 다르지만, 일단 낚싯대로 예를 들어보겠습니다.\n"
-"\n"
+"상인마다 판매하는 아이템이 조금씩 다르지만, 일단 낚싯대로 예를 들어보겠습니다.
+\n"
+"
+\n"
 "[2단계: 낚시로 MK벌기]\n"
-"이제 낚싯대를 구매했으니, 당신은 낚시터를 찾기 위해 해변을 따라 걸어보세요. 낚시터의 위치를 찾기 위해서는 수면 위에 뭔가 다른점이 없는지 살펴보세요. 낚시터마다 잡을 수 있는 물고기의 종류는 다르며 희귀한 물고기는 항상 북쪽에 있다는 것을 기억하세요. 이 규칙은 MK를 벌거나, 희귀한 아이템을 찾는 관련한 모든것에 적용 됩니다. 희귀한 아이템을 찾고 싶다면 탐험을 해야 할 거에요.\n"
-"\n"
-"물고기를 충분히 낚았으면 낚싯대를 판매한 상인에게 가서 물고기를 판매하세요.\n"
-"\n"
-"[3단계: 지출과 투자]\n"
-"이제 MK를 스스로 벌었다면 그걸로 무엇이든 할 수 있습니다. 레이크 중사님께 가고싶다면 시작지점에 있는 선박을 이용해보세요. 도착한다면 그 곳에서 텐트와 작업대, 아이템을 위한 보관함을 구매할 수 있어요.\n"
-"\n"
+"이제 낚싯대를 구매했으니, 당신은 낚시터를 찾기 위해 해변을 따라 걸어보세요. 낚시터의 위치를 찾기 위해서는 수면 위에 뭔가 다른점이 없는지 살펴보세요. 낚시터마다 잡을 수 있는 물고기의 종류는 다르며 희귀한 물고기는 항상 북쪽에 있다는 것을 기억하세요. 이 규칙은 MK를 벌거나, 희귀한 아이템을 찾는 관련한 모든것에 적용 됩니다. 희귀한 아이템을 찾고 싶다면 탐험을 해야 할 거에요.
+\n"
+"
+\n"
+"물고기를 충분히 낚았으면 낚싯대를 판매한 상인에게 가서 물고기를 판매하세요.
+\n"
+"
+\n"
+"[3단계: 지출과 투자]
+\n"
+"이제 MK를 스스로 벌었다면 그걸로 무엇이든 할 수 있습니다. 레이크 중사님께 가고싶다면 시작지점에 있는 선박을 이용해보세요. 도착한다면 그 곳에서 텐트와 작업대, 아이템을 위한 보관함을 구매할 수 있어요.
+\n"
+"
+\n"
 "당신만의 베이스캠프를 만들고, 친구도 만들고 마을을 만들어보세요!"
 
 #. Key:	6E8A38AC4DF56D0E59F6769FC976943C
@@ -23028,7 +23143,8 @@ msgstr "팁: 어디를 가든 모닥불을 가지고 다니세요. 모닥불 근
 #: /Game/Widgets/MainMenu/UMG_LoadingScreen.UMG_LoadingScreen_C:WidgetTree.TextBlock_1.Text
 msgid "The game window may go unresponsive\r\nfor a while. Do not close."
 msgstr ""
-"게임 창이 잠시동안 응답하지 않을 수 있습니다.\n"
+"게임 창이 잠시동안 응답하지 않을 수 있습니다.
+\n"
 "창을 닫지 마십시오."
 
 #. Key:	33AD35444FECBDE14A3A9EA5FE60CBF1
@@ -23084,8 +23200,10 @@ msgstr "전투 중에 연결이 끊어지면 캐릭터가 사망하고 모든 �
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
 msgid "Connection Timed out. \r\n \r\nMake sure that the server is on"
 msgstr ""
-"연결 시간 초과. \n"
-"\n"
+"연결 시간 초과. 
+\n"
+"
+\n"
 "서버가 켜져 있는지 확인하세요."
 
 #. Key:	8AB6A19D46CA4808031BD49EBC4EA359
@@ -23418,24 +23536,42 @@ msgstr "공식서버 초기화됨 3/3"
 #: /Game/Widgets/MainMenu/UMG_PopUp.UMG_PopUp_C:WidgetTree.TextBlock_0.Text
 msgid "We have wiped official servers on Thursday 3/3 due to issues with our save system. We might temporarily move to weekly or bi-weekly wipes on official servers, untill players have one tent limit and are able to pick their tents up, which we plan on doing soon. After that we can do wipes once a month. Tell us what you feel about this on our Discord!\r\n\r\nTeo\r\n------------------------------------------------------------------------------\r\n\r\n> What's going on with the saves?\r\n\r\nA couple days after launch we (and players) noticed that some things were not saving, player progress was lost sometimes upon logout, and most often on server restart, where player houses were also being wiped.\r\n\r\nThis is caused by the async saving / loading we're using. It would have worked perfectly if we had saved everything from homes, placeables and player progress to a single file, but we don't, we save on multiple files, and sometimes the async saving just won't save if there is already another process going on.\r\n\r\nWhy didn't we notice this before release? The system stops working when there are multiple players logging in and out. \r\n\r\nThe latest rollback was just a couple of hours ago which was caused by a failsafe we tried to add, which actually made things worse by not saving at all for a long period of time. We reverted the change now.\r\n\r\nThis whole saving/loading thing is quite embarrassing, and we're sorry for wasting your time. We've been working 16 hours a day trying to fix this, and we can fix it, it just takes a little more time. We're trying to get this working this week, and we'll work the whole weekend if that is what it takes.\r\n\r\nThanks for your patience! \r\n"
 msgstr ""
-"우리는 3/3 목요일에 세이브 시스템 문제로 공식 서버를 삭제했습니다. 플레이어들이 1인 1개의 텐트를 가질 때 까지 일시적으로 주간 또는 격주 간격으로 공식 서버를 삭제할 계획입니다. 그 후로는 한 달에 한 번 삭제 할 수 있습니다. 디스코드에 가입해서 여러분의 의견을 말씀해 주세요! \n"
-"\n"
-"-Teo\n"
-"------------------------------------------------------------------------------\n"
-"\n"
-"> 세이브 파일에 무슨 일이 생긴 거죠?\n"
-"\n"
-"출시 후 얼마 지나지 않아 우리는 로그아웃 시 플레이어의 진행 일부가 저장되지 않고 손실되는 경우가 있으며 대부분의 서버에서 재기동 시 플레이어의 집이 사라지는 것을 알게 되었습니다.\n"
-"\n"
-"이 문제는 현재 우리가 사용 중인 비동기식 저장/로드로 인해 발생합니다. 만약, 장소 및 플레이어의 진행 상황을 모두 하나의 파일로 저장했다면 완벽하게 작동하겠지만 현재의 방식은 그렇지 않고 여러 개의 파일로 나뉘어 저장되며 이미 다른 프로세스가 진행 중인 경우 비동기식 저장이 저장되지 않는 경우도 있습니다.\n"
-"\n"
-"왜 발매 전에는 눈치채지 못했을까요? 여러 명의 플레이어가 로그인하고 로그아웃하면 이 시스템이 작동을 멈춰버리기 때문입니다. \n"
-"\n"
-"최근에 한 롤백은 불과 몇 시간 전이었는데, Failsafe를 추가하려하니 오랜 시간동안 저장이 전혀 되지 않아 상황이 더 악화되었습니다. 우리는 지금 그 변화를 다시 되돌렸습니다.\n"
-"\n"
-"이 모든 저장/로드 문제는 상당히 부끄러운 일입니다. 여러분의 시간을 버리게 해서 죄송합니다. 우린 이걸 고치려고 매일 16시간씩 일해왔으며 이 문제를 고칠 수 있어요. 단지 시간이 좀 더 필요합니다. 그래서 이번 주는 주말 내내 일을 할 예정입니다.\n"
-"\n"
-"기다려 주시면 감사하겠습니다! \n"
+"우리는 3/3 목요일에 세이브 시스템 문제로 공식 서버를 삭제했습니다. 플레이어들이 1인 1개의 텐트를 가질 때 까지 일시적으로 주간 또는 격주 간격으로 공식 서버를 삭제할 계획입니다. 그 후로는 한 달에 한 번 삭제 할 수 있습니다. 디스코드에 가입해서 여러분의 의견을 말씀해 주세요! 
+\n"
+"
+\n"
+"-Teo
+\n"
+"------------------------------------------------------------------------------
+\n"
+"
+\n"
+"> 세이브 파일에 무슨 일이 생긴 거죠?
+\n"
+"
+\n"
+"출시 후 얼마 지나지 않아 우리는 로그아웃 시 플레이어의 진행 일부가 저장되지 않고 손실되는 경우가 있으며 대부분의 서버에서 재기동 시 플레이어의 집이 사라지는 것을 알게 되었습니다.
+\n"
+"
+\n"
+"이 문제는 현재 우리가 사용 중인 비동기식 저장/로드로 인해 발생합니다. 만약, 장소 및 플레이어의 진행 상황을 모두 하나의 파일로 저장했다면 완벽하게 작동하겠지만 현재의 방식은 그렇지 않고 여러 개의 파일로 나뉘어 저장되며 이미 다른 프로세스가 진행 중인 경우 비동기식 저장이 저장되지 않는 경우도 있습니다.
+\n"
+"
+\n"
+"왜 발매 전에는 눈치채지 못했을까요? 여러 명의 플레이어가 로그인하고 로그아웃하면 이 시스템이 작동을 멈춰버리기 때문입니다. 
+\n"
+"
+\n"
+"최근에 한 롤백은 불과 몇 시간 전이었는데, Failsafe를 추가하려하니 오랜 시간동안 저장이 전혀 되지 않아 상황이 더 악화되었습니다. 우리는 지금 그 변화를 다시 되돌렸습니다.
+\n"
+"
+\n"
+"이 모든 저장/로드 문제는 상당히 부끄러운 일입니다. 여러분의 시간을 버리게 해서 죄송합니다. 우린 이걸 고치려고 매일 16시간씩 일해왔으며 이 문제를 고칠 수 있어요. 단지 시간이 좀 더 필요합니다. 그래서 이번 주는 주말 내내 일을 할 예정입니다.
+\n"
+"
+\n"
+"기다려 주시면 감사하겠습니다! 
+\n"
 ""
 
 #. Key:	49E5C0504E7A205DAFE2F1855B1BA0E3
@@ -23620,8 +23756,10 @@ msgstr "나쁜 행위"
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_16.Text
 msgid "As a user of Longvinter's platform, you acknowledge and agree that we are not responsible for, nor do we have any control over, the content, functionality, or legality of modifications (\"Mods\") or their dedicated servers (\"Modded Servers\"). All Mods and Modded Servers are created and managed by third parties. Therefore, any interaction with Mods and Modded Servers, including the content you access, is solely at your own risk and discretion. Uuvana Studios does not oversee or moderate any Modded Servers or content therein.\r\n\r\nMoreover, we provide no guarantees regarding the availability or performance of Mods or Modded Servers, and we shall not be held liable for any harm or damages arising from their use. By using any Mods or interacting with Modded Servers, you relieve Uuvana Studios of all liability related to such use."
 msgstr ""
-"Longvinter 이용자는 '모드(Mods)' 또는 모드 전용 서버인 '모드 서버(Modded Servers)'의 콘텐츠, 기능, 적법성에 대해 개발사가 어떠한 통제권도 가지지 않으며 책임지지 않는다는 점에 동의합니다. 모든 모드 및 모드 서버는 제3자가 제작하고 관리합니다. 따라서 모드 및 모드 서버 이용과 그에 따른 콘텐츠 접근에 대한 모든 책임과 위험은 전적으로 이용자 본인에게 있습니다. Uuvana Studios는 모드 서버나 그 내용을 감독하거나 중재하지 않습니다.\n"
-"\n"
+"Longvinter 이용자는 '모드(Mods)' 또는 모드 전용 서버인 '모드 서버(Modded Servers)'의 콘텐츠, 기능, 적법성에 대해 개발사가 어떠한 통제권도 가지지 않으며 책임지지 않는다는 점에 동의합니다. 모든 모드 및 모드 서버는 제3자가 제작하고 관리합니다. 따라서 모드 및 모드 서버 이용과 그에 따른 콘텐츠 접근에 대한 모든 책임과 위험은 전적으로 이용자 본인에게 있습니다. Uuvana Studios는 모드 서버나 그 내용을 감독하거나 중재하지 않습니다.
+\n"
+"
+\n"
 "또한 모드나 모드 서버의 가용성이나 안정성을 보증하지 않으며, 이용 중 발생하는 어떠한 피해나 손해에 대해서도 책임을 지지 않습니다. 이용자는 모드 사용 및 모드 서버 접속과 관련하여 Uuvana Studios에 책임을 묻지 않는 것에 동의합니다."
 
 #. Key:	7D1A726E41E634D3AABEDEB3902FE9A0
@@ -23641,8 +23779,10 @@ msgstr "사용자 정보 저장 및 삭제 정책"
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_19.Text
 msgid "At Uuvana Studios, we value your privacy and are committed to protecting your personal data. We collect and store certain information about our users for the purpose of enhancing user experience and maintaining the integrity of our platform. This information includes: MAC address, Steam ID, reports made by the user, reports made about the user, user actions within the game, and IP address. Please note that IP addresses are stored temporarily and are automatically deleted after 30 days.\r\n\r\nWe understand the importance of data control and thus, provide our users with the option to request the deletion of their personal data. If you wish to exercise this right, please send us an email at contact@uuvana.com with your request. Upon receiving such a request, we will proceed with the deletion of your data in accordance with applicable laws and regulations, barring any legal requirements that might necessitate the retention of certain data."
 msgstr ""
-"Uuvana Studios는 귀하의 개인정보를 소중히 여기며 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 당사는 귀하의 경험을 개선하고 플랫폼의 무결성을 유지하기 위해 귀하에 관한 특정 정보를 수집하고 저장합니다. 이러한 정보에는 MAC 주소, Steam ID, 귀하가 작성한 보고서, 귀하에 관한 보고서, 게임 내 사용자 행동 및 IP 주소가 포함됩니다. IP 주소는 임시로 저장되며 30일 후에 자동으로 삭제됩니다.\n"
-"\n"
+"Uuvana Studios는 귀하의 개인정보를 소중히 여기며 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 당사는 귀하의 경험을 개선하고 플랫폼의 무결성을 유지하기 위해 귀하에 관한 특정 정보를 수집하고 저장합니다. 이러한 정보에는 MAC 주소, Steam ID, 귀하가 작성한 보고서, 귀하에 관한 보고서, 게임 내 사용자 행동 및 IP 주소가 포함됩니다. IP 주소는 임시로 저장되며 30일 후에 자동으로 삭제됩니다.
+\n"
+"
+\n"
 "당사는 데이터 제어의 중요성을 인식하고 있으므로 귀하에게 개인 데이터 삭제를 요청할 수 있는 옵션을 제공합니다. 이 권리를 행사하려면 이메일(contact@uuvana.com)로 요청을 보내주시기 바랍니다. 이러한 요청이 접수되면 당사는 특정 데이터를 보존해야 하는 법적 요건을 제외하고 관련 법률 및 규정에 따라 귀하의 데이터를 삭제할 것입니다."
 
 #. Key:	0436B0234DFDED64B3A5398B64B83368
@@ -23656,9 +23796,12 @@ msgstr "방해적인, 나쁜 영향을 주는 또는 차별적인 행동을 하�
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_3.Text
 msgid "- Offensive language, insulting, harassing, or threatening\r\n- Discrimination or hate speech that is based on, including but not limited to, sexual orientation, gender identity, race, religion, and ethnicity.\r\n- Inappropriate game names, such as lewd, derogatory, or insulting.\r\n- Impersonation of any individual, business, or entity for malicious purposes"
 msgstr ""
-"- 모욕, 협박, 괴롭힘\n"
-"- 성적 지향, 성 정체성, 인종, 종교 등을 포함한 모든 차별 또는 혐오발언\n"
-"- 음란하고 모욕적이거나 모욕적인 게임 이름 등 부적합한 닉네임.\n"
+"- 모욕, 협박, 괴롭힘
+\n"
+"- 성적 지향, 성 정체성, 인종, 종교 등을 포함한 모든 차별 또는 혐오발언
+\n"
+"- 음란하고 모욕적이거나 모욕적인 게임 이름 등 부적합한 닉네임.
+\n"
 "- 악의적인 목적으로 개인, 기업을 사칭함"
 
 #. Key:	65F1CF9F45C7DB69CA50538DA0DC233B
@@ -24662,21 +24805,23 @@ msgstr "R키를 눌러 회전"
 #: /Game/Widgets/PlacingHints/UMG_PlacingHintSlotTextOnly.UMG_PlacingHintSlotTextOnly_C:WidgetTree.T_PlayerName_2.Text
 msgid "To pick up, un-equip your weapon\r\nand right-click the placeable"
 msgstr ""
-"아이템 회수를 하려면 장착한 무기를 빼고\n"
+"아이템 회수를 하려면 장착한 무기를 빼고
+\n"
 "회수할 아이템을 우클릭하세요."
 
 #. Key:	8DD5AA8C48191746C375AFBEABD97A29
 #. SourceLocation:	/Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock.Text
 msgid "— Anyone can pick up"
-msgstr "누구든지 주울 수 있습니다."
+msgstr "누구든지 주울 수 있음"
 
 #. Key:	933B87234467F57AC7ED868808F76633
 #. SourceLocation:	/Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock_1.Text
 msgid "— You cannot pick up\r\n     after placing"
 msgstr ""
-"— 설치 후 주울 수\n"
+"— 설치 후 주울 수
+\n"
 "     없습니다"
 
 #. Key:	23102E634EE80FB935AE219C33CC3433
@@ -25538,7 +25683,7 @@ msgstr "금융 관리인"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/UMG_Credits.UMG_Credits_C:WidgetTree.Role_12.Text
 #: /Game/Widgets/SettingsMenu/UMG_Credits.UMG_Credits_C:WidgetTree.Role_12.Text
 msgid "Weapons Provider for Recordings"
-msgstr "녹음을 위한 무기 공급자"
+msgstr "사운드 녹음 무기 협찬"
 
 #. Key:	93F084D74AC8D3BA8D2F049DEFDB4243
 #. SourceLocation:	/Game/Widgets/SettingsMenu/UMG_Credits.UMG_Credits_C:WidgetTree.Role_13.Text
@@ -26828,7 +26973,7 @@ msgstr "/"
 #. SourceLocation:	/Game/Widgets/UMG_Commands.UMG_Commands_C:WidgetTree.TextBlock_45.Text
 #: /Game/Widgets/UMG_Commands.UMG_Commands_C:WidgetTree.TextBlock_45.Text
 msgid "刃直海角骨入"
-msgstr "칼붙인 바다가 모퉁이에서 뼈에 들어간다"
+msgstr "명령어 목록"
 
 #. Key:	2F24DD764BC1FF51D8FA5E8905AAB21E
 #. SourceLocation:	/Game/Widgets/UMG_Coordinates.UMG_Coordinates_C:Get_EditableText_Chatbox_HintText_0 [Script Bytecode]
@@ -26970,8 +27115,10 @@ msgstr "신규 하드코어 서버!"
 #: /Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock.Text
 msgid "Remember: This mode is designed for experienced players seeking an intense, high-stakes experience. Join only if you're prepared for a true test of your survival skills!\r\n\r\n"
 msgstr ""
-"경고: 이 모드는 강렬하고 큰 위험이 따르는 경험을 원하는 숙련된 플레이어를 위해 설계되었습니다. 자신의 생존 기술을 시험할 준비가 된 경우에만 참여하세요!\n"
-"\n"
+"경고: 이 모드는 강렬하고 큰 위험이 따르는 경험을 원하는 숙련된 플레이어를 위해 설계되었습니다. 자신의 생존 기술을 시험할 준비가 된 경우에만 참여하세요!
+\n"
+"
+\n"
 ""
 
 #. Key:	F31CF44845DBF645554F9CABC37E7AFA
@@ -26979,8 +27126,10 @@ msgstr ""
 #: /Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock_0.Text
 msgid "Please Read Before Joining!\r\n\r\nWe're excited to introduce our new \"Hardcore\" ruleset, now available on one of our official servers. You can easily join by clicking the button in the corner. Below is a list of all the changes compared to our regular PVP server:"
 msgstr ""
-"합류하기 전에 읽어주세요!\n"
-"\n"
+"합류하기 전에 읽어주세요!
+\n"
+"
+\n"
 "새로운 \"하드코어\" 규칙이 적용된 공식 서버를 소개하게 되어 기쁩니다. 코너 버튼을 클릭하면 쉽게 참여할 수 있습니다. 아래는 일반 PVP 서버와 비교한 변경 사항 목록입니다:"
 
 #. Key:	D3D323434EB68CFF19B99C84C334D545
@@ -27263,7 +27412,7 @@ msgstr "차단"
 #. SourceLocation:	/Game/Widgets/UMG_TextBubble.UMG_TextBubble_C:ExecuteUbergraph_UMG_TextBubble [Script Bytecode]
 #: /Game/Widgets/UMG_TextBubble.UMG_TextBubble_C:ExecuteUbergraph_UMG_TextBubble [Script Bytecode]
 msgid "min time alive required before committing a kill"
-msgstr "/kill 명령어를 위한 필요한 최소 생존 시간"
+msgstr "부활 후 일정 시간이 지나야만 /kill 명령어를 사용할 수 있습니다"
 
 #. Key:	C5A0B02945DC1E4C609DC7BFBAEE0A2B
 #. SourceLocation:	/Game/Widgets/UMG_TextBubbleTyping.UMG_TextBubbleTyping_C:WidgetTree.T_dots.Text
