@@ -1,4 +1,4 @@
-﻿# GameLocalization Korean (South Korea) translation.
+# GameLocalization Korean (South Korea) translation.
 # © 2021 Uuvana Studios Oy. All Rights Reserved.
 # Translation Progress:
 # - Tutorial messages (100%)
@@ -6,7 +6,7 @@
 # - Item names & descriptions (2%)
 # - Others (0%)
 # 
-# Last updated: September 15, 2026
+# Last updated: September 22, 2026
 # Last translator: hihhhh
 # 
 msgid ""
@@ -91,10 +91,7 @@ msgstr "모닥불 근처에서 체력을 회복 할 수 있습니다."
 #. SourceLocation:	/Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
 #: /Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
 msgid "Action: Remove Container\r\nOwner: ({id})"
-msgstr ""
-"액션: 보관함 제거
-\n"
-"소유자: ({id})"
+msgstr "액션: 보관함 제거\r\n소유자: ({id})"
 
 #. Key:	9AE2E7004645F157626B7BBEF14CE2EE
 #. SourceLocation:	/Game/Blueprints/A_Chest/A_Chest.A_Chest_C:ExecuteUbergraph_A_Chest [Script Bytecode]
@@ -3566,7 +3563,7 @@ msgstr "큽니다."
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(31).Items_3_DA3E476B498281EF494BA4AE8483337F.Name_95_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(31).Items_3_DA3E476B498281EF494BA4AE8483337F.Name_95_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Planter Box 3x3"
-msgstr "화분 상자 3x3"
+msgstr "3x3 화분 상자"
 
 #. Key:	0EC531F84490AC88F145559BFC766062
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(32).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -3920,7 +3917,7 @@ msgstr "가장 흔하게 볼 수 있는 건설재료"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(54).Items_3_DA3E476B498281EF494BA4AE8483337F.Name_95_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(54).Items_3_DA3E476B498281EF494BA4AE8483337F.Name_95_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Regular Wood Planks"
-msgstr "일반 나무판"
+msgstr "일반 나무 판자"
 
 #. Key:	A11F3ED146D8F0EA0FD6F38A243DACE9
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(55).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -11473,7 +11470,7 @@ msgstr "유지비"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(1).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
 msgctxt "DT_ChatResponses"
 msgid "decay"
-msgstr "부식"
+msgstr "철거"
 
 #. Key:	BaseUpkeep_Keywords_Index2
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.BaseUpkeep.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(2).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -11798,7 +11795,7 @@ msgstr "하지만 최고의 요리를 만들려면 가스레인지가 최고예�
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WeatherStation.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(2).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
 msgctxt "DT_ChatResponses"
 msgid "mk"
-msgstr "돈"
+msgstr "mk"
 
 #. Key:	Currency_Keywords_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.Currency.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(1).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13094,7 +13091,7 @@ msgstr "거기서 다른 플레이어를 팀에 초대할 수도 있답니다."
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentWarnings.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
 msgctxt "DT_ChatResponses"
 msgid "tent"
-msgstr "텐트"
+msgstr "텐트 설치"
 
 #. Key:	TentBasics_Keywords_Index1
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.TentBasics.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(1).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13202,7 +13199,7 @@ msgstr "오두막"
 #: /Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.WorkbenchUse.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(0).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
 msgctxt "DT_ChatResponses"
 msgid "workbench"
-msgstr "작업대"
+msgstr "제작대"
 
 #. Key:	UpgradingHome_Keywords_Index3
 #. SourceLocation:	/Game/Blueprints/NewQuests/DT_ChatResponses.DT_ChatResponses.UpgradingHome.Keywords_3_4813D612475BFE69FB46CBB6EF7E240C(3).Keywords_3_4813D612475BFE69FB46CBB6EF7E240C
@@ -13906,7 +13903,7 @@ msgstr "팀에서 제외되었습니다!"
 #. SourceLocation:	/Game/Blueprints/PC_Longvinter.PC_Longvinter_C:ExecuteUbergraph_PC_Longvinter [Script Bytecode]
 #: /Game/Blueprints/PC_Longvinter.PC_Longvinter_C:ExecuteUbergraph_PC_Longvinter [Script Bytecode]
 msgid "You have been banned from playing the game permanently. You cannot appeal."
-msgstr "게임 플레이가 영구적으로 금지되었습니다. 이의를 제기할 수 없습니다."
+msgstr "게임 플레이가 영구적으로 차단되었습니다. 이의를 제기할 수 없습니다."
 
 #. Key:	DF72DDFD414F9955B50372B1B5C37F49
 #. SourceLocation:	/Game/Blueprints/PC_Longvinter.PC_Longvinter_C:ExecuteUbergraph_PC_Longvinter [Script Bytecode]
@@ -14921,12 +14918,7 @@ msgstr "AllPlaceables 파일 크기: {size} MB"
 #. SourceLocation:	/Game/Blueprints/Server/GM_Longvinter.GM_Longvinter_C:ExecuteUbergraph_GM_Longvinter [Script Bytecode]
 #: /Game/Blueprints/Server/GM_Longvinter.GM_Longvinter_C:ExecuteUbergraph_GM_Longvinter [Script Bytecode]
 msgid "\r\nGC paused!\r\n{count} async tasks running"
-msgstr ""
-"
-\n"
-"가비지 컬렉터 일시 중지됨!
-\n"
-"{count}개의 비동기 작업 실행 중"
+msgstr "\r\n가비지 컬렉터 일시 중지됨!\r\n{count}개의 비동기 작업 실행 중"
 
 #. Key:	727B4073478C82977A9F8EB87DD74BE5
 #. SourceLocation:	/Game/Blueprints/Server/GM_Longvinter.GM_Longvinter_C:ExecuteUbergraph_GM_Longvinter [Script Bytecode]
@@ -15323,20 +15315,7 @@ msgstr "A의 농장"
 #: /Game/Blueprints/Vendor/A_Vendor_AFarmingShop_A.Default__A_Vendor_AFarmingShop_A_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_AFarmingShop_B.Default__A_Vendor_AFarmingShop_B_C.VendorDescription
 msgid "I'd rather eat animals, but this is probably more sustainable.\r\n\r\nSetup your home tent and start farming. Turn seeds into edible fruit and bring it all here.\r\n\r\nRemeber to guard your plants. A lot of berry thieves around here.\r\n\r\n-A"
-msgstr ""
-"나라면 동물들을 사냥하겠지만, 이 방법이 더 지속 가능하겠지.
-\n"
-"
-\n"
-"홈 텐트를 치고 농사를 짓기 시작해 봐. 씨앗을 먹을 수 있는 과일로 만들어서 여기로 가져와.
-\n"
-"
-\n"
-"농작물들을 지키는 거 잊지 마. 이 근처에 도둑이 많거든.
-\n"
-"
-\n"
-"-A"
+msgstr "나라면 동물들을 사냥하겠지만, 이 방법이 더 지속 가능하겠지.\r\n\r\n홈 텐트를 치고 농사를 짓기 시작해 봐. 씨앗을 먹을 수 있는 과일로 만들어서 여기로 가져와.\r\n\r\n농작물들을 지키는 거 잊지 마. 이 근처에 도둑이 많거든.\r\n\r\n-A"
 
 #. Key:	3CDFF3B74C02BEC17E63D1AFE130C5CF
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_PlayerPlaced.A_Vendor_PlayerPlaced_C:ExecuteUbergraph_A_Vendor_PlayerPlaced [Script Bytecode]
@@ -15357,10 +15336,7 @@ msgstr "톰"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_AllCompendium.Default__A_Vendor_AllCompendium_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_AllCompendium.Default__A_Vendor_AllCompendium_C.VendorDescription
 msgid "Oh, this was unexpected. I was not expecting company here so far north! I initially came here for some peace and quiet, but I cannot say that I am not pleased to have some company at last. I have been collecting hats my whole life, and it seems that you are quite a collector as well. I would be happy to trade things since I have no use for Mk up here.\r\n\r\n-Tom"
-msgstr ""
-"오, 이렇게 예기치 못한 일이었네요. 이렇게 북쪽까지 올 줄은 몰랐습니다! 처음에는 조용히 평화로운 시간을 갖기 위해 이곳에 왔지만, 결국에는 동행자가 생겨 기쁘기도 합니다. 평생 동안 모자를 수집해 왔는데, 당신 또한 수집가라는 걸 알겠네요. Mk는 여기서 필요 없으니 교환하고 싶네요.\n"
-"\n"
-"-Tom"
+msgstr "오, 이렇게 예기치 못한 일이었네요. 이렇게 북쪽까지 올 줄은 몰랐습니다! 처음에는 조용히 평화로운 시간을 갖기 위해 이곳에 왔지만, 결국에는 동행자가 생겨 기쁘기도 합니다. 평생 동안 모자를 수집해 왔는데, 당신 또한 수집가라는 걸 알겠네요. Mk는 여기서 필요 없으니 교환하고 싶네요.\r\n\r\n-Tom"
 
 #. Key:	832AFE2D423DF7B31DB8888054F62C7D
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Arena.Default__A_Vendor_Arena_C.Vendor Name
@@ -15375,16 +15351,7 @@ msgstr "Jack의 아레나 "
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Arena.Default__A_Vendor_Arena_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Arena.Default__A_Vendor_Arena_C.VendorDescription
 msgid "You are going to try your luck in the arena eh? I want to prepare you as much as possible for your challenge. \r\n\r\nIf you find any good loot that you don't want to keep. Just sell it over to James and he will distribute it.\r\n\r\n- Jack"
-msgstr ""
-"당신은 아레나에서 운을 시험할건가요? 그렇다면 그것을 위해 가능한 준비해야 합니다.
-\n"
-"
-\n"
-"만약 찾은 아이템을 갖고 싶지 않다면, James에게 판매하세요. 그가 매입할 것입니다.
-\n"
-"
-\n"
-"- Jack"
+msgstr "당신은 아레나에서 운을 시험할건가요? 그렇다면 그것을 위해 가능한 준비해야 합니다.\r\n\r\n만약 찾은 아이템을 갖고 싶지 않다면, James에게 판매하세요. 그가 매입할 것입니다.\r\n\r\n- Jack"
 
 #. Key:	4600FF67479C14E7012884925424BC6C
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_ArenaReward.Default__A_Vendor_ArenaReward_C.VendorCatalogue(4).VendorCatalogue.VendorItem_49_9649B8424E045E3B665EEEAAAF1394BD.Name_95_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -15441,16 +15408,7 @@ msgstr "Julia의 수수께끼 가게"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_ChangingCatalog.Default__A_Vendor_ChangingCatalog_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_ChangingCatalog.Default__A_Vendor_ChangingCatalog_C.VendorDescription
 msgid "Hi there!\r\n\r\nI always love to meet new researchers around the island.\r\n\r\nIf nothing here suits you now. Please check the clock and come back to see what new items have arrived from over the seas"
-msgstr ""
-"안녕하세요!
-\n"
-"
-\n"
-"저는 이 섬에서 새로운 연구원들을 만나는 게 항상 기뻐요.
-\n"
-"
-\n"
-"만약 지금 물건들이 마음에 들지 않는다면, 다른 시간에 바다 건너 어떤 새로운 물건이 도착했는지 보러 오세요"
+msgstr "안녕하세요!\r\n\r\n저는 이 섬에서 새로운 연구원들을 만나는 게 항상 기뻐요.\r\n\r\n만약 지금 물건들이 마음에 들지 않는다면, 다른 시간에 바다 건너 어떤 새로운 물건이 도착했는지 보러 오세요"
 
 #. Key:	988AD2EE4A07B6EAFF873DB7A2BA2296
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Cooking.Default__A_Vendor_Cooking_C.VendorDescription
@@ -15471,12 +15429,7 @@ msgstr "필레몽"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Feather.Default__A_Vendor_Feather_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Feather.Default__A_Vendor_Feather_C.VendorDescription
 msgid "I will be happy to buy all sorts of feathers and other animal stuff you find on the island. Feel free to come and say hello to me at Padva island!\r\n\r\n-Filemon"
-msgstr ""
-"저는 섬에서 발견되는 모든 종류의 깃털과 동물 관련 아이템을 즐겁게 구매하겠습니다. 부담없이 Padva 섬의 저를 만나러 와서 인사해 주세요!
-\n"
-"
-\n"
-"--Filemon"
+msgstr "저는 섬에서 발견되는 모든 종류의 깃털과 동물 관련 아이템을 즐겁게 구매하겠습니다. 부담없이 Padva 섬의 저를 만나러 와서 인사해 주세요!\r\n\r\n--Filemon"
 
 #. Key:	3D63A59142F48DA48DFC17AC6D4A94C8
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Fishing.Default__A_Vendor_Fishing_C.Vendor Name
@@ -15488,20 +15441,7 @@ msgstr "레이크 중사의 부엌"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Fishing.Default__A_Vendor_Fishing_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Fishing.Default__A_Vendor_Fishing_C.VendorDescription
 msgid "Want to be useful for once? Grab a fishing rod from us and go fishing.\r\n\r\nThis island has a healthy fish population, which makes for a healthy researcher population.\r\n\r\nWhat are you standing there? Go find the best spots!\r\n\r\n-Sgt. Lake"
-msgstr ""
-"한번이라도 도움이 되고 싶나? 낚시대를 들고 낚시를 가도록.
-\n"
-"
-\n"
-"이 섬은 좋은 물고기들이 많아, 연구자들의 수 또한 많다.
-\n"
-"
-\n"
-"무엇을 망설이고 있나? 빨리 가장 좋은 장소를 찾아봐!
-\n"
-"
-\n"
-"-Sgt. Lake"
+msgstr "한번이라도 도움이 되고 싶나? 낚시대를 들고 낚시를 가도록.\r\n\r\n이 섬은 좋은 물고기들이 많아, 연구자들의 수 또한 많다.\r\n\r\n무엇을 망설이고 있나? 빨리 가장 좋은 장소를 찾아봐!\r\n\r\n-Sgt. Lake"
 
 #. Key:	846A35EC4EC544A4F8411497059091C0
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_FishingReward.Default__A_Vendor_FishingReward_C.Vendor Name
@@ -15513,12 +15453,7 @@ msgstr "Lake 중사"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_FishingReward.Default__A_Vendor_FishingReward_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_FishingReward.Default__A_Vendor_FishingReward_C.VendorDescription
 msgid "Well done! You finished the most important compendium list there is, be proud of yourself and wear the hat with pride!\r\n\r\n-Sgt. Lake"
-msgstr ""
-"아주 잘했어! 가장 중요한 기록들을 끝냈군, 자부심을 가지고 모자를 쓰도록!
-\n"
-"
-\n"
-"- Lake 중사"
+msgstr "아주 잘했어! 가장 중요한 기록들을 끝냈군, 자부심을 가지고 모자를 쓰도록!\r\n\r\n- Lake 중사"
 
 #. Key:	5C29609D4155E15693E38AA59C6BAB39
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_GeneralStore.Default__A_Vendor_GeneralStore_C.Vendor Name
@@ -15530,16 +15465,7 @@ msgstr "James의 잡화점"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_GeneralStore.Default__A_Vendor_GeneralStore_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_GeneralStore.Default__A_Vendor_GeneralStore_C.VendorDescription
 msgid "Have any items that you dont have any need to?\r\n\r\nIf the answer is yes then just hand it over to me. I buy everything from you for reduced cost of course.\r\n\r\n-James"
-msgstr ""
-"필요 없는 아이템을 가지고 있습니까?
-\n"
-"
-\n"
-"만약 그렇다면 저에게 판매하세요. 모든 아이템을 저렴한 가격으로 구매하고 있습니다.
-\n"
-"
-\n"
-"-제임스"
+msgstr "필요 없는 아이템을 가지고 있습니까?\r\n\r\n만약 그렇다면 저에게 판매하세요. 모든 아이템을 저렴한 가격으로 구매하고 있습니다.\r\n\r\n-제임스"
 
 #. Key:	0FD5BA114E3F42D9CC270BA909A26CA8
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Hermit.A_Vendor_Hermit_C:ExecuteUbergraph_A_Vendor_Hermit [Script Bytecode]
@@ -15563,12 +15489,7 @@ msgstr "어떤 사람들은 제가 한때 숙련된 치료사였다고 말합니
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_HuntingReward.Default__A_Vendor_HuntingReward_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_HuntingReward.Default__A_Vendor_HuntingReward_C.VendorDescription
 msgid "Only hunters that enjoy the killing have made it this far. Shooting a bird wihout damaging it's feathers ain't no easy task my firend. Be proud.\r\n\r\n-Filemon"
-msgstr ""
-"사냥을 즐기는 사냥꾼들만이 여기까지 올 수 있다. 깃털을 손상 입히지 않고 새를 사냥한다는 건 매우 어려운 일이지. 자부심을 가져!
-\n"
-"
-\n"
-"-Filemon"
+msgstr "사냥을 즐기는 사냥꾼들만이 여기까지 올 수 있다. 깃털을 손상 입히지 않고 새를 사냥한다는 건 매우 어려운 일이지. 자부심을 가져!\r\n\r\n-Filemon"
 
 #. Key:	741402444C4A63FA612F18A11592C5C3
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_IslandBenefits.Default__A_Vendor_IslandBenefits_C.Vendor Name
@@ -15598,16 +15519,7 @@ msgstr "Kyrre's의 장비상점"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_KyrresEquipment.Default__A_Vendor_KyrresEquipment_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_KyrresEquipment.Default__A_Vendor_KyrresEquipment_C.VendorDescription
 msgid "Think you're going to carry everything on that tiny backpack of yours? Didn't think so either.\r\n\r\nGet yourself a tent and some containers to ease that load and keep your findings safe! Only you can enter the tent, so you're safe. Don't ask me how it works like that, it just does.\r\n\r\n-Kyrre"
-msgstr ""
-"혹시 그 작은 가방에 모든 걸 담아 갈 생각은 아니시죠? 안 될 것 같아요.
-\n"
-"
-\n"
-"짐과 발견한 물건들을 안전하게 지킬 수 있는 텐트와 보관함을 준비하세요! 오직 당신만 텐트에 들어갈 수 있어서 안전하답니다. 어떻게 그게 가능한지는 묻지 마세요. 그냥 된답니다.
-\n"
-"
-\n"
-"-Kyrre"
+msgstr "혹시 그 작은 가방에 모든 걸 담아 갈 생각은 아니시죠? 안 될 것 같아요.\r\n\r\n짐과 발견한 물건들을 안전하게 지킬 수 있는 텐트와 보관함을 준비하세요! 오직 당신만 텐트에 들어갈 수 있어서 안전하답니다. 어떻게 그게 가능한지는 묻지 마세요. 그냥 된답니다.\r\n\r\n-Kyrre"
 
 #. Key:	776697704440B4A2911469BAB7E434A4
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Mining.Default__A_Vendor_Mining_C.Vendor Name
@@ -15619,15 +15531,7 @@ msgstr "Dan"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Mining.Default__A_Vendor_Mining_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Mining.Default__A_Vendor_Mining_C.VendorDescription
 msgid "Got a hunger for adventure? Grab a pickaxe from me and let's get mining. Mines are filled with precious resources, and we need miners like you to uncover them. \r\n\r\nWhat are you waiting for? Dive into the depths and unearth riches!\r\n\r\n-Dan"
-msgstr ""
-"모험에 대한 갈망이 있으신가요? 곡괭이를 들고 채굴을 시작하세요. 광산은 귀중한 자원으로 가득 차 있으며, 이를 발굴하려면 여러분과 같은 광부가 필요합니다. 
-\n"
-"
-\n"
-"뭘 기다리세요? 심연으로 뛰어들어 부를 캐내세요!\n"
-"
-\n"
-"-Dan"
+msgstr "모험에 대한 갈망이 있으신가요? 곡괭이를 들고 채굴을 시작하세요. 광산은 귀중한 자원으로 가득 차 있으며, 이를 발굴하려면 여러분과 같은 광부가 필요합니다. \r\n\r\n뭘 기다리세요? 심연으로 뛰어들어 부를 캐내세요!\r\n\r\n-Dan"
 
 #. Key:	B4AC1E5E476B6F7E1971439F545BDE10
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_MrsSnow.Default__A_Vendor_MrsSnow_C.Vendor Name
@@ -15639,20 +15543,7 @@ msgstr "Snow 부인의 전초기지"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_MrsSnow.Default__A_Vendor_MrsSnow_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_MrsSnow.Default__A_Vendor_MrsSnow_C.VendorDescription
 msgid "Hello handsome! You look a little lost, let me help you:\r\n\r\nBring me some fish or berries, and I'll pay you well! The fish here is amazing. You should cook some for yourself while you're at it.\r\n\r\nI used to live in the city. I had a career as a lawyer. I did everything you're supposed to do I guess, but it wasn't cutting it. I wanted to find the thing I'm passionate about, so I joined the research program, and I'm still here, happy as one could be. Nature was the thing for me. I hope you find your happiness too, or whatever you are looking for.\r\n\r\n- Mrs. Snow"
-msgstr ""
-"안녕 멋쟁이! 헤매고 있는 것 같아 보이는데 내가 도와줄게:
-\n"
-"
-\n"
-"나한테 물고기나 베리를 가져오면 아주 잘 쳐줄게! 이곳의 물고기들은 정말 최고야. 이곳에 머무는 동안 꼭 요리를 해보렴.
-\n"
-"
-\n"
-"난 원래 도시에서 변호사로 일했었지. 할 수 있는 모든 걸 다 해본 것 같은데 썩 만족스럽진 않더라. 내가 열정을 가지고 할 수 있는 일을 찾고 싶어서 연구 프로그램에 참여했었는데, 아직도 이곳에 머물고 있네. 자연이 아주 딱 이었지. 너도 너의 행복을 찾길 바랄게, 네가 원하는 것이 무엇이든지.
-\n"
-"
-\n"
-"- Snow 부인"
+msgstr "안녕 멋쟁이! 헤매고 있는 것 같아 보이는데 내가 도와줄게:\r\n\r\n나한테 물고기나 베리를 가져오면 아주 잘 쳐줄게! 이곳의 물고기들은 정말 최고야. 이곳에 머무는 동안 꼭 요리를 해보렴.\r\n\r\n난 원래 도시에서 변호사로 일했었지. 할 수 있는 모든 걸 다 해본 것 같은데 썩 만족스럽진 않더라. 내가 열정을 가지고 할 수 있는 일을 찾고 싶어서 연구 프로그램에 참여했었는데, 아직도 이곳에 머물고 있네. 자연이 아주 딱 이었지. 너도 너의 행복을 찾길 바랄게, 네가 원하는 것이 무엇이든지.\r\n\r\n- Snow 부인"
 
 #. Key:	7BDF864D45144514035A22B54314B9A0
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Pix.Default__A_Vendor_Pix_C.Vendor Name
@@ -15664,16 +15555,7 @@ msgstr "Pix"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Pix.Default__A_Vendor_Pix_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Pix.Default__A_Vendor_Pix_C.VendorDescription
 msgid "Hey there! If you ever find any mysterious bags lying around, bring them to me and I'll give you something in return!\r\n\r\nI'm too short to wander around the island all day looking for those, It gets too exhausting, so I setup this vending machine to trade with the researchers that do have normal size legs.\r\n\r\nWhat do the bags contain, and who is Anders? That I cannot tell you. "
-msgstr ""
-"안녕! 근처에서 혹시 수수께끼 가방을 발견하면 나한테 가져와줘, 답례로 뭔가를 줄게!
-\n"
-"
-\n"
-"나는 온종일 섬을 돌아다니며 이것들을 찾기엔 너무 작고 지쳐서, 긴 다리를 가진 연구원들과 거래하기 위해 이 자판기를 설치했어.
-\n"
-"
-\n"
-"그 가방엔 뭐가 들어있고, 앤더슨는 누구냐고? 그건 말해줄 수 없어. "
+msgstr "안녕! 근처에서 혹시 수수께끼 가방을 발견하면 나한테 가져와줘, 답례로 뭔가를 줄게!\r\n\r\n나는 온종일 섬을 돌아다니며 이것들을 찾기엔 너무 작고 지쳐서, 긴 다리를 가진 연구원들과 거래하기 위해 이 자판기를 설치했어.\r\n\r\n그 가방엔 뭐가 들어있고, 앤더슨는 누구냐고? 그건 말해줄 수 없어. "
 
 #. Key:	DBC0400441F53360680279AD2F1F0504
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_PlantReward.Default__A_Vendor_PlantReward_C.Vendor Name
@@ -15685,12 +15567,7 @@ msgstr "Angel"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_PlantReward.Default__A_Vendor_PlantReward_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_PlantReward.Default__A_Vendor_PlantReward_C.VendorDescription
 msgid "You've found all the known plants on the island! Thats some great reseach my friend! On average it seems like there are new plants found every month, so keep your eyes open when exploring!\r\n\r\n-Angel"
-msgstr ""
-"섬에 있는 모든 식물들을 발견했구나! 내 친구를 정말 잘 가르쳤네! 평균적으로 매달 새로운 식물들이 발견되고 있는 것 같으니 탐험할 때 눈을 크게 뜨고 주변을 잘 살펴봐!
-\n"
-"
-\n"
-"-엔젤"
+msgstr "섬에 있는 모든 식물들을 발견했구나! 내 친구를 정말 잘 가르쳤네! 평균적으로 매달 새로운 식물들이 발견되고 있는 것 같으니 탐험할 때 눈을 크게 뜨고 주변을 잘 살펴봐!\r\n\r\n-엔젤"
 
 #. Key:	A0F9D06D4CF4A9812AB974A659AACA81
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_PlayerPlaced.A_Vendor_PlayerPlaced_C:ExecuteUbergraph_A_Vendor_PlayerPlaced [Script Bytecode]
@@ -15720,20 +15597,7 @@ msgstr "Jax의 전초기지"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Starting_Collectables.Default__A_Vendor_Starting_Collectables_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Starting_Collectables.Default__A_Vendor_Starting_Collectables_C.VendorDescription
 msgid "I offer all the essential items for cheap here! Also, I buy some berries I am really fond of. I offer all the necessary items for cheap here!\r\n\r\nI also buy some berries that I'm really fond of.\r\n\r\nDon't knock on the door\r\n\r\n-Jax"
-msgstr ""
-"여기에서 저렴한 가격으로 모든 필수 아이템을 제공합니다! 또한, 나는 정말 좋아하는 여러가지 과일을 사고 있습니다. 필요한 모든 항목을 저렴하게 제공합니다!
-\n"
-"
-\n"
-"제가 좋아하는 베리들도 구매합니다.
-\n"
-"
-\n"
-"노크하지 마십시오
-\n"
-"
-\n"
-"-Jax"
+msgstr "여기에서 저렴한 가격으로 모든 필수 아이템을 제공합니다! 또한, 나는 정말 좋아하는 여러가지 과일을 사고 있습니다. 필요한 모든 항목을 저렴하게 제공합니다!\r\n\r\n제가 좋아하는 베리들도 구매합니다.\r\n\r\n노크하지 마십시오\r\n\r\n-Jax"
 
 #. Key:	A1898892439F1CE585F0AB9AD2A26890
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Tim.Default__A_Vendor_Tim_C.Vendor Name
@@ -15745,20 +15609,7 @@ msgstr "Tim의 전초기지"
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Tim.Default__A_Vendor_Tim_C.VendorDescription
 #: /Game/Blueprints/Vendor/A_Vendor_Tim.Default__A_Vendor_Tim_C.VendorDescription
 msgid "Are you lost? Just asking. You don't look like the type that usually wanders around here, you know, the tough type.\r\n\r\nHere are some tools if you want to buy any, but let's be real here, you look more like a berry gatherer than anything else, just in my opinion of course. Bring the berries to me, and I'll ship them off to a local beverage factory\r\n\r\nDon't knock on the door\r\n\r\n-Tim"
-msgstr ""
-"길을 잃었니? 너는 이 주변 사람은 아닌 거 같네, 그러니까.. 강해 보이거든.
-\n"
-"
-\n"
-"도구를 사고 싶다면 몇 개 갖고 있지만, 솔직하게 넌 누구보다 베리 채집가 같아. 물론 내 의견일 뿐이지만, 베리를 나한테 가져와. 그러면 그 베리들을 내가 지역 음료 공장으로 보낼게.
-\n"
-"
-\n"
-"노크하지 마.
-\n"
-"
-\n"
-"-Tim"
+msgstr "길을 잃었니? 너는 이 주변 사람은 아닌 거 같네, 그러니까.. 강해 보이거든.\r\n\r\n도구를 사고 싶다면 몇 개 갖고 있지만, 솔직하게 넌 누구보다 베리 채집가 같아. 물론 내 의견일 뿐이지만, 베리를 나한테 가져와. 그러면 그 베리들을 내가 지역 음료 공장으로 보낼게.\r\n\r\n노크하지 마.\r\n\r\n-Tim"
 
 #. Key:	94051A304AC82D5D0C608E9F89F039E5
 #. SourceLocation:	/Game/Blueprints/Vendor/A_Vendor_Trailer.Default__A_Vendor_Trailer_C.Vendor Name
@@ -15815,7 +15666,7 @@ msgstr " 판매하기 "
 #: /Game/Blueprints/Vendor/UMG_VendorEditorContent.Default__UMG_VendorEditorContent_C.forTextConstant
 #: /Game/Widgets/Inventory/UMG_Item.UMG_Item_C:ExecuteUbergraph_UMG_Item [Script Bytecode]
 msgid "for"
-msgstr "~을 위해"
+msgstr "/"
 
 #. Key:	D71D57FB4125A49552ED98A76B24C308
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_NoItems.UMG_NoItems_C:WidgetTree.T_Coordinates.Text
@@ -15920,17 +15771,13 @@ msgstr "식물 도감을 완성하여 이곳에서 쇼핑하세요!"
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the compendium\r\nto shop here!"
-msgstr ""
-"도감을 완성하여 
-\n"
-"이곳에서 쇼핑하세요!"
+msgstr "도감을 완성하여 \r\n이곳에서 쇼핑하세요!"
 
 #. Key:	16387B5544A76737A9CB7E9FD729D92C
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the Hermit\r\n of the mountain to shop here!"
-msgstr "여기서 쇼핑하려면 산의 \\
-은둔자 퀘스트를 완료하세요!"
+msgstr "여기서 쇼핑하려면 산의 \\\r\n은둔자 퀘스트를 완료하세요!"
 
 #. Key:	490EF4714CD9229BCE2C6FABFB5BD19C
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
@@ -15942,10 +15789,7 @@ msgstr "요리 도감을 완성하면 여기서 쇼핑할 수 있습니다!"
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the hunting\r\ncompendium to shop here! "
-msgstr ""
-"사냥 도감을 완성하여
-\n"
-"이곳에서 쇼핑하세요! "
+msgstr "사냥 도감을 완성하여\r\n이곳에서 쇼핑하세요! "
 
 #. Key:	9B528B814A020D460F21EEB2DDD9A758
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
@@ -15957,10 +15801,7 @@ msgstr "여기에서 쇼핑하려면 낚시, 사냥, 농사 및 요리 도감을
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 #: /Game/Blueprints/Vendor/UMG_Vendor.UMG_Vendor_C:ExecuteUbergraph_UMG_Vendor [Script Bytecode]
 msgid "Complete the fishing\r\ncompendium to shop here!"
-msgstr ""
-"낚시 도감을 완성하여
-\n"
-"이곳에서 쇼핑하세요!"
+msgstr "낚시 도감을 완성하여\r\n이곳에서 쇼핑하세요!"
 
 #. Key:	5341DC8F496BCCDEB1FA26AC0FB99402
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_VendorEditor.UMG_VendorEditor_C:WidgetTree.T_Coordinates.Text
@@ -16170,9 +16011,7 @@ msgstr "완전히 업그레이드 됨"
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.T_Coordinates_9.Text
 #: /Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.T_Coordinates_9.Text
 msgid "Shipments\r\n"
-msgstr ""
-"발송물\n"
-""
+msgstr "발송물\r\n"
 
 #. Key:	8026803A471C39D608DC8A939B455121
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.T_CurrentTab_2.Text
@@ -16223,14 +16062,7 @@ msgstr "1"
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.TextBDescription.Text
 #: /Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.TextBDescription.Text
 msgid "Fill all shipments before the timer runs out to sell items at higher profits. After each successful shipment, your payment will increase!\r\n\r\n\r\nIMPORTANT: No payment is given for partially filled shipments! If some items are fully filled, those will give 50% rewards."
-msgstr ""
-"타이머가 다 떨어지기 전에 모든 아이템을 채우면 더 높은 수익으로 아이템을 판매할 수 있습니다. 성공적으로 배송될 때마다 결제액이 증가합니다!
-\n"
-"
-\n"
-"
-\n"
-"중요: 부분적으로 채워진 아이템에 대해서는 지불이 제공되지 않습니다! 일부 항목이 완전히 채워진 경우 50% 보상을 제공합니다."
+msgstr "타이머가 다 떨어지기 전에 모든 아이템을 채우면 더 높은 수익으로 아이템을 판매할 수 있습니다. 성공적으로 배송될 때마다 결제액이 증가합니다!\r\n\r\n\r\n중요: 부분적으로 채워진 아이템에 대해서는 지불이 제공되지 않습니다! 일부 항목이 완전히 채워진 경우 50% 보상을 제공합니다."
 
 #. Key:	2B92618245E5DFE71BEE8CB78C76DD6D
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_Vendor_IslandBenefits.UMG_Vendor_IslandBenefits_C:WidgetTree.TextBlock_2.Text
@@ -16431,9 +16263,7 @@ msgstr "문"
 #. SourceLocation:	/Game/GenericRadialMenus/Example/InventorySample/UMG_TestInventoryMenu.UMG_TestInventoryMenu_C:WidgetTree.TextBlock_0.Text
 #: /Game/GenericRadialMenus/Example/InventorySample/UMG_TestInventoryMenu.UMG_TestInventoryMenu_C:WidgetTree.TextBlock_0.Text
 msgid "Quick Item \r\nSelect"
-msgstr ""
-"빠른 아이템 \n"
-"선택"
+msgstr "빠른 아이템 \r\n선택"
 
 #. Key:	DA953C1A4AD6DA22850CFABBE2D5EB9C
 #. SourceLocation:	/Game/GenericRadialMenus/Example/UMG_PlayerHUDTest.UMG_PlayerHUDTest_C:WidgetTree.TextBlock_198.Text
@@ -16514,18 +16344,13 @@ msgstr "오른쪽 스틱"
 #. SourceLocation:	/Game/GenericRadialMenus/UMG/UMG_RadialMenu.UMG_RadialMenu_C:DebugIndex [Script Bytecode]
 #: /Game/GenericRadialMenus/UMG/UMG_RadialMenu.UMG_RadialMenu_C:DebugIndex [Script Bytecode]
 msgid "float index: {fi}\r\nint index   : {ii}"
-msgstr ""
-"부동 소수점 인덱스: {fi}\n"
-"정수 인덱스: {ii}"
+msgstr "부동 소수점 인덱스: {fi}\r\n정수 인덱스: {ii}"
 
 #. Key:	1E22AA054EFE301CBC21B39A7044F482
 #. SourceLocation:	/Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 #: /Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 msgid "If you just subscribed/downloaded new mods from steam the game needs to be restarted again for the mods to be loaded correctly.\r\n\r\nIf this keeps happening try unsubscribing from the mods in steam and deleting everything inside  \"\\steamapps\\common\\Longvinter\\Longvinter\\Mods\""
-msgstr ""
-"스팀에서 새로운 모드를 구독/다운로드했다면 게임을 다시 시작해야 모드가 올바르게 로드됩니다.\n"
-"\n"
-"이 문제가 계속되면 스팀에서 모드 구독을 해제하고 \"\\steamapps\\common\\Longvinter\\Longvinter\\Mods\" 폴더 내 모든 파일을 삭제해보세요."
+msgstr "스팀에서 새로운 모드를 구독/다운로드했다면 게임을 다시 시작해야 모드가 올바르게 로드됩니다.\r\n\r\n이 문제가 계속되면 스팀에서 모드 구독을 해제하고 \"\\steamapps\\common\\Longvinter\\Longvinter\\Mods\" 폴더 내 모든 파일을 삭제해보세요."
 
 #. Key:	502148E3455670721D1E3F869E1015BE
 #. SourceLocation:	/Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
@@ -16537,21 +16362,13 @@ msgstr "게임 종료"
 #. SourceLocation:	/Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 #: /Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 msgid "The game will close after downloading the missing mods.\r\nYou can use the continue button to join the server after the restart."
-msgstr ""
-"누락된 모드를 다운로드한 후 게임이 종료됩니다. 
-\n"
-"재시작 후 계속 버튼을 사용하여 서버에 참여할 수 있습니다."
+msgstr "누락된 모드를 다운로드한 후 게임이 종료됩니다. \r\n재시작 후 계속 버튼을 사용하여 서버에 참여할 수 있습니다."
 
 #. Key:	6F4BF35541D0705951919D809D701C85
 #. SourceLocation:	/Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 #: /Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 msgid "Please note: Some official and some unofficial servers prohibit the use of VPNs or any IP-altering software. To ensure smooth connectivity:\r\n\r\n1. Disable your VPN before connecting.\r\n2. Choose a server that is VPN-friendly.\r\n3. If necessary, reach out to us for whitelisting options tailored to your needs."
-msgstr ""
-"주의사항: 공식 및 비공식 서버 중 일부에서는 VPN 또는 IP 변경 소프트웨어 사용을 금지하고 있습니다. 원활한 연결을 보장하기 위해 다음을 준수하세요:\n"
-"\n"
-"1. 연결하기 전에 VPN을 비활성화하세요.\n"
-"2. VPN을 지원하는 서버를 선택하세요.\n"
-"3. 필요한 경우 귀하의 요구에 맞는 화이트리스트 옵션을 위해 저희에게 문의하세요."
+msgstr "주의사항: 공식 및 비공식 서버 중 일부에서는 VPN 또는 IP 변경 소프트웨어 사용을 금지하고 있습니다. 원활한 연결을 보장하기 위해 다음을 준수하세요:\r\n\r\n1. 연결하기 전에 VPN을 비활성화하세요.\r\n2. VPN을 지원하는 서버를 선택하세요.\r\n3. 필요한 경우 귀하의 요구에 맞는 화이트리스트 옵션을 위해 저희에게 문의하세요."
 
 #. Key:	72B6E1D84F66137518AE5691681696E0
 #. SourceLocation:	/Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
@@ -16626,12 +16443,7 @@ msgstr "문의하기"
 #: /Game/Maps/MainMenu/PC_MainMenu.PC_MainMenu_C:ExecuteUbergraph_PC_MainMenu [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_ServerContent.UMG_ServerContent_C:ExecuteUbergraph_UMG_ServerContent [Script Bytecode]
 msgid "Unknown Reason. \r\n\r\nIf this continues, please restart the game. "
-msgstr ""
-"알 수 없는 에러. 
-\n"
-"
-\n"
-"계속되면 게임을 다시 시작하세요. "
+msgstr "알 수 없는 에러. \r\n\r\n계속되면 게임을 다시 시작하세요. "
 
 #. Key:	E9724CBD4F4C33EAB016F9A4A57ED191
 #. SourceLocation:	/Game/Meshes/CliffPlatform/Enum_CliffBiome.Enum_CliffBiome.DisplayNameMap(0 - Value).DisplayNameMap
@@ -18411,14 +18223,7 @@ msgstr "모든 퀘스트를 완료했습니다."
 #. SourceLocation:	/Game/Widgets/AdminPanel/UMG_AdminLogContent.UMG_AdminLogContent_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/AdminPanel/UMG_AdminLogContent.UMG_AdminLogContent_C:WidgetTree.TextBlock_0.Text
 msgid "Player: 256 (ERROR, BAD UNIQUE NET ID)\r\nAction: Trade completed\r\nItems: 0\r\nMoney: 0 Mk\r\nTarget: 257 (ERROR, BAD UNIQUE NET ID)\r\nTargetItems: 4\r\nTargetMoney: 20 Mk"
-msgstr ""
-"플레이어: 256(오류, 잘못된 고유 네트워크 ID)\n"
-"작업: 거래 완료\n"
-"아이템: 0\n"
-"돈: 0 Mk\n"
-"대상: 257(오류, 잘못된 고유 네트워크 ID)\n"
-"대상 아이템: 4\n"
-"대상 돈: 20 Mk"
+msgstr "플레이어: 256(오류, 잘못된 고유 네트워크 ID)\r\n작업: 거래 완료\r\n아이템: 0\r\n돈: 0 Mk\r\n대상: 257(오류, 잘못된 고유 네트워크 ID)\r\n대상 아이템: 4\r\n대상 돈: 20 Mk"
 
 #. Key:	93B02C714DCEFE1DEEBFE0B0D42FD725
 #. SourceLocation:	/Game/Widgets/AdminPanel/UMG_AdminPanel.UMG_AdminPanel_C:ExecuteUbergraph_UMG_AdminPanel [Script Bytecode]
@@ -19058,12 +18863,7 @@ msgstr "치킨 게임"
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Chicken.UMG_DiceGame_Chicken_C:WidgetTree.T_WindowDesc_1.Text
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Chicken.UMG_DiceGame_Chicken_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Player and house each roll a dice, higher number wins.\r\n- In ties, player rolls again and must roll higher than the tie in order to win"
-msgstr ""
-"게임 방법:
-\n"
-"- 플레이어와 하우스가 각각 주사위를 굴립니다. 높은 수가 이깁니다.
-\n"
-"- 만약 무승부이면, 플레이어는 다시 주사위를 굴려야 하며, 무승부보다 높은 숫자를 굴려야 이길 수 있습니다."
+msgstr "게임 방법:\r\n- 플레이어와 하우스가 각각 주사위를 굴립니다. 높은 수가 이깁니다.\r\n- 만약 무승부이면, 플레이어는 다시 주사위를 굴려야 하며, 무승부보다 높은 숫자를 굴려야 이길 수 있습니다."
 
 #. Key:	3C5F048742FBEE1DE95483877D208340
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Pig.UMG_DiceGame_Pig_C:WidgetTree.T_WindowDesc_2.Text
@@ -19204,16 +19004,7 @@ msgstr "주사위 거짓말"
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Liar.UMG_DiceGame_Liar_C:WidgetTree.T_WindowDesc_1.Text
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Liar.UMG_DiceGame_Liar_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Players roll five dice each and keep their results hidden.\r\n- Players take turns to bid on the count and value of dice, such as \"four 3s\".\r\n- Players can challenge a bid if they think it’s false. \r\n- If the total number of dice matching the bid is equal to or greater than the bid, the bid is correct and the challenger loses. If the bid is incorrect, the bidder loses."
-msgstr ""
-"게임 방법:
-\n"
-"- 각 플레이어는 다섯 개의 주사위를 굴리고 결과를 숨깁니다.
-\n"
-"- 플레이어들은 턴을 돌아가며 \"3이 네 개\" 등의 주사위 개수와 값을 내겁니다.
-\n"
-"- 플레이어는 상대방의 입찰이 거짓이라고 생각되면 도전할 수 있습니다.\\
- \n"
-"- 입찰 조건을 만족하는 주사위 개수가 입찰보다 많거나 같으면 입찰이 정확하고 도전자가 패배합니다. 입찰이 부정확하면 입찰자가 패배합니다."
+msgstr "게임 방법:\r\n- 각 플레이어는 다섯 개의 주사위를 굴리고 결과를 숨깁니다.\r\n- 플레이어들은 턴을 돌아가며 \"3이 네 개\" 등의 주사위 개수와 값을 내겁니다.\r\n- 플레이어는 상대방의 입찰이 거짓이라고 생각되면 도전할 수 있습니다.\\\r\n \r\n- 입찰 조건을 만족하는 주사위 개수가 입찰보다 많거나 같으면 입찰이 정확하고 도전자가 패배합니다. 입찰이 부정확하면 입찰자가 패배합니다."
 
 #. Key:	02ABD0F04E62182B7523198EDDFA8195
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Liar.UMG_DiceGame_Liar_C:WidgetTree.T_WindowDesc_5.Text
@@ -19318,12 +19109,7 @@ msgstr "돼지 게임"
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Pig.UMG_DiceGame_Pig_C:WidgetTree.T_WindowDesc_1.Text
 #: /Game/Widgets/DiceGames/UMG_DiceGame_Pig.UMG_DiceGame_Pig_C:WidgetTree.T_WindowDesc_1.Text
 msgid "How to play:\r\n- Player take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.\r\n- First to 100 points wins."
-msgstr ""
-"게임 방법: 
-\n"
-"- 플레이어는 번갈아 가며 원하는 횟수만큼 주사위를 굴려 모든 결과를 합산하여 점수를 얻지만, 1. 이 나오면 해당 턴의 획득 점수를 잃게 됩니다.
-\n"
-"- 먼저 100점을 획득한 사람이 승리합니다."
+msgstr "게임 방법: \r\n- 플레이어는 번갈아 가며 원하는 횟수만큼 주사위를 굴려 모든 결과를 합산하여 점수를 얻지만, 1. 이 나오면 해당 턴의 획득 점수를 잃게 됩니다.\r\n- 먼저 100점을 획득한 사람이 승리합니다."
 
 #. Key:	666444B949764A2C9B6951B29D073138
 #. SourceLocation:	/Game/Widgets/DiceGames/UMG_DiceGame_Pig_PlayingStage.UMG_DiceGame_Pig_PlayingStage_C:ExecuteUbergraph_UMG_DiceGame_Pig_PlayingStage [Script Bytecode]
@@ -19506,12 +19292,7 @@ msgstr "기본 입력"
 #: /Game/Widgets/Icons/Input/UMG_InputQuickstart.UMG_InputQuickstart_C:WidgetTree.UMG_InputKey.ActionDescription
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey.ActionDescription
 msgid "Interact,\r\nShoot,\r\nPickup Loot"
-msgstr ""
-"상호작용,
-\n"
-"쏘기,
-\n"
-"아이템 줍기"
+msgstr "상호작용,\r\n쏘기,\r\n아이템 줍기"
 
 #. Key:	3805FB4A4D799B21E78D46B0099D22BA
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_1.ActionDescription
@@ -19520,10 +19301,7 @@ msgstr ""
 #: /Game/Widgets/Icons/Input/UMG_InputQuickstart.UMG_InputQuickstart_C:WidgetTree.UMG_InputKey_1.ActionDescription
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_1.ActionDescription
 msgid "Aim,\r\nDrop Items"
-msgstr ""
-"조준, 
-\n"
-"아이템 버리기"
+msgstr "조준, \r\n아이템 버리기"
 
 #. Key:	254C9B71476BD3748849DEA5A5CB811C
 #. SourceLocation:	/Game/Widgets/Icons/Input/UMG_InputQuickstart.UMG_InputQuickstart_C:WidgetTree.UMG_InputKey_2.ActionDescription
@@ -19538,10 +19316,7 @@ msgstr "아이템 줍기"
 #: /Game/Widgets/Icons/Input/UMG_InputQuickstart.UMG_InputQuickstart_C:WidgetTree.UMG_InputKey_3.ActionDescription
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_3.ActionDescription
 msgid "Zoom\r\ncamera"
-msgstr ""
-"확대
-\n"
-"카메라"
+msgstr "확대\r\n카메라"
 
 #. Key:	143F7AAF4F720318E6C505B7A875896B
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_4.ActionDescription
@@ -19694,12 +19469,7 @@ msgstr "혼자 플레이"
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.TextBlock_4.Text
 msgid "Less-populated servers might last longer, but based on community feedback, wiping every 6 months balances players who enjoy long-term progress with those who love fresh starts. This also lets everyone compete for the best spots (like near Sgt. Lake Outpost!). Unofficial and self-hosted servers let you decide wipe schedules.\r\n\r\nHope to see you on Longvinter Island!\r\n\r\n– Sven"
-msgstr ""
-"인구가 적은 서버가 더 오래 지속될 수 있지만, 커뮤니티 의견을 토대로 6개월마다 초기화하면 장기 진행을 즐기는 플레이어와 새로운 출발을 좋아하는 플레이어 간의 균형을 맞출 수 있습니다. 이렇게 하면 모든 사람이 (예: 레이크 아웃포스트 근처와 같은) 최고의 장소를 차지할 수 있습니다. 비공식 및 자체 호스팅 서버에서는 초기화 일정을 직접 결정할 수 있습니다.\n"
-"\n"
-"롱빈터 섬에서 만나기를 기대합니다!\n"
-"\n"
-"- 스벤"
+msgstr "인구가 적은 서버가 더 오래 지속될 수 있지만, 커뮤니티 의견을 토대로 6개월마다 초기화하면 장기 진행을 즐기는 플레이어와 새로운 출발을 좋아하는 플레이어 간의 균형을 맞출 수 있습니다. 이렇게 하면 모든 사람이 (예: 레이크 아웃포스트 근처와 같은) 최고의 장소를 차지할 수 있습니다. 비공식 및 자체 호스팅 서버에서는 초기화 일정을 직접 결정할 수 있습니다.\r\n\r\n롱빈터 섬에서 만나기를 기대합니다!\r\n\r\n- 스벤"
 
 #. Key:	F23E7EB64FCBDD039AD5D3828640D3C1
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.TextBlock_5.Text
@@ -19753,7 +19523,7 @@ msgstr "진척 상황이 기기에 로컬로 저장됩니다."
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_2.TextToDisplay
 #: /Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_2.TextToDisplay
 msgid "Accessible via the server browser"
-msgstr "서버 브라우저를 통해 접속 할 수 있습니다."
+msgstr "서버 찾기를 통해 접속 할 수 있습니다."
 
 #. Key:	63E47ED8450C0759EB3238A2600FD01F
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_3.TextToDisplay
@@ -19783,7 +19553,7 @@ msgstr "커뮤니티에서 주최"
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_7.TextToDisplay
 #: /Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_7.TextToDisplay
 msgid "No fixed reset schedule—check the server browser for the last wipe date"
-msgstr "고정된 리셋 일정이 없습니다. 서버 브라우저에서 마지막 삭제 날짜를 확인하세요."
+msgstr "고정된 리셋 일정이 없습니다. 서버 찾기에서 마지막 삭제 날짜를 확인하세요."
 
 #. Key:	8A9AE57D4FA1E6BDB1100A9A8D33104B
 #. SourceLocation:	/Game/Widgets/InfoMessages/UMG_WipeInfo.UMG_WipeInfo_C:WidgetTree.UMG_BulletPoint_8.TextToDisplay
@@ -20740,12 +20510,7 @@ msgstr "장착된 탈것이 없음"
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.T_MountEquipped_1.Text
 #: /Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.T_MountEquipped_1.Text
 msgid "Get mounts by earning a collar through compendium activities like fishing, hunting, and farming. \r\n\r\nTrade the collar for a mount at the compendium vendor."
-msgstr ""
-"낚시, 사냥, 농사 등의 활동을 통해 목걸이를 획득하여 탈것을 획득하세요. 
-\n"
-"
-\n"
-"도감 상인에게서 목걸이를 탈것으로 교환하세요."
+msgstr "낚시, 사냥, 농사 등의 활동을 통해 목걸이를 획득하여 탈것을 획득하세요. \r\n\r\n도감 상인에게서 목걸이를 탈것으로 교환하세요."
 
 #. Key:	2437DB694515B150F183F689B104C4E8
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_Inventory.UMG_Inventory_C:WidgetTree.TextBlock.Text
@@ -21403,7 +21168,7 @@ msgstr "삭제"
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestDetails.UMG_QuestDetails_C:WidgetTree.T_QuestName_2.Text
 #: /Game/Widgets/Inventory/UMG_QuestDetails.UMG_QuestDetails_C:WidgetTree.T_QuestName_2.Text
 msgid "Reward: "
-msgstr "보상: "
+msgstr "품목: "
 
 #. Key:	007846D24785C7D75478FE8528BCB655
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_QuestTask.UMG_QuestTask_C:ExecuteUbergraph_UMG_QuestTask [Script Bytecode]
@@ -22501,30 +22266,19 @@ msgstr "재현 단계"
 #. SourceLocation:	/Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_3.Text
 msgid "We found these reports that could be related to your issue. Please read them and report if any of them resemble your problem. This helps us organize issues!\r\n\r\n"
-msgstr ""
-"귀하의 문제와 관련될 수 있는 이러한 보고서들을 찾았습니다. 읽어보시고 귀하의 문제와 유사한 것이 있다면 알려주세요. 이는 문제를 정리하는 데 도움이 됩니다!
-\n"
-"
-\n"
-""
+msgstr "귀하의 문제와 관련될 수 있는 이러한 보고서들을 찾았습니다. 읽어보시고 귀하의 문제와 유사한 것이 있다면 알려주세요. 이는 문제를 정리하는 데 도움이 됩니다!\r\n\r\n"
 
 #. Key:	8311515E4B4E86A501F14FBF70ABA2EA
 #. SourceLocation:	/Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_4.Text
 msgid "Our team will process the report promptly and work to resolve verified issues in a timely manner.\r\n\r\nWe appreciate your cooperation and patience as we strive to deliver the best possible experience."
-msgstr ""
-"당사 팀은 신속하게 보고서를 처리하고 확인된 문제를 적시에 해결하기 위해 노력할 것입니다.\n"
-"\n"
-"최선의 경험을 제공하기 위해 노력하는 동안 귀하의 협조와 인내에 감사드립니다."
+msgstr "당사 팀은 신속하게 보고서를 처리하고 확인된 문제를 적시에 해결하기 위해 노력할 것입니다.\r\n\r\n최선의 경험을 제공하기 위해 노력하는 동안 귀하의 협조와 인내에 감사드립니다."
 
 #. Key:	DEFE845843B4AB0EF54A3F991BDFC7A2
 #. SourceLocation:	/Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_511.Text
 #: /Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_511.Text
 msgid "Please report any in-game, non-player behaviour-related issues using this form. Include detailed descriptions and, if applicable, a step-by-step guide to reproduce the issue.\r\n\r\nBy submitting a comprehensive report, you contribute to improving the game for everyone."
-msgstr ""
-"이 양식을 사용하여 게임 내 비플레이어 행동 관련 문제를 신고해 주십시오. 자세한 설명과 해당되는 경우 문제를 재현하는 단계별 가이드를 포함하십시오.\n"
-"\n"
-"포괄적인 보고서를 제출하면 모든 사람을 위해 게임을 개선하는 데 기여하게 됩니다."
+msgstr "이 양식을 사용하여 게임 내 비플레이어 행동 관련 문제를 신고해 주십시오. 자세한 설명과 해당되는 경우 문제를 재현하는 단계별 가이드를 포함하십시오.\r\n\r\n포괄적인 보고서를 제출하면 모든 사람을 위해 게임을 개선하는 데 기여하게 됩니다."
 
 #. Key:	63331E624173013F9A98DD94AE4349B3
 #. SourceLocation:	/Game/Widgets/MainMenu/Feedbackform/UMG_Feedbackform.UMG_Feedbackform_C:WidgetTree.TextBlock_545.Text
@@ -22755,7 +22509,7 @@ msgstr "영구정지 입니다."
 #: /Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:ExecuteUbergraph_UMG_BanMessage [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:WidgetTree.T_expires.Text
 msgid "Ban expires: "
-msgstr "금지가 해제되었습니다: "
+msgstr "차단 해제 날짜: "
 
 #. Key:	07AF23854FF8422AA28F059420280D87
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:WidgetTree.T_Issued.Text
@@ -22764,7 +22518,7 @@ msgstr "금지가 해제되었습니다: "
 #: /Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:ExecuteUbergraph_UMG_BanMessage [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:WidgetTree.T_Issued.Text
 msgid "Ban issued: "
-msgstr "정지 되었습니다(Ban issued): "
+msgstr "차단 되었습니다(Ban issued): "
 
 #. Key:	8337EDD142A54B26FF1EF18E56265B43
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_BanMessage.UMG_BanMessage_C:WidgetTree.T_Title.Text
@@ -22842,9 +22596,7 @@ msgstr "아이디어 설명:"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_FeedbackTicket.UMG_FeedbackTicket_C:ExecuteUbergraph_UMG_FeedbackTicket [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_FeedbackTicket.UMG_FeedbackTicket_C:ExecuteUbergraph_UMG_FeedbackTicket [Script Bytecode]
 msgid "Describe the bug and the steps to reproduce it as descriptively as possible"
-msgstr ""
-"버그와 버그를 재현하는 단계를 가능한 한 상세하게 설명하세요.\n"
-""
+msgstr "버그와 버그를 재현하는 단계를 가능한 한 상세하게 설명하세요.\r\n"
 
 #. Key:	E2D489B64792EEB3411BDF8021C59A0D
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_FeedbackTicket.UMG_FeedbackTicket_C:ExecuteUbergraph_UMG_FeedbackTicket [Script Bytecode]
@@ -22982,44 +22734,7 @@ msgstr "게임 가이드"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_HelpWindow.UMG_HelpWindow_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/MainMenu/UMG_HelpWindow.UMG_HelpWindow_C:WidgetTree.TextBlock_0.Text
 msgid "Quick start:\r\n- Your energy is your health. Maintain it to make sure you are not an easy kill to other players\r\n- If the outpost has turrets, do not aim your chainsaw or weapon or you'll be killed\r\n- Tents and houses are safe places. No one can raid you or steal your items\r\n- Use workbench to upgrade your tent\r\n- If you get stuck, type: /kill in the chat\r\n- C key to wave; X key to sit; Enter to chat\r\n\r\n[Step 1: Spawn]\r\nYou'll spawn on a predetermined outpost based on your SteamID and you're given some starting money (MK). Please use this MK to buy your first tool from the vendor next to your spawn point. Starter vendors have different items for sale, but we'll use the fishing rod as an example.\r\n\r\n[Step 2: Making MK by fishing]\r\nNow that you've bought yourself a fishing rod, you can start walking along the shore to look for fishing spots! To locate fishing spots, look for abnormalities in the water surface. Keep in mind that every fishing spot has a different set of fish you can catch, and the best fish is always up north. This rule applies to everything related to moneymaking or finding rare items. You'll have to explore to find the most valuable stuff.\r\n\r\nOnce you've caught enough fish, sell the fish to the vendor you bought the fishing rod from.\r\n\r\n[Step 3: Spend or Invest]\r\nYou've now made some MK, and you can do whatever you want with it. You should use the boat at the starting point to travel to Sgt. Lake's Outpost. There you can buy yourself a tent, a workbench for crafting and a container to store loot in.\r\n\r\nBuild yourself a base camp, make friends and build a village!"
-msgstr ""
-"게임 가이드:
-\n"
-"- 당신의 에너지는 당신의 Hp입니다. 다른 플레이어에게 쉽게 죽고 싶지 않다면 관리하세요.
-\n"
-"- 전초기지에 포탑이 설치 되어 있다면 전기톱이나 무기를 조준하지 마세요. 그렇지 않으면 당신은 죽을거에요.
-\n"
-"- 텐트와 집은 안전한 장소에요. 아무도 당신을 기습하거나 아이템을 훔칠 수 없습니다.
-\n"
-"- 작업대를 사용해서 당신의 텐트를 집으로 업그레이드하세요.
-\n"
-"- C키를 눌러 인사할 수 있고, X키를 눌러 앉을 수 있습니다. Enter키로 대화를 시작하세요.
-\n"
-"
-\n"
-"[1단계: 시작]
-\n"
-"당신의 스팀ID로 미리 정해진 전초기지에서 시작하게 될 것입니다. 약간의 시작금(MK) 을 들고요. 이 MK를 사용하여 시작 지점 근처에 있는 상인으로부터 첫 번째 도구를 구매하세요.\n"
-"상인마다 판매하는 아이템이 조금씩 다르지만, 일단 낚싯대로 예를 들어보겠습니다.
-\n"
-"
-\n"
-"[2단계: 낚시로 MK벌기]\n"
-"이제 낚싯대를 구매했으니, 당신은 낚시터를 찾기 위해 해변을 따라 걸어보세요. 낚시터의 위치를 찾기 위해서는 수면 위에 뭔가 다른점이 없는지 살펴보세요. 낚시터마다 잡을 수 있는 물고기의 종류는 다르며 희귀한 물고기는 항상 북쪽에 있다는 것을 기억하세요. 이 규칙은 MK를 벌거나, 희귀한 아이템을 찾는 관련한 모든것에 적용 됩니다. 희귀한 아이템을 찾고 싶다면 탐험을 해야 할 거에요.
-\n"
-"
-\n"
-"물고기를 충분히 낚았으면 낚싯대를 판매한 상인에게 가서 물고기를 판매하세요.
-\n"
-"
-\n"
-"[3단계: 지출과 투자]
-\n"
-"이제 MK를 스스로 벌었다면 그걸로 무엇이든 할 수 있습니다. 레이크 중사님께 가고싶다면 시작지점에 있는 선박을 이용해보세요. 도착한다면 그 곳에서 텐트와 작업대, 아이템을 위한 보관함을 구매할 수 있어요.
-\n"
-"
-\n"
-"당신만의 베이스캠프를 만들고, 친구도 만들고 마을을 만들어보세요!"
+msgstr "게임 가이드:\r\n- 당신의 에너지는 당신의 Hp입니다. 다른 플레이어에게 쉽게 죽고 싶지 않다면 관리하세요.\r\n- 전초기지에 포탑이 설치 되어 있다면 전기톱이나 무기를 조준하지 마세요. 그렇지 않으면 당신은 죽을거에요.\r\n- 텐트와 집은 안전한 장소에요. 아무도 당신을 기습하거나 아이템을 훔칠 수 없습니다.\r\n- 작업대를 사용해서 당신의 텐트를 집으로 업그레이드하세요.\r\n- C키를 눌러 인사할 수 있고, X키를 눌러 앉을 수 있습니다. Enter키로 대화를 시작하세요.\r\n\r\n[1단계: 시작]\r\n당신의 스팀ID로 미리 정해진 전초기지에서 시작하게 될 것입니다. 약간의 시작금(MK) 을 들고요. 이 MK를 사용하여 시작 지점 근처에 있는 상인으로부터 첫 번째 도구를 구매하세요.\r\n상인마다 판매하는 아이템이 조금씩 다르지만, 일단 낚싯대로 예를 들어보겠습니다.\r\n\r\n[2단계: 낚시로 MK벌기]\r\n이제 낚싯대를 구매했으니, 당신은 낚시터를 찾기 위해 해변을 따라 걸어보세요. 낚시터의 위치를 찾기 위해서는 수면 위에 뭔가 다른점이 없는지 살펴보세요. 낚시터마다 잡을 수 있는 물고기의 종류는 다르며 희귀한 물고기는 항상 북쪽에 있다는 것을 기억하세요. 이 규칙은 MK를 벌거나, 희귀한 아이템을 찾는 관련한 모든것에 적용 됩니다. 희귀한 아이템을 찾고 싶다면 탐험을 해야 할 거에요.\r\n\r\n물고기를 충분히 낚았으면 낚싯대를 판매한 상인에게 가서 물고기를 판매하세요.\r\n\r\n[3단계: 지출과 투자]\r\n이제 MK를 스스로 벌었다면 그걸로 무엇이든 할 수 있습니다. 레이크 중사님께 가고싶다면 시작지점에 있는 선박을 이용해보세요. 도착한다면 그 곳에서 텐트와 작업대, 아이템을 위한 보관함을 구매할 수 있어요.\r\n\r\n당신만의 베이스캠프를 만들고, 친구도 만들고 마을을 만들어보세요!"
 
 #. Key:	6E8A38AC4DF56D0E59F6769FC976943C
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_HostServerLoadingScreen.UMG_HostServerLoadingScreen_C:ExecuteUbergraph_UMG_HostServerLoadingScreen [Script Bytecode]
@@ -23142,10 +22857,7 @@ msgstr "팁: 어디를 가든 모닥불을 가지고 다니세요. 모닥불 근
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_LoadingScreen.UMG_LoadingScreen_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/MainMenu/UMG_LoadingScreen.UMG_LoadingScreen_C:WidgetTree.TextBlock_1.Text
 msgid "The game window may go unresponsive\r\nfor a while. Do not close."
-msgstr ""
-"게임 창이 잠시동안 응답하지 않을 수 있습니다.
-\n"
-"창을 닫지 마십시오."
+msgstr "게임 창이 잠시동안 응답하지 않을 수 있습니다.\r\n창을 닫지 마십시오."
 
 #. Key:	33AD35444FECBDE14A3A9EA5FE60CBF1
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_LootDrops.UMG_LootDrops_C:ExecuteUbergraph_UMG_LootDrops [Script Bytecode]
@@ -23199,12 +22911,7 @@ msgstr "전투 중에 연결이 끊어지면 캐릭터가 사망하고 모든 �
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
 msgid "Connection Timed out. \r\n \r\nMake sure that the server is on"
-msgstr ""
-"연결 시간 초과. 
-\n"
-"
-\n"
-"서버가 켜져 있는지 확인하세요."
+msgstr "연결 시간 초과. \r\n\r\n서버가 켜져 있는지 확인하세요."
 
 #. Key:	8AB6A19D46CA4808031BD49EBC4EA359
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
@@ -23535,44 +23242,7 @@ msgstr "공식서버 초기화됨 3/3"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_PopUp.UMG_PopUp_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/MainMenu/UMG_PopUp.UMG_PopUp_C:WidgetTree.TextBlock_0.Text
 msgid "We have wiped official servers on Thursday 3/3 due to issues with our save system. We might temporarily move to weekly or bi-weekly wipes on official servers, untill players have one tent limit and are able to pick their tents up, which we plan on doing soon. After that we can do wipes once a month. Tell us what you feel about this on our Discord!\r\n\r\nTeo\r\n------------------------------------------------------------------------------\r\n\r\n> What's going on with the saves?\r\n\r\nA couple days after launch we (and players) noticed that some things were not saving, player progress was lost sometimes upon logout, and most often on server restart, where player houses were also being wiped.\r\n\r\nThis is caused by the async saving / loading we're using. It would have worked perfectly if we had saved everything from homes, placeables and player progress to a single file, but we don't, we save on multiple files, and sometimes the async saving just won't save if there is already another process going on.\r\n\r\nWhy didn't we notice this before release? The system stops working when there are multiple players logging in and out. \r\n\r\nThe latest rollback was just a couple of hours ago which was caused by a failsafe we tried to add, which actually made things worse by not saving at all for a long period of time. We reverted the change now.\r\n\r\nThis whole saving/loading thing is quite embarrassing, and we're sorry for wasting your time. We've been working 16 hours a day trying to fix this, and we can fix it, it just takes a little more time. We're trying to get this working this week, and we'll work the whole weekend if that is what it takes.\r\n\r\nThanks for your patience! \r\n"
-msgstr ""
-"우리는 3/3 목요일에 세이브 시스템 문제로 공식 서버를 삭제했습니다. 플레이어들이 1인 1개의 텐트를 가질 때 까지 일시적으로 주간 또는 격주 간격으로 공식 서버를 삭제할 계획입니다. 그 후로는 한 달에 한 번 삭제 할 수 있습니다. 디스코드에 가입해서 여러분의 의견을 말씀해 주세요! 
-\n"
-"
-\n"
-"-Teo
-\n"
-"------------------------------------------------------------------------------
-\n"
-"
-\n"
-"> 세이브 파일에 무슨 일이 생긴 거죠?
-\n"
-"
-\n"
-"출시 후 얼마 지나지 않아 우리는 로그아웃 시 플레이어의 진행 일부가 저장되지 않고 손실되는 경우가 있으며 대부분의 서버에서 재기동 시 플레이어의 집이 사라지는 것을 알게 되었습니다.
-\n"
-"
-\n"
-"이 문제는 현재 우리가 사용 중인 비동기식 저장/로드로 인해 발생합니다. 만약, 장소 및 플레이어의 진행 상황을 모두 하나의 파일로 저장했다면 완벽하게 작동하겠지만 현재의 방식은 그렇지 않고 여러 개의 파일로 나뉘어 저장되며 이미 다른 프로세스가 진행 중인 경우 비동기식 저장이 저장되지 않는 경우도 있습니다.
-\n"
-"
-\n"
-"왜 발매 전에는 눈치채지 못했을까요? 여러 명의 플레이어가 로그인하고 로그아웃하면 이 시스템이 작동을 멈춰버리기 때문입니다. 
-\n"
-"
-\n"
-"최근에 한 롤백은 불과 몇 시간 전이었는데, Failsafe를 추가하려하니 오랜 시간동안 저장이 전혀 되지 않아 상황이 더 악화되었습니다. 우리는 지금 그 변화를 다시 되돌렸습니다.
-\n"
-"
-\n"
-"이 모든 저장/로드 문제는 상당히 부끄러운 일입니다. 여러분의 시간을 버리게 해서 죄송합니다. 우린 이걸 고치려고 매일 16시간씩 일해왔으며 이 문제를 고칠 수 있어요. 단지 시간이 좀 더 필요합니다. 그래서 이번 주는 주말 내내 일을 할 예정입니다.
-\n"
-"
-\n"
-"기다려 주시면 감사하겠습니다! 
-\n"
-""
+msgstr "우리는 3/3 목요일에 세이브 시스템 문제로 공식 서버를 삭제했습니다. 플레이어들이 1인 1개의 텐트를 가질 때 까지 일시적으로 주간 또는 격주 간격으로 공식 서버를 삭제할 계획입니다. 그 후로는 한 달에 한 번 삭제 할 수 있습니다. 디스코드에 가입해서 여러분의 의견을 말씀해 주세요! \r\n\r\n-Teo\r\n------------------------------------------------------------------------------\r\n\r\n> 세이브 파일에 무슨 일이 생긴 거죠?\r\n\r\n출시 후 얼마 지나지 않아 우리는 로그아웃 시 플레이어의 진행 일부가 저장되지 않고 손실되는 경우가 있으며 대부분의 서버에서 재기동 시 플레이어의 집이 사라지는 것을 알게 되었습니다.\r\n\r\n이 문제는 현재 우리가 사용 중인 비동기식 저장/로드로 인해 발생합니다. 만약, 장소 및 플레이어의 진행 상황을 모두 하나의 파일로 저장했다면 완벽하게 작동하겠지만 현재의 방식은 그렇지 않고 여러 개의 파일로 나뉘어 저장되며 이미 다른 프로세스가 진행 중인 경우 비동기식 저장이 저장되지 않는 경우도 있습니다.\r\n\r\n왜 발매 전에는 눈치채지 못했을까요? 여러 명의 플레이어가 로그인하고 로그아웃하면 이 시스템이 작동을 멈춰버리기 때문입니다. \r\n\r\n최근에 한 롤백은 불과 몇 시간 전이었는데, Failsafe를 추가하려하니 오랜 시간동안 저장이 전혀 되지 않아 상황이 더 악화되었습니다. 우리는 지금 그 변화를 다시 되돌렸습니다.\r\n\r\n이 모든 저장/로드 문제는 상당히 부끄러운 일입니다. 여러분의 시간을 버리게 해서 죄송합니다. 우린 이걸 고치려고 매일 16시간씩 일해왔으며 이 문제를 고칠 수 있어요. 단지 시간이 좀 더 필요합니다. 그래서 이번 주는 주말 내내 일을 할 예정입니다.\r\n\r\n기다려 주시면 감사하겠습니다! \r\n"
 
 #. Key:	49E5C0504E7A205DAFE2F1855B1BA0E3
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_QueueScreen.UMG_QueueScreen_C:ExecuteUbergraph_UMG_QueueScreen [Script Bytecode]
@@ -23755,12 +23425,7 @@ msgstr "나쁜 행위"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_16.Text
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_16.Text
 msgid "As a user of Longvinter's platform, you acknowledge and agree that we are not responsible for, nor do we have any control over, the content, functionality, or legality of modifications (\"Mods\") or their dedicated servers (\"Modded Servers\"). All Mods and Modded Servers are created and managed by third parties. Therefore, any interaction with Mods and Modded Servers, including the content you access, is solely at your own risk and discretion. Uuvana Studios does not oversee or moderate any Modded Servers or content therein.\r\n\r\nMoreover, we provide no guarantees regarding the availability or performance of Mods or Modded Servers, and we shall not be held liable for any harm or damages arising from their use. By using any Mods or interacting with Modded Servers, you relieve Uuvana Studios of all liability related to such use."
-msgstr ""
-"Longvinter 이용자는 '모드(Mods)' 또는 모드 전용 서버인 '모드 서버(Modded Servers)'의 콘텐츠, 기능, 적법성에 대해 개발사가 어떠한 통제권도 가지지 않으며 책임지지 않는다는 점에 동의합니다. 모든 모드 및 모드 서버는 제3자가 제작하고 관리합니다. 따라서 모드 및 모드 서버 이용과 그에 따른 콘텐츠 접근에 대한 모든 책임과 위험은 전적으로 이용자 본인에게 있습니다. Uuvana Studios는 모드 서버나 그 내용을 감독하거나 중재하지 않습니다.
-\n"
-"
-\n"
-"또한 모드나 모드 서버의 가용성이나 안정성을 보증하지 않으며, 이용 중 발생하는 어떠한 피해나 손해에 대해서도 책임을 지지 않습니다. 이용자는 모드 사용 및 모드 서버 접속과 관련하여 Uuvana Studios에 책임을 묻지 않는 것에 동의합니다."
+msgstr "Longvinter 이용자는 '모드(Mods)' 또는 모드 전용 서버인 '모드 서버(Modded Servers)'의 콘텐츠, 기능, 적법성에 대해 개발사가 어떠한 통제권도 가지지 않으며 책임지지 않는다는 점에 동의합니다. 모든 모드 및 모드 서버는 제3자가 제작하고 관리합니다. 따라서 모드 및 모드 서버 이용과 그에 따른 콘텐츠 접근에 대한 모든 책임과 위험은 전적으로 이용자 본인에게 있습니다. Uuvana Studios는 모드 서버나 그 내용을 감독하거나 중재하지 않습니다.\r\n\r\n또한 모드나 모드 서버의 가용성이나 안정성을 보증하지 않으며, 이용 중 발생하는 어떠한 피해나 손해에 대해서도 책임을 지지 않습니다. 이용자는 모드 사용 및 모드 서버 접속과 관련하여 Uuvana Studios에 책임을 묻지 않는 것에 동의합니다."
 
 #. Key:	7D1A726E41E634D3AABEDEB3902FE9A0
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_17.Text
@@ -23778,12 +23443,7 @@ msgstr "사용자 정보 저장 및 삭제 정책"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_19.Text
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_19.Text
 msgid "At Uuvana Studios, we value your privacy and are committed to protecting your personal data. We collect and store certain information about our users for the purpose of enhancing user experience and maintaining the integrity of our platform. This information includes: MAC address, Steam ID, reports made by the user, reports made about the user, user actions within the game, and IP address. Please note that IP addresses are stored temporarily and are automatically deleted after 30 days.\r\n\r\nWe understand the importance of data control and thus, provide our users with the option to request the deletion of their personal data. If you wish to exercise this right, please send us an email at contact@uuvana.com with your request. Upon receiving such a request, we will proceed with the deletion of your data in accordance with applicable laws and regulations, barring any legal requirements that might necessitate the retention of certain data."
-msgstr ""
-"Uuvana Studios는 귀하의 개인정보를 소중히 여기며 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 당사는 귀하의 경험을 개선하고 플랫폼의 무결성을 유지하기 위해 귀하에 관한 특정 정보를 수집하고 저장합니다. 이러한 정보에는 MAC 주소, Steam ID, 귀하가 작성한 보고서, 귀하에 관한 보고서, 게임 내 사용자 행동 및 IP 주소가 포함됩니다. IP 주소는 임시로 저장되며 30일 후에 자동으로 삭제됩니다.
-\n"
-"
-\n"
-"당사는 데이터 제어의 중요성을 인식하고 있으므로 귀하에게 개인 데이터 삭제를 요청할 수 있는 옵션을 제공합니다. 이 권리를 행사하려면 이메일(contact@uuvana.com)로 요청을 보내주시기 바랍니다. 이러한 요청이 접수되면 당사는 특정 데이터를 보존해야 하는 법적 요건을 제외하고 관련 법률 및 규정에 따라 귀하의 데이터를 삭제할 것입니다."
+msgstr "Uuvana Studios는 귀하의 개인정보를 소중히 여기며 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 당사는 귀하의 경험을 개선하고 플랫폼의 무결성을 유지하기 위해 귀하에 관한 특정 정보를 수집하고 저장합니다. 이러한 정보에는 MAC 주소, Steam ID, 귀하가 작성한 보고서, 귀하에 관한 보고서, 게임 내 사용자 행동 및 IP 주소가 포함됩니다. IP 주소는 임시로 저장되며 30일 후에 자동으로 삭제됩니다.\r\n\r\n당사는 데이터 제어의 중요성을 인식하고 있으므로 귀하에게 개인 데이터 삭제를 요청할 수 있는 옵션을 제공합니다. 이 권리를 행사하려면 이메일(contact@uuvana.com)로 요청을 보내주시기 바랍니다. 이러한 요청이 접수되면 당사는 특정 데이터를 보존해야 하는 법적 요건을 제외하고 관련 법률 및 규정에 따라 귀하의 데이터를 삭제할 것입니다."
 
 #. Key:	0436B0234DFDED64B3A5398B64B83368
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_2.Text
@@ -23795,14 +23455,7 @@ msgstr "방해적인, 나쁜 영향을 주는 또는 차별적인 행동을 하�
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_3.Text
 #: /Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_3.Text
 msgid "- Offensive language, insulting, harassing, or threatening\r\n- Discrimination or hate speech that is based on, including but not limited to, sexual orientation, gender identity, race, religion, and ethnicity.\r\n- Inappropriate game names, such as lewd, derogatory, or insulting.\r\n- Impersonation of any individual, business, or entity for malicious purposes"
-msgstr ""
-"- 모욕, 협박, 괴롭힘
-\n"
-"- 성적 지향, 성 정체성, 인종, 종교 등을 포함한 모든 차별 또는 혐오발언
-\n"
-"- 음란하고 모욕적이거나 모욕적인 게임 이름 등 부적합한 닉네임.
-\n"
-"- 악의적인 목적으로 개인, 기업을 사칭함"
+msgstr "- 모욕, 협박, 괴롭힘\r\n- 성적 지향, 성 정체성, 인종, 종교 등을 포함한 모든 차별 또는 혐오발언\r\n- 음란하고 모욕적이거나 모욕적인 게임 이름 등 부적합한 닉네임.\r\n- 악의적인 목적으로 개인, 기업을 사칭함"
 
 #. Key:	65F1CF9F45C7DB69CA50538DA0DC233B
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.MultiLineEditableTextBox_358.Text
@@ -24165,7 +23818,7 @@ msgstr "비밀번호가 없으면 비워 두십시오."
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_8.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_8.Text
 msgid "Name of the session visible in the server browser"
-msgstr "서버 브라우저에 표시되는 세션 이름"
+msgstr "서버 찾기 탭에 표시되는 세션 이름"
 
 #. Key:	66F2845E4825A9F2189F8FBB9F5E0AA0
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_9.Text
@@ -24804,10 +24457,7 @@ msgstr "R키를 눌러 회전"
 #: /Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.T_PlayerName_2.Text
 #: /Game/Widgets/PlacingHints/UMG_PlacingHintSlotTextOnly.UMG_PlacingHintSlotTextOnly_C:WidgetTree.T_PlayerName_2.Text
 msgid "To pick up, un-equip your weapon\r\nand right-click the placeable"
-msgstr ""
-"아이템 회수를 하려면 장착한 무기를 빼고
-\n"
-"회수할 아이템을 우클릭하세요."
+msgstr "아이템 회수를 하려면 장착한 무기를 빼고\r\n회수할 아이템을 우클릭하세요."
 
 #. Key:	8DD5AA8C48191746C375AFBEABD97A29
 #. SourceLocation:	/Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock.Text
@@ -24819,10 +24469,7 @@ msgstr "누구든지 주울 수 있음"
 #. SourceLocation:	/Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock_1.Text
 msgid "— You cannot pick up\r\n     after placing"
-msgstr ""
-"— 설치 후 주울 수
-\n"
-"     없습니다"
+msgstr "— 설치 후 주울 수\r\n     없습니다"
 
 #. Key:	23102E634EE80FB935AE219C33CC3433
 #. SourceLocation:	/Game/Widgets/PlacingHints/UMG_PlacingHints.UMG_PlacingHints_C:WidgetTree.TextBlock_2.Text
@@ -27114,23 +26761,13 @@ msgstr "신규 하드코어 서버!"
 #. SourceLocation:	/Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock.Text
 msgid "Remember: This mode is designed for experienced players seeking an intense, high-stakes experience. Join only if you're prepared for a true test of your survival skills!\r\n\r\n"
-msgstr ""
-"경고: 이 모드는 강렬하고 큰 위험이 따르는 경험을 원하는 숙련된 플레이어를 위해 설계되었습니다. 자신의 생존 기술을 시험할 준비가 된 경우에만 참여하세요!
-\n"
-"
-\n"
-""
+msgstr "경고: 이 모드는 강렬하고 큰 위험이 따르는 경험을 원하는 숙련된 플레이어를 위해 설계되었습니다. 자신의 생존 기술을 시험할 준비가 된 경우에만 참여하세요!\r\n\r\n"
 
 #. Key:	F31CF44845DBF645554F9CABC37E7AFA
 #. SourceLocation:	/Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.TextBlock_0.Text
 msgid "Please Read Before Joining!\r\n\r\nWe're excited to introduce our new \"Hardcore\" ruleset, now available on one of our official servers. You can easily join by clicking the button in the corner. Below is a list of all the changes compared to our regular PVP server:"
-msgstr ""
-"합류하기 전에 읽어주세요!
-\n"
-"
-\n"
-"새로운 \"하드코어\" 규칙이 적용된 공식 서버를 소개하게 되어 기쁩니다. 코너 버튼을 클릭하면 쉽게 참여할 수 있습니다. 아래는 일반 PVP 서버와 비교한 변경 사항 목록입니다:"
+msgstr "합류하기 전에 읽어주세요!\r\n\r\n새로운 \"하드코어\" 규칙이 적용된 공식 서버를 소개하게 되어 기쁩니다. 코너 버튼을 클릭하면 쉽게 참여할 수 있습니다. 아래는 일반 PVP 서버와 비교한 변경 사항 목록입니다:"
 
 #. Key:	D3D323434EB68CFF19B99C84C334D545
 #. SourceLocation:	/Game/Widgets/UMG_HardcoreNotification.UMG_HardcoreNotification_C:WidgetTree.UMG_BulletPoint.TextToDisplay
