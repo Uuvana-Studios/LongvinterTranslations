@@ -1,4 +1,4 @@
-﻿# GameLocalization Korean (South Korea) translation.
+# GameLocalization Korean (South Korea) translation.
 # © 2021 Uuvana Studios Oy. All Rights Reserved.
 # 
 msgid ""
@@ -378,7 +378,7 @@ msgstr "사격을 도울 금속 조수, 무기 제작에 사용됨"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(106).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(106).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Metal Stock"
-msgstr "금속 비축량"
+msgstr "강철 개머리판"
 
 #. Key:	E3EB7434461886918C8CC3BABCCB5D5D
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(107).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -774,7 +774,7 @@ msgstr "파파베라케애과 파파베로이데애아과의 개화식물"
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(134).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_134.DisplayName
 msgid "Poppy"
-msgstr "퍼피"
+msgstr "양귀비"
 
 #. Key:	14BADFE444AA1CE728DC0DAD8E96E8CE
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(135).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -1029,7 +1029,7 @@ msgstr "흐릿한 단체 활동에서 생선을 즐기고 있음"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(150).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(150).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Misty Grouper"
-msgstr "안갯빛 광어"
+msgstr "잿빛 참바리"
 
 #. Key:	87EE53D24B7EA2BB4A96E4ACAFD2B083
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(151).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -1197,13 +1197,13 @@ msgstr "가장 혹독한 폭풍 속에서도 당신의 하루를 밝혀줍니다
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(162).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(162).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Storm Lamp"
-msgstr "폭풍 랜턴"
+msgstr "호롱등"
 
 #. Key:	9D3FCFC04F656D964C9FDEACABF97B89
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(163).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(163).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Storm Lamp With Stand"
-msgstr "작은 램프 가로등"
+msgstr "스탠드 호롱등"
 
 #. Key:	9AFFC69D4168FC1275DE54934E350BCC
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(164).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -1356,7 +1356,7 @@ msgstr "스타일화된 화병 (녹색)"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(174).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(174).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Stylised Vase With Flowers (Green)"
-msgstr "꽃이 꽂힌 스타일리시한 꽃병 (초록색)"
+msgstr "세련된 꽃병 (초록색)"
 
 #. Key:	71B7156441618F16C4C0B380D66D0BA1
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(175).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -2019,7 +2019,7 @@ msgstr "프로 어부를 위한 낚싯대"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(228).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(228).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Bait Buster"
-msgstr "미끼 파괴자"
+msgstr "미끼 낚싯대"
 
 #. Key:	290736814FF6C0E1C2A69EA9639BEE99
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(229).Items_3_DA3E476B498281EF494BA4AE8483337F.buff_94_5AB2FA614942F1666E8696AF0586F61D.tooltip_16_A97FEB6B4788B180B995339D90761B1F
@@ -2466,7 +2466,7 @@ msgstr "목재 수중 플랫폼"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(262).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(262).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Wooden Water Fence"
-msgstr "나무 물 울타리"
+msgstr "나무 수상 울타리"
 
 #. Key:	848DCC1A4561664180015581B0035312
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(263).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -2478,7 +2478,7 @@ msgstr "고분자 물 플랫폼"
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(264).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(264).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgid "Polymer Water Fence"
-msgstr "고분자 수경계"
+msgstr "폴리머 수상 울타리"
 
 #. Key:	7522172D4E913F0A2B0521B383939E4A
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(266).Items_3_DA3E476B498281EF494BA4AE8483337F.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -3420,7 +3420,7 @@ msgstr "미나리아재비과의 여러해살이풀 식물로 온대지방에 �
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(83).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_83.DisplayName
 msgid "Kingcup"
-msgstr "국화잔"
+msgstr "동의나물"
 
 #. Key:	39DEE3D94F42090A546A74B46F2CA429
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(84).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -3456,7 +3456,7 @@ msgstr "씨앗: 바람꽃"
 #: /Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(87).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_87.DisplayName
 msgid "Hepatica"
-msgstr "간풀꽃"
+msgstr "노루귀"
 
 #. Key:	E85B234848F6DC7ED9D747A9FB4DC9E1
 #. SourceLocation:	/Game/Blueprints/A_ItemDataHolder.Default__A_ItemDataHolder_C.ItemList.Items_3_DA3E476B498281EF494BA4AE8483337F(88).Items_3_DA3E476B498281EF494BA4AE8483337F.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -3956,7 +3956,7 @@ msgstr "구매 완료"
 #: /Game/Blueprints/CharacterCreation/PC_CharacterMenu.PC_CharacterMenu_C:ExecuteUbergraph_PC_CharacterMenu [Script Bytecode]
 #: /Game/Blueprints/Server/GI_AdvancedSessions.GI_AdvancedSessions_C:ExecuteUbergraph_GI_AdvancedSessions [Script Bytecode]
 msgid "Status: Loading Assets"
-msgstr "상태: 로딩중"
+msgstr "상태: 에셋 로딩중"
 
 #. Key:	4D1ABDBF42F5C466AFD04DAA49DC23F5
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
@@ -3965,7 +3965,7 @@ msgstr "상태: 로딩중"
 #: /Game/Blueprints/CharacterCreation/PC_CharacterMenu.PC_CharacterMenu_C:ExecuteUbergraph_PC_CharacterMenu [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:ExecuteUbergraph_UMG_MainMenu [Script Bytecode]
 msgid "Style editor"
-msgstr "스타일 편집기"
+msgstr "스타일 편집"
 
 #. Key:	2408D11E46F633E28CF70A8E16F1142B
 #. SourceLocation:	/Game/Widgets/PlaceableInteractWindow/UMG_BaseGeneratorWindow.UMG_BaseGeneratorWindow_C:WidgetTree.TextBlock_9.Text
@@ -4070,7 +4070,7 @@ msgstr "통화가 부족합니다"
 #: /Game/Blueprints/CharacterCreation/UMG_BuyCompleteWindow.UMG_BuyCompleteWindow_C:CheckUserCoins [Script Bytecode]
 #: /Game/Blueprints/CharacterCreation/UMG_BuyWindow.UMG_BuyWindow_C:CheckUserCoins [Script Bytecode]
 msgid "You don't have a sufficient amount of Vintercoins."
-msgstr "당신은 충분한 양의 Vintercoins를 가지고 있지 않습니다."
+msgstr "Vintercoins가 충분하지 않습니다.."
 
 #. Key:	385F6BED4C9D262E457086A7C1BE50A9
 #. SourceLocation:	/Game/Blueprints/Vendor/UMG_GeneralStore.UMG_GeneralStore_C:WidgetTree.tabText_1.Text
@@ -4100,7 +4100,7 @@ msgstr "아이템이 당신의 인벤토리에 추가되었습니다!"
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_BuyCompleteWindow.UMG_BuyCompleteWindow_C:WidgetTree.T_Title_2.Text
 #: /Game/Blueprints/CharacterCreation/UMG_BuyCompleteWindow.UMG_BuyCompleteWindow_C:WidgetTree.T_Title_2.Text
 msgid "You might also like:"
-msgstr "다음도 좋아할 수 있습니다:"
+msgstr "추천 상품:"
 
 #. Key:	140AEE084CB75E9E3BB2DCAC46821199
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_Rules.UMG_Rules_C:WidgetTree.TextBlock_2.Text
@@ -4265,31 +4265,31 @@ msgstr "나가기"
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock.Text
 msgid "Hat Style"
-msgstr "모자 스타일"
+msgstr "모자"
 
 #. Key:	E151F0A44374F5F109BD108545B7C6C5
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_1.Text
 msgid "Name Bubble"
-msgstr "이름 표시"
+msgstr "이름표"
 
 #. Key:	B37835EA4BA464184C9CC7AF3B17983B
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_2.Text
 #: /Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_2.Text
 msgid "Clothing"
-msgstr "의류"
+msgstr "의상"
 
 #. Key:	F40265B04AE9F1A62D39BCB89B2C0AD3
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_3.Text
 msgid "Gestures"
-msgstr "제스처"
+msgstr "감정표현"
 
 #. Key:	E57DB1E2459D98CB2653CA8EA273602D
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_4.Text
 #: /Game/Blueprints/CharacterCreation/UMG_CharacterEditor.UMG_CharacterEditor_C:WidgetTree.TextBlock_4.Text
 msgid "Hair & Face Style"
-msgstr "헤어 및 얼굴 스타일"
+msgstr "헤어 및 얼굴"
 
 #. Key:	289DB54F4905B21DF97BDFACB5EF7A9E
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_27.Label
@@ -4349,13 +4349,13 @@ msgstr "?"
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_ChestOpeningInPier.UMG_ChestOpeningInPier_C:WidgetTree.TextBlock_6.Text
 #: /Game/Blueprints/CharacterCreation/UMG_ChestOpeningInPier.UMG_ChestOpeningInPier_C:WidgetTree.TextBlock_6.Text
 msgid "BUY KEYS"
-msgstr "키 구매"
+msgstr "열쇠 구매"
 
 #. Key:	51D7F27F463FDEFEF68A2E9BE2D9A7AF
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_DropTable.UMG_DropTable_C:ExecuteUbergraph_UMG_DropTable [Script Bytecode]
 #: /Game/Blueprints/CharacterCreation/UMG_DropTable.UMG_DropTable_C:ExecuteUbergraph_UMG_DropTable [Script Bytecode]
 msgid "Drop Percentages"
-msgstr "떨어트리기 확률"
+msgstr "획득 확률"
 
 #. Key:	92EE8DD5446A25E5BFF79595B2514F02
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_DropTable.UMG_DropTable_C:WidgetTree.TextBlock_1.Text
@@ -4364,19 +4364,19 @@ msgstr "떨어트리기 확률"
 #: /Game/Blueprints/CharacterCreation/UMG_DropTable.UMG_DropTable_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/Tutorials/UMG_Tutorial.UMG_Tutorial_C:WidgetTree.TextBlock_1.Text
 msgid "Don't show tutorials"
-msgstr "튜토리얼 보여주지 마세요"
+msgstr "튜토리얼 다시 보지 않기"
 
 #. Key:	5953C70F42CD288B838A319A25B806C3
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:ExecuteUbergraph_UMG_InGameShop [Script Bytecode]
 #: /Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:ExecuteUbergraph_UMG_InGameShop [Script Bytecode]
 msgid "Vintercoins have been added to your account"
-msgstr "당신의 계정에 Vintercoins이 추가되었습니다."
+msgstr "계정에 Vintercoins가 지급되었습니다."
 
 #. Key:	C93D9FDA4592DFBF2FF9439E174F1944
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Backpacks.Text
 #: /Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Backpacks.Text
 msgid "Backpacks"
-msgstr "배낭들"
+msgstr "배낭"
 
 #. Key:	E79FA7A4489F5562D1026AA132DC6A39
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Emotes.Text
@@ -4388,7 +4388,7 @@ msgstr "여름"
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Faces.Text
 #: /Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Faces.Text
 msgid "Faces"
-msgstr "얼굴들"
+msgstr "얼굴"
 
 #. Key:	61C098954F3B652DC6BA41A4C06D81A7
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_InGameShop.UMG_InGameShop_C:WidgetTree.T_Hats.Text
@@ -5231,13 +5231,13 @@ msgstr "플레이 시간에 기반하여 빈터코인을 획득하세요!"
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_VintercoinRedeemScreen.UMG_VintercoinRedeemScreen_C:ExecuteUbergraph_UMG_VintercoinRedeemScreen [Script Bytecode]
 #: /Game/Blueprints/CharacterCreation/UMG_VintercoinRedeemScreen.UMG_VintercoinRedeemScreen_C:ExecuteUbergraph_UMG_VintercoinRedeemScreen [Script Bytecode]
 msgid "Earn 500 Vintercoins daily by playing actively for at least 30 minutes! Additionally, Vintercoins are available for purchase in the shop."
-msgstr "적어도 30분 동안 활발하게 게임을 플레이하여 매일 500 Vintercoins을 획득하세요! 또한, 가게에서 Vintercoins을 구매할 수도 있습니다."
+msgstr "적어도 30분 동안 활발하게 게임을 플레이하여 매일 500개의 Vintercoins을 획득하세요! 또한, 상점에서 Vintercoins을 구매할 수도 있습니다."
 
 #. Key:	8565AA4044FBA20E4C791F9B4C568BC4
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_VintercoinRedeemScreen.UMG_VintercoinRedeemScreen_C:ExecuteUbergraph_UMG_VintercoinRedeemScreen [Script Bytecode]
 #: /Game/Blueprints/CharacterCreation/UMG_VintercoinRedeemScreen.UMG_VintercoinRedeemScreen_C:ExecuteUbergraph_UMG_VintercoinRedeemScreen [Script Bytecode]
 msgid "You can use Vintercoins to buy items in the store. These coins will reside in your Steam inventory and are not marketable."
-msgstr "Vintercoins을 사용하여 상점에서 아이템을 구매할 수 있습니다. 이 동전들은 당신의 스팀 인벤토리에 보관되며, 거래할 수 없습니다."
+msgstr "Vintercoins을 사용하여 상점에서 아이템을 구매할 수 있습니다. 이 코인들은 당신의 스팀 인벤토리에 보관되며, 거래할 수 없습니다."
 
 #. Key:	BED688A54DDBBE749104CF8352FC9483
 #. SourceLocation:	/Game/Blueprints/CharacterCreation/UMG_VintercoinRedeemScreen.UMG_VintercoinRedeemScreen_C:ExecuteUbergraph_UMG_VintercoinRedeemScreen [Script Bytecode]
@@ -6856,7 +6856,7 @@ msgstr "사격을 도울 금속 조수, 무기 제작에 사용됨"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.106.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Metal Stock"
-msgstr "금속 비축량"
+msgstr "강철 개머리판"
 
 #. Key:	13A032D348AA75EA6B1A4689E6AD785C
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.107.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -7299,7 +7299,7 @@ msgstr "파파베라케애과 파파베로이데애아과의 개화식물"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.134.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Poppy"
-msgstr "퍼피"
+msgstr "양귀비"
 
 #. Key:	135_Description
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.135.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -7615,7 +7615,7 @@ msgstr "흐릿한 단체 활동에서 생선을 즐기고 있음"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.150.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Misty Grouper"
-msgstr "안갯빛 광어"
+msgstr "잿빛 참바리"
 
 #. Key:	151_ItemName
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.151.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -7817,7 +7817,7 @@ msgstr "가장 혹독한 폭풍 속에서도 당신의 하루를 밝혀줍니다
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_162.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Storm Lamp"
-msgstr "폭풍 랜턴"
+msgstr "호롱등"
 
 #. Key:	163_ItemName
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.163.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -7827,7 +7827,7 @@ msgstr "폭풍 랜턴"
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_163.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Storm Lamp With Stand"
-msgstr "작은 램프 가로등"
+msgstr "스탠드 호롱등"
 
 #. Key:	164_Description
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.164.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -8027,7 +8027,7 @@ msgstr "스타일화된 화병 (녹색)"
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_174.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Stylised Vase With Flowers (Green)"
-msgstr "꽃이 꽂힌 스타일리시한 꽃병 (초록색)"
+msgstr "세련된 꽃병 (초록색)"
 
 #. Key:	0AD975D943B0F31D1D0A17B90994F40D
 #. SourceLocation:	/Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_175.DisplayName
@@ -8887,7 +8887,7 @@ msgstr "프로 어부를 위한 낚싯대"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.228.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Bait Buster"
-msgstr "미끼 파괴자"
+msgstr "미끼 낚싯대"
 
 #. Key:	229_buff_tooltip
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.229.buff_94_5AB2FA614942F1666E8696AF0586F61D.tooltip_16_A97FEB6B4788B180B995339D90761B1F
@@ -9460,7 +9460,7 @@ msgstr "목재 수중 플랫폼"
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_262.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Wooden Water Fence"
-msgstr "나무 물 울타리"
+msgstr "나무 수상 울타리"
 
 #. Key:	263_ItemName
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.263.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
@@ -9480,7 +9480,7 @@ msgstr "고분자 물 플랫폼"
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_264.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Polymer Water Fence"
-msgstr "고분자 수경계"
+msgstr "폴리머 수상 울타리"
 
 #. Key:	265_Description
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.265.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -13976,7 +13976,7 @@ msgstr "고약하게 생겼네요. 분명 어딘가 쓸모가 있을 겁니다!"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.555.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Viper's Mane"
-msgstr "독사의 갈기"
+msgstr "독사 버섯"
 
 #. Key:	97137F094320A0390EE9BCB2C9E8D53F
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.556.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -14282,7 +14282,7 @@ msgstr "공간의 두 지점을 즉시 연결합니다."
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_573.DisplayName
 msgctxt "DT_ItemsList"
 msgid "Teleport Gate"
-msgstr "텔레포트 게이트"
+msgstr "순간이동 게이트"
 
 #. Key:	8E057C5A43BE57F6F019D7B25979EEFD
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.574.Description_96_5253D5CA4E19DDBC2A45748CC8FBC46E
@@ -14511,7 +14511,7 @@ msgstr "일일 보상을 더욱 다채롭게."
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.589.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Corn Salsa & Catch"
-msgstr "콘 살사 & 캐치"
+msgstr "옥수수 살사와 생선구이"
 
 #. Key:	59_buff_tooltip
 #. SourceLocation:	/Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.59.buff_94_5AB2FA614942F1666E8696AF0586F61D.tooltip_16_A97FEB6B4788B180B995339D90761B1F
@@ -14951,7 +14951,7 @@ msgstr "미나리아재비과의 여러해살이풀 식물로 온대지방에 �
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.83.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Kingcup"
-msgstr "국화잔"
+msgstr "동의나물"
 
 #. Key:	7BD6BC8547BAEDD89363FEA98DE06DB9
 #. SourceLocation:	/Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_84.DisplayName
@@ -14992,7 +14992,7 @@ msgstr "씨앗: 바람꽃"
 #: /Game/Blueprints/Items/DT_ItemsList.DT_ItemsList.87.ItemName_140_49AEBAFF411339CDDC5B75BD9B47F68E
 msgctxt "DT_ItemsList"
 msgid "Hepatica"
-msgstr "간풀꽃"
+msgstr "노루귀"
 
 #. Key:	4CA7CD5646582DD928DEF4926A569237
 #. SourceLocation:	/Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.item_placeable_88.DisplayName
@@ -19369,7 +19369,7 @@ msgstr "로컬 게이트 주소"
 #. SourceLocation:	/Game/Blueprints/Placeables/ElectricityDevice/UMG_TeleportMachine.UMG_TeleportMachine_C:WidgetTree.T_TentCabin.Text
 #: /Game/Blueprints/Placeables/ElectricityDevice/UMG_TeleportMachine.UMG_TeleportMachine_C:WidgetTree.T_TentCabin.Text
 msgid "Teleport Gate"
-msgstr "텔레포트 게이트"
+msgstr "순간이동 게이트"
 
 #. Key:	7F02D7E24AB785CCD49D4D87B723A70D
 #. SourceLocation:	/Game/Blueprints/Placeables/ElectricityDevice/UMG_TeleportMachine.UMG_TeleportMachine_C:WidgetTree.T_UpgradePath1_1.Text
@@ -23366,7 +23366,7 @@ msgstr "느타리버섯"
 #. SourceLocation:	/Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_555.DisplayName
 #: /Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_555.DisplayName
 msgid "Viper's Mane"
-msgstr "독사의 갈기"
+msgstr "독사 버섯"
 
 #. Key:	A1F3ECDA476E1B15E5F06591B6B37EAD
 #. SourceLocation:	/Game/MapEditor/Catalogue/DT_ObjectCatalogue.DT_ObjectCatalogue.plant_577.DisplayName
@@ -27908,7 +27908,7 @@ msgstr "아이템 줍기"
 #: /Game/Widgets/Icons/Input/UMG_InputQuickstart.UMG_InputQuickstart_C:WidgetTree.UMG_InputKey_3.ActionDescription
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_3.ActionDescription
 msgid "Zoom\r\ncamera"
-msgstr "확대\r\n카메라"
+msgstr "카메라\r\n확대"
 
 #. Key:	143F7AAF4F720318E6C505B7A875896B
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_4.ActionDescription
@@ -28717,7 +28717,7 @@ msgstr "90:00"
 #: /Game/Widgets/UMG_WebsiteMessage.UMG_WebsiteMessage_C:WidgetTree.T_Title.Text
 #: /Game/Widgets/UMG_WipeMessage.UMG_WipeMessage_C:WidgetTree.T_Title.Text
 msgid "Notice"
-msgstr "공지사항"
+msgstr "알림"
 
 #. Key:	5614FD5641B2E85E9A5E59B809D7E1C6
 #. SourceLocation:	/Game/Widgets/Inventory/UMG_HouseUpgrade.UMG_HouseUpgrade_C:WidgetTree.T_TurretButton.Text
@@ -31167,7 +31167,7 @@ msgstr "연결"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ConnectToAddress.UMG_ConnectToAddress_C:WidgetTree.TextBlock_241.Text
 #: /Game/Widgets/MainMenu/UMG_ConnectToAddress.UMG_ConnectToAddress_C:WidgetTree.TextBlock_241.Text
 msgid "This is used for connecting to server in same LAN"
-msgstr "이것은 동일한 LAN에서 서버에 연결하는 데 사용됩니다."
+msgstr "동일한 와이파이에서 서버를 연결하는데 사용하세요."
 
 #. Key:	36C887BA47DB1381294EFDB4869FEB32
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_FeedbackTicket.UMG_FeedbackTicket_C:ExecuteUbergraph_UMG_FeedbackTicket [Script Bytecode]
@@ -31561,7 +31561,7 @@ msgstr "게임 시작"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:MakeContinueButtonTutorial [Script Bytecode]
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:MakeContinueButtonTutorial [Script Bytecode]
 msgid "Continue Tutorial"
-msgstr "튜토리얼 계속"
+msgstr "튜토리얼 계속하기"
 
 #. Key:	2707F78543C6C096EF7BA698DA38C253
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:StopLocalServerMessage [Script Bytecode]
@@ -31621,7 +31621,7 @@ msgstr "옵션"
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_141.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.ET_ServerName.HintText
 msgid "Session name"
-msgstr "세션 이름"
+msgstr "서버 이름"
 
 #. Key:	B3703ED84BE3D86216964CA1E9CD5875
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_2.Text
@@ -31663,7 +31663,7 @@ msgstr "롱빈터를 하고있는 친구가 없습니다."
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_8.Text
 #: /Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_8.Text
 msgid "Next progress reset"
-msgstr "다음 진행 초기화"
+msgstr "다음 초기화 날짜"
 
 #. Key:	5106FAF74055A0D641EEF98FADFD65ED
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_MainMenu.UMG_MainMenu_C:WidgetTree.TextBlock_90.Text
@@ -32234,7 +32234,7 @@ msgstr "비밀번호"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.ET_ServerName.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.ET_ServerName.Text
 msgid "Session Name"
-msgstr "세션 이름"
+msgstr "서버 이름"
 
 #. Key:	D2273C5A445B89B68336D7A772894806
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.SearchBox_1.HintText
@@ -32399,7 +32399,7 @@ msgstr "아일랜드 스튜디오"
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock.Text
 msgid "Custom Level"
-msgstr "커스텀 레벨"
+msgstr "커스텀 맵"
 
 #. Key:	F203ADA14EDDC71977F88B99B5D9129D
 #. SourceLocation:	/Game/Widgets/MainMenu/UMG_ServerBrowser.UMG_ServerBrowser_C:WidgetTree.TextBlock_1.Text
@@ -33269,25 +33269,25 @@ msgstr "발전기 소리 볼륨"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C.Label
 #: /Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C.Label
 msgid "Foot Steps"
-msgstr "발걸음 소리"
+msgstr "발소리"
 
 #. Key:	9F08B69F4D9DD714F97A34B028C93C91
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_1.Label
 #: /Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_1.Label
 msgid "Master"
-msgstr "마스터"
+msgstr "전체 음량"
 
 #. Key:	0CC2D0AB474DD16A506954B4DC542590
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_2.Label
 #: /Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_2.Label
 msgid "User interface"
-msgstr "사용자 인터페이스"
+msgstr "UI 음량"
 
 #. Key:	18C586EC4017E77727B7498303D090C3
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_7.Label
 #: /Game/Widgets/SettingsMenu/Pages/AudioSettingsPage.AudioSettingsPage_C:WidgetTree.SettingRow_C_7.Label
 msgid "Weapon effects"
-msgstr "무기의 소리"
+msgstr "무기 음량"
 
 #. Key:	AE5731424491A32F4AF6AB81BD352D35
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:ExecuteUbergraph_GeneralSettingsPage [Script Bytecode]
@@ -33335,7 +33335,7 @@ msgstr "먹는 상태 이모지 표시"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_11.Label
 #: /Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_11.Label
 msgid "Always show cosmetics"
-msgstr "항상 치장 아이템 표시 (장착 아이템이 보이지 않게함)"
+msgstr "항상 치장 아이템 표시 (장착한 모자 등을 보이지 않게함)"
 
 #. Key:	5EFBED384A8CD22284A9A2942E2C1241
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_12.Label
@@ -33365,7 +33365,7 @@ msgstr "마우스 커서 사이즈"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_15.Label
 #: /Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_15.Label
 msgid "Re-sync Prestige; use when your prestige is incorrect."
-msgstr "프레스티지 재동기화; 프레스티지가 정확하지 않을 때 사용."
+msgstr "명성 재동기화, 명성이 맞지 않을 때 사용"
 
 #. Key:	D9B4568A45FB65DAB7A405BAD38EDC62
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_183.Label
@@ -33389,7 +33389,7 @@ msgstr "아이템을 설치한 후 자동으로 인벤토리 열기"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_4.Label
 #: /Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_4.Label
 msgid "Streamer mode (Hide sensitive information during gameplay)"
-msgstr "스트리머 모드 ( 게임 플레이 중 민감한 정보 숨기기)"
+msgstr "스트리머 모드 (게임 플레이 중 민감한 정보 숨기기)"
 
 #. Key:	047C434E4DC5A07289618C82EBD4CAA5
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/GeneralSettingsPage.GeneralSettingsPage_C:WidgetTree.SettingRow_5.Label
@@ -33467,7 +33467,7 @@ msgstr "플레이스테이션"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_10.Label
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_10.Label
 msgid "Rotate clockwise / Use pouch"
-msgstr "시계 방향으로 회전 / 주머니 사용"
+msgstr "시계 방향으로 회전 / 파우치 사용"
 
 #. Key:	DEBD6AB14CF2B47DE5958B9806BE9C72
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_11.Label
@@ -33509,7 +33509,7 @@ msgstr "제스처 휠"
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_2.Label
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_2.Label
 msgid "Aim / Disassemble"
-msgstr "조준 / 줍기"
+msgstr "조준 / 회수"
 
 #. Key:	6CCFCBC349B006CD9222C2BB8C691E59
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_20.Label
@@ -33560,7 +33560,7 @@ msgstr "제스처 6"
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_3.Label
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_9.ActionDescription
 msgid "Forward"
-msgstr "앞"
+msgstr "앞으로 이동"
 
 #. Key:	8F3F8D104F4407281C1E3E8E7A01E830
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_10.ActionDescription
@@ -33578,7 +33578,7 @@ msgstr "뒤로 이동"
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_5.Label
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_11.ActionDescription
 msgid "Right"
-msgstr "오른쪽"
+msgstr "오른쪽으로 이동"
 
 #. Key:	5CCB3A794EE4FED2DF91CEB148761025
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_12.ActionDescription
@@ -33587,7 +33587,7 @@ msgstr "오른쪽"
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_6.Label
 #: /Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_12.ActionDescription
 msgid "Left"
-msgstr "왼쪽"
+msgstr "왼쪽으로 이동"
 
 #. Key:	040EED7F41A33CFFA65385B56D251AEF
 #. SourceLocation:	/Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_7.Label
@@ -33596,7 +33596,7 @@ msgstr "왼쪽"
 #: /Game/Widgets/SettingsMenu/Pages/InputSettingsPage.InputSettingsPage_C:WidgetTree.InputRow_C_7.Label
 #: /Game/Widgets/UMG_Inputs.UMG_Inputs_C:WidgetTree.TextBlock_130.Text
 msgid "Shoot / Interact"
-msgstr "발포(좌클릭) / 상호작용(우클릭)"
+msgstr "발사 / 상호작용"
 
 #. Key:	01F23AA54CBE2CFB78A803BD5AC83E5C
 #. SourceLocation:	/Game/Widgets/Tutorials/UMG_AllKeyBinds.UMG_AllKeyBinds_C:WidgetTree.UMG_InputKey_8.ActionDescription
@@ -35773,14 +35773,14 @@ msgstr "{0} · 창작마당"
 #: Source/Longvinter/IslandStudioLauncher.cpp(163)
 msgctxt "IslandStudio"
 msgid "Island Studio"
-msgstr "아일랜드 스튜디오"
+msgstr "Island Studio"
 
 #. Key:	TravelStatus
 #. SourceLocation:	Source/Longvinter/IslandStudioLauncher.cpp(171)
 #: Source/Longvinter/IslandStudioLauncher.cpp(171)
 msgctxt "IslandStudio"
 msgid "Joining Island"
-msgstr "섬 참가 중"
+msgstr "섬에 입장하고 있습니다.."
 
 #. Key:	IslandStudio_015278CF889C71F9CF3D7C8E14F84623B636CD81
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(10)
@@ -35948,7 +35948,7 @@ msgstr "A_Vendor 리플렉션 필드를 읽을 수 없습니다"
 #: Source/Longvinter/IslandStudioLocalization.cpp(102)
 msgctxt "WebUIX.HTML"
 msgid "Island Studio"
-msgstr "아일랜드 스튜디오"
+msgstr "Island Studio""
 
 #. Key:	IslandStudio_EC821B24B6C55D9E5EF0F7F16F48E1C7467FBC37
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(1020)
@@ -36557,7 +36557,7 @@ msgstr "커스텀 정찰을 위해 지점을 최소 2개 이상 설정하세요.
 #: Source/Longvinter/IslandStudioLocalization.cpp(1099)
 msgctxt "WebUIX.HTML"
 msgid "TRANSFORM"
-msgstr "변형"
+msgstr "트랜스폼"
 
 #. Key:	IslandStudio_0183B502AB74603CBF8F732E009D0DE06D555804
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(11)
@@ -36739,14 +36739,14 @@ msgstr "나무"
 #: Source/Longvinter/IslandStudioLocalization.cpp(129)
 msgctxt "WebUIX.HTML"
 msgid "Birch grass"
-msgstr "자작나무 잔디"
+msgstr "봄 잔디"
 
 #. Key:	IslandStudio_0262B0A731EF5B7129980C06906491D4C354B6E6
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(13)
 #: Source/Longvinter/IslandStudioLocalization.cpp(13)
 msgctxt "WebUIX.HTML"
 msgid "Grass meadow"
-msgstr "풀밭 초원"
+msgstr "초원"
 
 #. Key:	IslandStudio_1EA8CF9E4544F559DC7F19DCFBB404854F52A885
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(130)
@@ -39308,7 +39308,7 @@ msgstr "그리드"
 #: Source/Longvinter/IslandStudioLocalization.cpp(462)
 msgctxt "WebUIX.HTML"
 msgid "+   Paint land"
-msgstr "+   땅 칠하기"
+msgstr "+   지형 칠하기"
 
 #. Key:	IslandStudio_709A23220F2C3D64D1E1D6D18C4D5280F8D82FCA
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(463)
@@ -39805,7 +39805,7 @@ msgstr "가시성"
 #: Source/Longvinter/IslandStudioLocalization.cpp(527)
 msgctxt "WebUIX.HTML"
 msgid "Landscape"
-msgstr "풍경"
+msgstr "지형"
 
 #. Key:	IslandStudio_7DD815B7109C736E80A02A3C9109E7AC2AB778AE
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(528)
@@ -40099,7 +40099,7 @@ msgstr "프리셋 위치 설정 형식이 잘못되었거나 지원 범위를 �
 #: Source/Longvinter/IslandStudioLocalization.cpp(565)
 msgctxt "WebUIX.HTML"
 msgid "Forest grass"
-msgstr "숲 풀밭"
+msgstr "숲"
 
 #. Key:	IslandStudio_84E026970BD19D8FD69C96575C582A9AFF2D0778
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(566)
@@ -40148,7 +40148,7 @@ msgstr "낚시터 세부 정보 업데이트됨 — 유지하려면 임시 저�
 #: Source/Longvinter/IslandStudioLocalization.cpp(571)
 msgctxt "WebUIX.HTML"
 msgid "TERRAIN"
-msgstr "지형"
+msgstr "TERRAIN"
 
 #. Key:	IslandStudio_87E48C11DDF34E1FC5E07E403B2A35945F56DA44
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(572)
@@ -41681,7 +41681,7 @@ msgstr "나무를 선택한 다음, 지도를 클릭해 배치하세요."
 #: Source/Longvinter/IslandStudioLocalization.cpp(770)
 msgctxt "WebUIX.HTML"
 msgid "Collectables"
-msgstr "수집품"
+msgstr "수집 요소"
 
 #. Key:	IslandStudio_B2C4C20E6FA5396114AAF5B8CBFFD3EFC026B01F
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(771)
@@ -42143,7 +42143,7 @@ msgstr "상인 퀘스트가 업데이트되었습니다. 변경 사항을 유지
 #: Source/Longvinter/IslandStudioLocalization.cpp(830)
 msgctxt "WebUIX.HTML"
 msgid "✦   Paint surface"
-msgstr "✦   표면 페인트"
+msgstr "✦   지형 페인팅"
 
 #. Key:	IslandStudio_C10182A032BD5862466AD13003F1770BAF645C18
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(831)
@@ -42227,7 +42227,7 @@ msgstr "건축 차단 반경(미터)"
 #: Source/Longvinter/IslandStudioLocalization.cpp(841)
 msgctxt "WebUIX.HTML"
 msgid "GROUND SURFACES"
-msgstr "지면 표면"
+msgstr "지형 재질"
 
 #. Key:	IslandStudio_C3608DA7A6933F92BB0B7FB52E1287CF6D9A45BB
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(842)
@@ -43333,7 +43333,7 @@ msgstr "커스텀 HTML/CSS UI"
 #: Source/Longvinter/IslandStudioLocalization.cpp(984)
 msgctxt "WebUIX.HTML"
 msgid "Locations"
-msgstr "위치"
+msgstr "배치물"
 
 #. Key:	IslandStudio_E5AB7B6ABD8A5E0AB3632249AF78518F2D928E8E
 #. SourceLocation:	Source/Longvinter/IslandStudioLocalization.cpp(985)
@@ -43568,4 +43568,3 @@ msgstr "섬 불러오기 완료. 플레이어 준비 중..."
 msgctxt "IslandStudio"
 msgid "Close preview (Escape)"
 msgstr "미리보기 닫기 (Escape)"
-
